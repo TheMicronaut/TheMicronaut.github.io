@@ -1,0 +1,1 @@
+ruby -rubygems -e 'require "jekyll-import";  JekyllImport::Importers::Tumblr.run({ url:  "http://themicronaut.tumblr.com", format: "md", grab_images: false, add_highlights: false, rewrite_urls: false })'
