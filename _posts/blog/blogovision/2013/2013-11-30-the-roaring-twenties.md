@@ -1,6 +1,8 @@
 ---
 layout: post
 categories: blog
+share: true
+comments: true
 title: '#Blogovision: The Roaring Twenties'
 date: '2013-11-30T19:29:00+01:00'
 tags: [blogovision, blogovision2013]

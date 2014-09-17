@@ -1,6 +1,8 @@
 ---
 layout: post
 categories: blog
+share: true
+comments: true
 title: '#Blogovision: Notable outcasts from my Top50 (part-1)'
 date: '2013-11-26T23:58:00+01:00'
 tags: [blogovision, blogovision2013]

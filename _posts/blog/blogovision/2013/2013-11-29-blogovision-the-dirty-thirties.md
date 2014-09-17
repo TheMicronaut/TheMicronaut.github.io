@@ -1,6 +1,8 @@
 ---
 layout: post
 categories: blog
+share: true
+comments: true
 title: '#Blogovision: The Dirty Thirties '
 date: '2013-11-29T21:35:00+01:00'
 tags: [blogovision, blogovision2013]

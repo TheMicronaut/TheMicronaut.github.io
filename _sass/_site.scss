@@ -114,14 +114,14 @@ a {
 	text-decoration: none;
 	color: $link-color; 
 	&:visited { 
-		color: lighten($link-color, 20); 
+		color: lighten($link-color, 30); 
 	}
 	&:hover { 
-		color: darken($link-color, 20); 
+		color: darken($link-color, 30); 
 	}
 	&:focus { 
 		outline: thin dotted; 
-		color: darken($link-color, 20);
+		color: darken($link-color, 30);
 	}
 	&:hover, 
 	&:active { 
@@ -140,7 +140,7 @@ a {
 // --------------------------------------------------
 
 figcaption {
-	padding-top: 10px;
+	padding-top: 5px;
 	@include font-size(14);
 	line-height: 1.3;
 	color: lighten($text-color, 10);
