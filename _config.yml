@@ -43,10 +43,10 @@ owner:
   linkedin: #username
   instagram: aleh.andro
   flickr: #username
-  tumblr: #username
+  tumblr: themicronaut
   google:
-    plus: #username
-    analytics:
+    plus: AlehMicronaut
+    analytics: UA-54877893-1
     verify:
     ad-client:
     ad-slot: 
