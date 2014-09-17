@@ -1,11 +1,22 @@
 # Authors
 
-aleh:
+Aleh:
   name: Aleh
-  web: http://thewhip.com
+  web: http://themicronaut.github.com
   email: moonlight.fairytales@gmail.com
   bio: 
-  avatar: bio-photo-2.jpg
+  avatar: aleh.png
   twitter: the_micronaut
   google:
-    plus: 
+    plus: AlehMicronaut
+
+    
+Micronaut:
+  name: The Micronaut
+  web: http://themicronaut.github.com
+  email: moonlight.fairytales@gmail.com
+  bio: 
+  avatar: site-logo.png
+  twitter: the_micronaut
+  google:
+    plus: AlehMicronaut
