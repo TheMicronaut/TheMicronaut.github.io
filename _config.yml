@@ -2,10 +2,10 @@
 
 title: Micronaut's Blog
 locale: en_US
-description: The adventures of Aleh and his micronaut
+description: The adventures of Aleh and the micronaut
 logo: site-logo.png
 search: true
-url: http://themicronaut.github.io/
+url: http://themicronaut.github.io
 
 
 # Jekyll configuration
