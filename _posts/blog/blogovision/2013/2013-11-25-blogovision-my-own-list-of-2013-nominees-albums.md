@@ -3,7 +3,7 @@ layout: post
 categories: blog
 share: true
 comments: true
-title: '#Blogovision : My own list of 2013 nominees (albums)'
+title: 'Blogovision - My own list of 2013 nominees (albums)'
 date: '2013-11-25T01:09:40+01:00'
 tags: [blogovision, blogovision2013]
 link: http://themicronaut.tumblr.com/post/68009214005/blogovision-my-own-list-of-2013-nominees-albums
