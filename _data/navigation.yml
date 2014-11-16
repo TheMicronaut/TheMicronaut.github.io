@@ -1,7 +1,7 @@
 # Site navigation links
 
-#- title: About
-#  url: /about/
+#- title: Feed
+#  url: /Feed.xml
 
 #- title: Articles
 #  url: /articles/
