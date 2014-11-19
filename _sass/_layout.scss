@@ -244,8 +244,8 @@ span + .entry-title {
 	font-style: italic;
 	@include font-size(18,yes,18);
 	font-weight: 200;
-	line-height: 1;
-	letter-spacing: -1px;
+	line-height: 0.8;
+	letter-spacing: -2px;
 	a {
 		color: $black;
 		text-decoration: underline;
