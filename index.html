@@ -8,7 +8,7 @@ excerpt: "The main page."
 {% for post in site.posts limit:10 %} 
   <li><article><a class="alt-font-normal" href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
       <span class="alt-font-small">{{ post.excerpt | strip_html | truncatewords:75}}</span><br>
-      {% for tag in post.tags %}<a class="alt-font-normal" href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}<br>
+      {% for tag in post.tags %}<a class="alt-font-small" href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}<br>
       <a href="{{ post.url }}">Read more...</a><br><br>
 {% endfor %}
 </ul>
