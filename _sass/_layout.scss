@@ -239,23 +239,17 @@ span + .entry-title {
 	}
 }
 
-.entry-title-normalsize {
+.entry-title-normal {
 	font-family: $alt-font;
 	font-style: italic;
-	@include font-size(14,yes,14);
-	font-weight: 100;
+	@include font-size(18,yes,18);
+	font-weight: 200;
 	line-height: 1;
 	letter-spacing: -1px;
 	a {
 		color: $black;
 		text-decoration: underline;
 	}
-//	@include media($medium) {
-//		@include font-size(52,yes,54);
-//	}
-//	@include media($large) {
-//		@include font-size(68,yes,72);
-//	}
  }
 
  .entry-wrapper {
