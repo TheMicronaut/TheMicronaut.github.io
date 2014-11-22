@@ -10,55 +10,107 @@ hr {
 
 // Figures and images
 // --------------------------------------------------
+//figure {
+//  margin: 0;
+//  padding-top: 10px;
+//  padding-bottom: 10px;
+//  @include clearfix;
+// img {
+//    margin-bottom: 10px;
+//  }
+//  a { 
+//    img {
+//      @include transform(translateY(0));
+//      -webkit-transition-duration: 0.25s;
+//      -moz-transition-duration: 0.25s;
+//      -o-transition-duration: 0.25s;
+//      opacity: 0.7;
+//      &:hover {
+//        @include transform(translateY(-5px));
+//        @include box-shadow(0 0 10px rgba($black, .20));
+//        opacity: 1;
+//      }
+//    }
+//  }
+//  &.half {
+//    @include media($large) {
+//      img {
+//        width: 47.5%;
+//       float: left;
+//        margin-right: 2.5%;
+//        margin-bottom: 2.5%;
+//      }
+//      figcaption {
+//        clear: left;
+//      }
+//    }
+//  }
+//  &.third {
+//    @include media($large) {
+//      img {
+//        width: 30.8%;
+//        float: left;
+//        margin-right: 2.5%;
+//        margin-bottom: 2.5%;
+//      }
+//      figcaption {
+//        clear: left;
+//      }
+//    }
+//  }
+//}
+
 figure {
-  margin: 0;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  @include clearfix;
-  img {
-    margin-bottom: 10px;
-  }
-  a { 
-    img {
-      @include transform(translateY(0));
-      -webkit-transition-duration: 0.25s;
-      -moz-transition-duration: 0.25s;
-      -o-transition-duration: 0.25s;
-      opacity: 0.7;
-      &:hover {
-        @include transform(translateY(-5px));
-        @include box-shadow(0 0 10px rgba($black, .20));
-        opacity: 1;
-      }
-    }
-  }
-  &.half {
-    @include media($large) {
-      img {
-        width: 47.5%;
-        float: left;
-        margin-right: 2.5%;
-        margin-bottom: 2.5%;
-      }
-      figcaption {
-        clear: left;
-      }
-    }
-  }
-  &.third {
-    @include media($large) {
-      img {
-        width: 30.8%;
-        float: left;
-        margin-right: 2.5%;
-        margin-bottom: 2.5%;
-      }
-      figcaption {
-        clear: left;
-      }
-    }
-  }
+	margin-left: -1 * $gutter;
+	margin-right: -1 * $gutter;
+	// full width figures on small screens
+	@include media($medium) {
+		margin-left: 0;
+		margin-right: 0;
+		position: relative;
+	}
+	@include clearfix;
+	img {
+		margin-bottom: 0px + $doc-line-height;
+		margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+	}
+	a {
+		img {
+			// Image hover animation
+			&:hover {
+				@include animation(pop .3s 0 linear);
+				box-shadow: 0 0 10px rgba($black, .20);
+			}
+		}
+	}
+	&.half {
+		@include outer-container;
+		@include media($medium) {
+			a,
+			> img {
+				@include span-columns(6);
+				@include omega(2n);
+			}
+			figcaption {
+				clear: left;
+			}
+		}
+	}
+	&.third {
+		@include outer-container;
+		@include media($medium) {
+			a,
+			> img {
+				@include span-columns(4);
+				@include omega(3n);
+			}
+			figcaption {
+				clear: left;
+			}
+		}
+	}
 }
+
 svg:not(:root) {
   overflow: hidden; 
 }
