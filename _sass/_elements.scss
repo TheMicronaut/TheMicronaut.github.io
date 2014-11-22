@@ -76,10 +76,16 @@ figure {
 	}
 	a {
 		img {
+        -webkit-transition-duration: 0.25s;
+        -moz-transition-duration: 0.25s;
+        -o-transition-duration: 0.25s;
+        opacity: 0.9; 
 			// Image hover animation
 			&:hover {
-				@include animation(pop .3s 0 linear);
-				box-shadow: 0 0 10px rgba($black, .20);
+				//@include transform(translateY(-5px));
+                @include animation(pop .3s 0 linear);
+                @include box-shadow(0 0 10px rgba($black, .20));
+                opacity: 1;
 			}
 		}
 	}
