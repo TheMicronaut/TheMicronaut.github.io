@@ -36,11 +36,11 @@ hr {
 /* arrow icon (span tag) */
 #back-top span {
 	//width: 70px;
-	height: 64px;
+	height: 167px;
 	display: block;
 	margin-bottom: 7px;
 	background: transparent url("../../images/icon_top.png") no-repeat center center;
-    opacity: 0.8;
+    opacity: 0.6;
 	/* background color transition */
 	-webkit-transition: 1s;
 	-moz-transition: 1s;
@@ -51,8 +51,8 @@ hr {
     }    
 }
 #back-top a:hover span {
-	background: transparent url("../../images/icon_top-hover.png") no-repeat center center;
-    opacity: 1;
+	//background: transparent url("../../images/icon_top-hover.png") no-repeat center center;
+    opacity: 0.9;
 }
 
 
