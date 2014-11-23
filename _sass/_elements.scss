@@ -37,18 +37,18 @@ hr {
 	height: 70px;
 	display: block;
 	margin-bottom: 7px;
-	background: #ddd url("../../images/icon_top.png") no-repeat center center;
+	background: transparent url("../../images/icon_top.png") no-repeat center center;
 	/* rounded corners */
-	-webkit-border-radius: 15px;
-	-moz-border-radius: 15px;
-	border-radius: 15px;
+	//-webkit-border-radius: 15px;
+	//-moz-border-radius: 15px;
+	//border-radius: 15px;
 	/* background color transition */
 	-webkit-transition: 1s;
 	-moz-transition: 1s;
 	transition: 1s;
 }
 #back-top a:hover span {
-	background-color: #777;
+	background: transparent url("../../images/icon_top-hover.png") no-repeat center center;
 }
 
 
