@@ -14,6 +14,7 @@ hr {
 	position: fixed;
 	bottom: 30px;
 	//margin-left: -150px;
+    outline: none;
 }
 #back-top a {
 	width: 108px;
@@ -33,11 +34,12 @@ hr {
 }
 /* arrow icon (span tag) */
 #back-top span {
-	width: 70px;
-	height: 70px;
+	//width: 70px;
+	//height: 70px;
 	display: block;
 	margin-bottom: 7px;
 	background: transparent url("../../images/icon_top.png") no-repeat center center;
+    opacity: 0.8;
 	/* rounded corners */
 	//-webkit-border-radius: 15px;
 	//-moz-border-radius: 15px;
@@ -49,6 +51,7 @@ hr {
 }
 #back-top a:hover span {
 	background: transparent url("../../images/icon_top-hover.png") no-repeat center center;
+    opacity: 1.0;
 }
 
 
