@@ -53,6 +53,7 @@
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
+        <a href="#post" class="btn" title="Top">Back to Top</a>
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
       {% endif %}
@@ -60,7 +61,9 @@
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">   Next   </a>
       {% endif %}
     </nav><!-- /.pagination -->
-    <a href="#" class="scrollup">Back to Top</a>
+      <p id="back-top">
+            <a href="#post"><span></span>Back to Top</a>
+      </p>    
   </article>
 </div><!-- /#main -->
 

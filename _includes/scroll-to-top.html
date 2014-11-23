@@ -1,34 +1,27 @@
 <script type="text/javascript">
-$(document).ready(function () {
+$(document).ready(function(){
 
-    $(window).scroll(function () {
-        if ($(this).scrollTop() > 100) {
-            $('.scrollup').fadeIn();
-        } else {
-            $('.scrollup').fadeOut();
-        }
-    });
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
 
-    $('.scrollup').click(function () {
-        $("html, body").animate({
-            scrollTop: 0
-        }, 600);
-        return false;
-    });
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
 
 });
 </script>
-
-<style>
-.scrollup {
-    width: 40px;
-    height: 40px;
-    position: fixed;
-    bottom: 50px;
-    right: 100px;
-    display: none;
-    text-indent: -9999px;
-    background: url('http://themicronaut.github.io/images/icon_top.png') no-repeat;
-    background-color: #000;
-}
-</style>
