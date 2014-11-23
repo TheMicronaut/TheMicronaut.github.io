@@ -14,7 +14,7 @@ hr {
 	position: fixed;
 	bottom: 30px;
 	//margin-left: -150px;
-    outline: none;
+    outline: none !important;
 }
 #back-top a {
 	width: 108px;
@@ -24,6 +24,7 @@ hr {
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #bbb;
+    outline: none !important;
 	/* background color transition */
 	-webkit-transition: 1s;
 	-moz-transition: 1s;
@@ -40,10 +41,6 @@ hr {
 	margin-bottom: 7px;
 	background: transparent url("../../images/icon_top.png") no-repeat center center;
     opacity: 0.8;
-	/* rounded corners */
-	//-webkit-border-radius: 15px;
-	//-moz-border-radius: 15px;
-	//border-radius: 15px;
 	/* background color transition */
 	-webkit-transition: 1s;
 	-moz-transition: 1s;
