@@ -11,7 +11,7 @@ tags: [blogovision, blogovision2014]
 author: Micronaut
 ---
 <figure>
-	<a href="/images/posts/beauty-above-40.png"><img src="/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" style="text-align:center;"/></a>
+	<a href="/images/posts/beauty-above-40.png"><img src="/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" class="center"/></a>
 </figure>
 
 Υπάρχει ομορφιά μετά τα σαράντα; Ηλίθια ερώτηση θα σκεφτείς και θα συμφωνήσω. Θέλει [τέχνη να ρωτάς](http://www.ted.com/talks/amanda_palmer_the_art_of_asking?language=en) είναι η αλήθεια. Κι αν πάλι ρωτήσεις γιατί τα παρακάτω άλμπουμ είναι σ' αυτή τη θέση, και πάλι άτεχνη η ερώτηση θα σου απαντήσω. Αν ωστόσο με ρωτούσε κάποιος ποια φετινά άλμπουμ θα έπαιρνα στο ταξίδι μας, στο mp3-player που χωράει μόνο 50 albums, σίγουρα τα παρακάτω [διαμάντια](/blog/complete-list-2014/) θα ήταν μέσα σ' αυτά.  Τα παραθέτω με **σειρά προτεραιότητας**, μη τυχόν δε και χωρέσουν στον player! :)
