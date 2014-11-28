@@ -8,6 +8,19 @@ hr {
     border-bottom: 1px solid #fff; 
 }
 
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Square bullets everywhere
+ul li:before{ 
+    list-style-image: square; 
+    font-size:10pt; 
+}
+
+
 // Back to top
 // --------------------------------------------------
 #back-top {
@@ -127,7 +140,7 @@ figure {
         //-webkit-transition-duration: 0.25s;
         //-moz-transition-duration: 0.25s;
         //-o-transition-duration: 0.25s;
-        opacity: 0.9; 
+        opacity: 1; 
 			// Image hover animation
 			&:hover {
 				//@include transform(translateY(-5px));
