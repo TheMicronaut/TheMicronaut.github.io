@@ -37,6 +37,9 @@ p {
 
 li {
 	@include font-size(16,12,24);
+}
+
+li.entry-content {
     list-style-type: square; 
 }
 
