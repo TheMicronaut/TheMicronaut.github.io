@@ -39,7 +39,7 @@ li {
 	@include font-size(16,12,24);
 }
 
-li.entry-content {
+div.entry-content  li {
     list-style-type: square; 
 }
 
