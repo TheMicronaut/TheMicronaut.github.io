@@ -39,10 +39,9 @@ li {
 	@include font-size(16,12,24);
 }
 
-div.entry-content  li {
-    list-style-type: square; 
-    font-size:10pt;
-}
+//div.square-bullets  li {
+//    list-style-type: square; 
+//}
 
 // Headings
 h1, h2, h3, h4, h5, h6 {
