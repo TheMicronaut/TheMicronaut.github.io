@@ -20,10 +20,10 @@ author: Micronaut
 *Color:* alternative::rock::avant-guarde<br/>
 *Favorite tracks:*  The One I Love	 / Seven Two / Barragán / Mind To Be Had
 
-> She does nothing all day<br/>
+> "She does nothing all day<br/>
 > But sit down and cry<br/>
 > She touches the sky<br/>
-> And wishes to play<br/>
+> And wishes to play"<br/>
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/lNio2xDwTYg" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
@@ -36,10 +36,10 @@ author: Micronaut
     <figcaption>Shara Worden of My Brightest Diamond, live @ Cross-linx festival Eindhoven, 7 Feb 2014. Photo credits: Aleh</figcaption>
 </figure>
 
-> Diamonds, so wild I cannot tame<br/>
+> "Diamonds, so wild I cannot tame<br/>
 > So shiny I cannot name<br/>
 > All of this pressure's making<br/>
-> Diamonds, disperse the white light.<br/>
+> Diamonds, disperse the white light"<br/>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1591526864/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1342470013/transparent=true/" seamless><a href="http://mybrightestdiamond.bandcamp.com/album/this-is-my-hand">This Is My Hand by My Brightest Diamond</a>&nbsp;</iframe>
 
@@ -58,7 +58,7 @@ author: Micronaut
 *Color:* ‎blues::‎folk::‎grunge‬<br/>
 *Favorite tracks:*  Is What It Is / Raven
 
-> do not surrender<br/>
+> "do not surrender"<br/>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3433133780/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4226925575/transparent=true/" seamless><a href="http://shekeepsbees.com/album/eight-houses">Eight Houses by She Keeps Bees</a>&nbsp;</iframe>
 
