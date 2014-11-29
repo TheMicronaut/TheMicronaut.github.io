@@ -346,7 +346,7 @@ span + .entry-title {
 .post-list {
 	margin: 0;
 	padding: 0;
-	list-style-type: none;
+	list-style-type: none !important;
 	li {
 		padding: 8px 0;
 		border-bottom: 1px solid lighten($black,80);
