@@ -250,7 +250,16 @@ span + .entry-title {
 	}
  }
  
- .alt-font-small {
+.alt-font-small {
+	font-family: $alt-font;
+	@include font-size(16,yes,16);
+	a {
+		color: $black;
+		text-decoration: underline !important;
+	}
+ }
+ 
+.alt-font-smallest {
 	font-family: $alt-font;
 	@include font-size(14,yes,14);
 	a {
