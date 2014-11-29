@@ -142,15 +142,6 @@ a {
 
 // Figures
 // --------------------------------------------------
-
-// original figcaption
-//figcaption {
-//	padding-top: 3px;
-//	@include font-size(14);
-//	line-height: 1.2;
-//	color: lighten($text-color, 10);
-//}
-
 figcaption {
 	padding-left: 2 * $gutter;
 	padding-right: 2 * $gutter;

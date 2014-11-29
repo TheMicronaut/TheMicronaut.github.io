@@ -14,7 +14,7 @@ author: Micronaut
 	<a href="/images/posts/beauty-above-40.png"><img src="/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" class="center"/></a>
 </figure>
 
-Υπάρχει ομορφιά μετά τα σαράντα; Ηλίθια ερώτηση θα σκεφτείς και θα συμφωνήσω. Θέλει [τέχνη να ρωτάς](http://www.ted.com/talks/amanda_palmer_the_art_of_asking?language=en) είναι η αλήθεια. Κι αν πάλι ρωτήσεις γιατί τα παρακάτω άλμπουμ είναι σ' αυτή τη θέση, και πάλι άτεχνη η ερώτηση θα σου απαντήσω. Αν ωστόσο με ρωτούσε κάποιος ποια φετινά άλμπουμ θα έπαιρνα στο ταξίδι μας, στο mp3-player που χωράει μόνο 50 albums, σίγουρα τα παρακάτω [διαμάντια](/blog/complete-list-2014/) θα ήταν μέσα σ' αυτά.  Τα παραθέτω με **σειρά προτεραιότητας**, μη τυχόν δε και χωρέσουν στον player! :)
+Υπάρχει ομορφιά μετά τα σαράντα; Ηλίθια ερώτηση θα σκεφτείς και θα συμφωνήσω. Θέλει [τέχνη να ρωτάς](http://www.ted.com/talks/amanda_palmer_the_art_of_asking?language=en){:target="_blank"} είναι η αλήθεια. Κι αν πάλι ρωτήσεις γιατί τα παρακάτω άλμπουμ είναι σ' αυτή τη θέση, και πάλι άτεχνη η ερώτηση θα σου απαντήσω. Αν ωστόσο με ρωτούσε κάποιος ποια φετινά άλμπουμ θα έπαιρνα στο ταξίδι μας, στο mp3-player που χωράει μόνο 50 albums, σίγουρα τα παρακάτω [διαμάντια](/blog/complete-list-2014/){:target="_blank"} θα ήταν μέσα σ' αυτά.  Τα παραθέτω με **σειρά προτεραιότητας**, μη τυχόν δε και χωρέσουν στον player! :)
 
 ##### 50 &#x261B; Leonard Cohen - Popular Problems
 *Color:* folk::blues<br/>
@@ -77,7 +77,7 @@ author: Micronaut
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=912886997/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3326116588/transparent=true/" seamless><a href="http://dmp666.bandcamp.com/album/teeth-toes-and-other-trinkets">Teeth, Toes And Other Trinkets by MANES</a>&nbsp;</iframe>
 
 #### Check also this…
-* [The Glorious Outcasts - 2014](/blog/blogovision2014-the-glorious-outcasts-2014/)
-* [My own list of albums - 2014](/blog/complete-list-2014/)
-* [#Blogovision: My No.1 for 2013](/blog/blogovision2013-no01/)
-* [#Blogovision : The list of 2013 albums](/blog/blogovision-my-own-list-of-2013-nominees-albums/)
+* [The Glorious Outcasts - 2014](/blog/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
+* [My own list of albums - 2014](/blog/complete-list-2014/){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/blog/blogovision2013-no01/){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/blog/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}

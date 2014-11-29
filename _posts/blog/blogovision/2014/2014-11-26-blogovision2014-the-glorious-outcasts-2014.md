@@ -14,7 +14,7 @@ author: Micronaut
 	<a href="/images/WeAreTheOutcasts.jpg"><img src="/images/WeAreTheOutcasts.jpg" alt="We-Are-The-Outcasts-Image" class="center"/></a>
 </figure>
 
-Όσο μεγαλώνω τόσο βγάζω τα rock και τα punk και φοράω τα folk και τα minimal. Έχει να κάνει με τη βιολογική ηλικία του αυτιού μου άραγε; Ή μήπως γερνάει το σύμπαν τριγύρω; To άλλο αστείο είναι πως όταν ακούς ένα μουσικό κομμάτι πολλές φορές, ακόμη κι όταν δε σε εντυπωσίασε στην αρχή, στο τέλος γίνεται συνήθεια και το αγαπάς. Πάντα με εξαιρέσεις βέβαια.  Τούτα δω τα άλμπουμ δυσκολεύτηκα λίγο να τα βγάλω απ' την πενηντάδα. Ολόκληρη η λίστα με φετινά αγαπημένα άλμπουμ [εδώ](/blog/complete-list-2014/).
+Όσο μεγαλώνω τόσο βγάζω τα rock και τα punk και φοράω τα folk και τα minimal. Έχει να κάνει με τη βιολογική ηλικία του αυτιού μου άραγε; Ή μήπως γερνάει το σύμπαν τριγύρω; To άλλο αστείο είναι πως όταν ακούς ένα μουσικό κομμάτι πολλές φορές, ακόμη κι όταν δε σε εντυπωσίασε στην αρχή, στο τέλος γίνεται συνήθεια και το αγαπάς. Πάντα με εξαιρέσεις βέβαια.  Τούτα δω τα άλμπουμ δυσκολεύτηκα λίγο να τα βγάλω απ' την πενηντάδα. Ολόκληρη η λίστα με φετινά αγαπημένα άλμπουμ [εδώ](/blog/complete-list-2014/){:target="_blank"}.
 
 ### An alphabetic list of the outcasts (from my Top-50) for 2014
 
@@ -182,6 +182,6 @@ author: Micronaut
 <iframe width="560" height="315" src="//www.youtube.com/embed/45dOI0KxXZ0" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 #### Check also this…
-* [My own list of albums - 2014](/blog/complete-list-2014/)
-* [#Blogovision: My No.1 for 2013](/blog/blogovision2013-no01/)
-* [#Blogovision : The list of 2013 albums](/blog/blogovision-my-own-list-of-2013-nominees-albums/)
+* [My own list of albums - 2014](/blog/complete-list-2014/){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/blog/blogovision2013-no01/){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/blog/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
