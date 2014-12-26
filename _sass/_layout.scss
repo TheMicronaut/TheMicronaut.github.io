@@ -211,7 +211,7 @@ body {
 .entry-tags {
 	display: block;
 	margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 600;
@@ -234,10 +234,10 @@ span + .entry-title {
 		text-decoration: underline;
 	}
 	@include media($medium) {
-		@include font-size(42,yes,44);
+		@include font-size(40,yes,42);
 	}
 	@include media($large) {
-		@include font-size(58,yes,62);
+		@include font-size(56,yes,60);
 	}
 }
 
