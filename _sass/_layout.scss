@@ -275,25 +275,27 @@ span + .entry-title {
 	padding-right: $gutter;
 	padding-left: $gutter;
 }
+
 .entry-meta {
 	@include span-columns(12);
 	text-transform: uppercase;
+    font-family: $alt-font;
 	@include font-size(14);
 	a { 
 		color: $text-color; 
 	}
-	@include media($large) {
-		@include span-columns(2.5);
-	}
+	//@include media($large) {
+	//	@include span-columns(2.5);
+	//}
 	& > span {
 		padding: 0 20px 10px 0;
 		display: inline-block;
-		@include media($large) {
-			display: block;
-			padding: 8px 0;
-			border-bottom: 1px solid lighten($black,80);
-			border-bottom: 1px solid rgba($black,.10);
-		}
+		//@include media($large) {
+		//	display: block;
+		//	padding: 8px 0;
+		//	border-bottom: 1px solid lighten($black,80);
+		//	border-bottom: 1px solid rgba($black,.10);
+		//}
 	}
 }
 .bio-photo {
