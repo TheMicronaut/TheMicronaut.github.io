@@ -211,7 +211,7 @@ body {
 .entry-tags {
 	display: block;
 	margin-top: 1em;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem !important;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 600;
