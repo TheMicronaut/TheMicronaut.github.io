@@ -206,6 +206,7 @@ body {
 }
 .entry-header {
 	@include fill-parent;
+    margin-bottom: -1em;
 }
 .entry-tags {
 	display: block;
@@ -268,7 +269,7 @@ span + .entry-title {
 	}
  }
 
- .entry-wrapper {
+.entry-wrapper {
 	@include outer-container;
 	margin-top: 0;
 	margin-bottom: 3em;
