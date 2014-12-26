@@ -20,7 +20,6 @@
             {% endif %}
     {% endif %}
     <div class="entry-wrapper">
-    {% include breadcrumbs.html %}
       <header class="entry-header">
         <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
         {% if page.link %}
