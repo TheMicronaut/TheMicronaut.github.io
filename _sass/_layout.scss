@@ -281,7 +281,7 @@ span + .entry-title {
 
 .entry-meta {
 	@include span-columns(12);
-	//text-transform: uppercase;
+	text-transform: uppercase;
     font-family: $philosopher-font;
 	@include font-size(16);
 	a { 
