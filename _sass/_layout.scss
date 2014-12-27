@@ -281,7 +281,7 @@ span + .entry-title {
 .entry-meta {
 	@include span-columns(12);
 	//text-transform: uppercase;
-    font-family: $alt-font;
+    font-family: $philosopher-font;
 	@include font-size(14);
 	a { 
 		color: $text-color; 
@@ -411,7 +411,7 @@ span + .entry-title {
 	@include font-size(10,no);
 	a {
 		display: inline-block;
-		font-family: $alt-font;
+		font-family: $philosopher-font;
 		font-weight: 700;
 		text-align: left;
 		text-transform: uppercase;
@@ -460,7 +460,7 @@ span + .entry-title {
 	@include clearfix;
 	margin: 2em auto;
 	text-align: center;
-	font-family: $alt-font;
+	font-family: $philosopher-font;
 	@include font-size(14);
 	font-style: italic;
 	color: lighten($text-color,20);
