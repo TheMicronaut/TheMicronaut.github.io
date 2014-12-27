@@ -170,7 +170,7 @@ body {
 }
 .site-description {
 	margin-top: 0;
-	font-family: $alt-font;
+	font-family: $philosopher-font;
 	@include font-size(16);
 	font-weight: 400;
 	font-style: italic;
@@ -282,7 +282,7 @@ span + .entry-title {
 	@include span-columns(12);
 	//text-transform: uppercase;
     font-family: $philosopher-font;
-	@include font-size(14);
+	@include font-size(16);
 	a { 
 		color: $text-color; 
 	}
@@ -420,7 +420,7 @@ span + .entry-title {
 // Table of Contents
 // table of contents
 #markdown-toc {
-	font-family: $alt-font;
+	font-family: $philosopher-font;
 	margin-top: $gutter;
 	margin-bottom: $gutter;
 	padding-left: 0;
