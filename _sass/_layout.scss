@@ -214,7 +214,8 @@ body {
     margin-bottom: 1rem !important;
 	text-transform: uppercase;
 	@include font-size(16);
-	font-weight: 600;
+	font-weight: 400;
+    font-family: $philosopher-font;
 	a { 
 		color: $text-color; 
 	}
