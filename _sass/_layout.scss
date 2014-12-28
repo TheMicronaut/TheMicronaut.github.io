@@ -170,7 +170,7 @@ body {
 }
 .site-description {
 	margin-top: 0;
-	font-family: $philosopher-font;
+	font-family: $alt-font;
 	@include font-size(16);
 	font-weight: 400;
 	font-style: italic;
@@ -215,7 +215,7 @@ body {
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 400;
-    font-family: $philosopher-font;
+    font-family: $alt-font;
 	a { 
 		color: $text-color; 
 	}
@@ -224,7 +224,7 @@ span + .entry-title {
 	margin-top: 0;
 }
 .entry-title {
-	font-family: $tangerine-font;
+	font-family: $title-font;
 	font-style: italic;
 	@include font-size(36,yes,36);
 	font-weight: 400;
@@ -282,7 +282,7 @@ span + .entry-title {
 .entry-meta {
 	@include span-columns(12);
 	text-transform: uppercase;
-    font-family: $philosopher-font;
+    font-family: $alt-font;
 	@include font-size(14);
     background: url(../../images/deco-casual-small.gif) no-repeat top left;
     padding-top: 10px;
@@ -415,7 +415,7 @@ span + .entry-title {
 	@include font-size(10,no);
 	a {
 		display: inline-block;
-		font-family: $philosopher-font;
+		font-family: $alt-font;
 		font-weight: 700;
 		text-align: left;
 		text-transform: uppercase;
@@ -424,7 +424,7 @@ span + .entry-title {
 // Table of Contents
 // table of contents
 #markdown-toc {
-	font-family: $philosopher-font;
+	font-family: $alt-font;
 	margin-top: $gutter;
 	margin-bottom: $gutter;
 	padding-left: 0;
@@ -464,7 +464,7 @@ span + .entry-title {
 	@include clearfix;
 	margin: 2em auto;
 	text-align: center;
-	font-family: $philosopher-font;
+	font-family: $alt-font;
 	@include font-size(14);
 	font-style: italic;
 	color: lighten($text-color,20);
