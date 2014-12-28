@@ -284,6 +284,7 @@ span + .entry-title {
 	text-transform: uppercase;
     font-family: $philosopher-font;
 	@include font-size(14);
+    background: url(images/deco-casual-small.gif) no-repeat bottom center;
 	a { 
 		color: $text-color; 
 	}
@@ -301,6 +302,7 @@ span + .entry-title {
 		//}
 	}
 }
+
 .bio-photo {
 	display: none;
 	//@include media($large) {
