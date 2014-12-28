@@ -284,6 +284,8 @@ span + .entry-title {
 	text-transform: uppercase;
     font-family: $philosopher-font;
 	@include font-size(14);
+    background: url(../../images/deco-casual-small.gif) no-repeat top left;
+    padding-top: 10px;
 	a { 
 		color: $text-color; 
 	}
@@ -291,9 +293,8 @@ span + .entry-title {
 	//	@include span-columns(2.5);
 	//}
 	& > span {
-		padding: 10px 20px 10px 0;
+		padding: 0 20px 10px 0;
 		display: inline-block;
-        background: url(../../images/deco-casual-small.gif) no-repeat top left;
 		//@include media($large) {
 		//	display: block;
 		//	padding: 8px 0;
