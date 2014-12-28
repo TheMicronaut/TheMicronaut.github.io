@@ -65,56 +65,6 @@ img.center {
 
 // Figures and images
 // --------------------------------------------------
-//figure {
-//  margin: 0;
-//  padding-top: 10px;
-//  padding-bottom: 10px;
-//  @include clearfix;
-// img {
-//    margin-bottom: 10px;
-//  }
-//  a { 
-//    img {
-//      @include transform(translateY(0));
-//      -webkit-transition-duration: 0.25s;
-//      -moz-transition-duration: 0.25s;
-//      -o-transition-duration: 0.25s;
-//      opacity: 0.7;
-//      &:hover {
-//        @include transform(translateY(-5px));
-//        @include box-shadow(0 0 10px rgba($black, .20));
-//        opacity: 1;
-//      }
-//    }
-//  }
-//  &.half {
-//    @include media($large) {
-//      img {
-//        width: 47.5%;
-//       float: left;
-//        margin-right: 2.5%;
-//        margin-bottom: 2.5%;
-//      }
-//      figcaption {
-//        clear: left;
-//      }
-//    }
-//  }
-//  &.third {
-//    @include media($large) {
-//      img {
-//        width: 30.8%;
-//        float: left;
-//        margin-right: 2.5%;
-//        margin-bottom: 2.5%;
-//      }
-//      figcaption {
-//        clear: left;
-//      }
-//    }
-//  }
-//}
-
 figure {
 	margin-left: -1 * $gutter;
 	margin-right: -1 * $gutter;
@@ -272,6 +222,7 @@ table {
 
 .inline-btn {
   @include clearfix;
+  text-align: center;
   a, btn {
     display: inline-block;
     margin-right: $gutter / 2;
