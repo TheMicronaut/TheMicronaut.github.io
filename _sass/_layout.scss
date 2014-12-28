@@ -206,8 +206,7 @@ body {
 }
 .entry-header {
 	@include fill-parent;
-    margin-bottom: -1.3em;
-    background: url(../../images/deco-casual-small.gif) no-repeat bottom left;
+    margin-bottom: -1.1em;
 }
 .entry-tags {
 	display: block;
@@ -292,8 +291,9 @@ span + .entry-title {
 	//	@include span-columns(2.5);
 	//}
 	& > span {
-		padding: 0 20px 10px 0;
+		padding: 10px 20px 10px 0;
 		display: inline-block;
+        background: url(../../images/deco-casual-small.gif) no-repeat top left;
 		//@include media($large) {
 		//	display: block;
 		//	padding: 8px 0;
