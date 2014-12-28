@@ -284,7 +284,7 @@ span + .entry-title {
 	text-transform: uppercase;
     font-family: $philosopher-font;
 	@include font-size(14);
-    background: url(../../images/deco-casual-small.gif) no-repeat bottom center;
+    background: url(../../images/deco-casual-small.gif) no-repeat bottom left;
 	a { 
 		color: $text-color; 
 	}
