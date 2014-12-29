@@ -26,7 +26,7 @@
 		</div>
 	{% endif %}
 </header><!-- /.masthead -->
-{% else %}<header class="masthead">
+{% else %}{% if site.hidelogo != false %}<header class="masthead">
 	<div class="wrap">
         {% if site.logo != null %}
     		<a href="{{ site.url }}" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInUp"></a>
@@ -34,6 +34,6 @@
         <h1 class="site-title animated fadeIn"><a href="{{ site.url }}">{{ site.title }}</a></h1>
 		<h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
 	</div>
-</header><!-- /.masthead -->{% endif %}
+</header>{% endif %}<!-- /.masthead -->{% endif %}
 
 <div class="js-menu-screen menu-screen"></div>
