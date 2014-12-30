@@ -203,6 +203,10 @@ table {
 	@each $socialnetwork, $color in $social {
 		i.fa-#{$socialnetwork} {
 	    color: $color;
+        display: block;
+        width: 76%;
+        padding: 12%;
+        height: auto;
     }    
 	}
 	&:hover {
