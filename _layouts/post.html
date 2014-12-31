@@ -44,6 +44,7 @@
         <span class="entry-comments"><i class="fa fa-clock-o"> </i>&nbsp;&nbsp;{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. reading </span>
         {% if site.owner.disqus-shortname and page.comments == true %}<span class="entry-comments"><i class="fa fa-comment-o"></i>&nbsp;&nbsp;<a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.path | split:'/' | last | cgi_escape }}">View Comments</a></span>{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
+        {% if page.share %}{% include share-this.html %}{% endif %}
       </footer>
       <div class="entry-content">
         {{ content }}
