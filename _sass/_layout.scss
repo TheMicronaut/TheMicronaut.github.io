@@ -322,9 +322,9 @@ span + .entry-title {
 	p:first-child {
 		margin-top: 0;
 	}
-	@include media($large) {
-		@include span-columns(9.5);
-	}
+	//@include media($large) {
+	//	@include span-columns(9.5);
+	//}
 	p > a,
 	li > a {
 		border-bottom: 1px dotted lighten($link-color, 50);
