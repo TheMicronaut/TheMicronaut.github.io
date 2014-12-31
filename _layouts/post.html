@@ -53,13 +53,14 @@
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post">&#9754; {{ page.previous.title }}</a>
+        <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post">&#8592; {{ page.previous.title }}</a>
       {% endif %}
-      <a href="#post" class="btn" title="Top">Back to Top</a>
+      &nbsp;&bull;&nbsp;
       {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">   Next   </a>
+        <a href="{{ site.url }}{{ page.next.url }}" title="Next">{{ page.next.title }} &#8594;</a>
       {% endif %}
     </nav><!-- /.pagination -->
+    <a href="#post" class="btn" title="Top">Back to Top</a>
   </article>
 <!-- <p id="back-top">
             <a href="#post"><span>&nbsp;</span>Back to Top</a>
