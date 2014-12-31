@@ -45,7 +45,7 @@
         {% if site.owner.disqus-shortname and page.comments == true %}<span class="entry-comments"><i class="fa fa-comment-o"></i>&nbsp;&nbsp;<a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.path | split:'/' | last | cgi_escape }}">View Comments</a></span>{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
         {% if page.share %}
-            <a class="btn-social twitter" href="https://twitter.com/intent/tweet?hashtags={{ page.tags | join: ',' | remove: ' ' }}&amp;text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;via={{ site.owner.twitter }}" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+            <span style="float: right;"><i class="fa fa-twitter fa-2x" aria-hidden="true"><a class="btn-social twitter" href="https://twitter.com/intent/tweet?hashtags={{ page.tags | join: ',' | remove: ' ' }}&amp;text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}&amp;via={{ site.owner.twitter }}" target="_blank"></a></i></span>
             <a class="btn-social facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
             <a class="btn-social google-plus"  href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a>        
         {% endif %}
