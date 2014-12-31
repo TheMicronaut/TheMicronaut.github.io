@@ -342,11 +342,14 @@ span + .entry-title {
 #disqus_thread {
 	margin-top: 2em;
 }
+
 // Pagination
 .pagination {
 	margin-top: 2em;
 	text-align: center;
+    font-family: $alt-font;
 }
+
 // Page layout
 #home,
 #page {

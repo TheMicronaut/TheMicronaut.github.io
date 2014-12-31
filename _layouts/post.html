@@ -55,12 +55,12 @@
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post">&#8592; {{ page.previous.title }}</a>
       {% endif %}
-      &nbsp;&bull;&nbsp;
+      &nbsp;&#10058;&nbsp;
       {% if page.next %}
         <a href="{{ site.url }}{{ page.next.url }}" title="Next">{{ page.next.title }} &#8594;</a>
-      {% endif %}
+      {% endif %}<br/>
+      <a href="#post" title="Top">Back to Top</a>
     </nav><!-- /.pagination -->
-    <a href="#post" class="btn" title="Top">Back to Top</a>
   </article>
 <!-- <p id="back-top">
             <a href="#post"><span>&nbsp;</span>Back to Top</a>
