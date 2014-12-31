@@ -47,6 +47,7 @@
   .post-list {
     position: absolute;
     width: 100%;
+    z-index: 9002;
     h4, li, p, a {
       color: $white;
     }
