@@ -352,11 +352,13 @@ span + .entry-title {
 }
 
 .left-align {
-    text-align: left;
+    float: left;
+    margin-left: 30px;
 }
 
 .right-align {
-    text-align: right;
+    float: right;
+    margin-right: 30px;
 }
 
 // Page layout
