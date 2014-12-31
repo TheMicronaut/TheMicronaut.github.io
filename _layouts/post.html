@@ -52,10 +52,10 @@
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
-        <a href="#post" class="btn" title="Top">Back to Top</a>
       {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous</a>
+        <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post">&#9754; {{ page.previous.title }}</a>
       {% endif %}
+      <a href="#post" class="btn" title="Top">Back to Top</a>
       {% if page.next %}
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">   Next   </a>
       {% endif %}
