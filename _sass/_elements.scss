@@ -222,6 +222,13 @@ table {
 	}
 }
 
+.social-share {
+    outline: none !important;
+	&:hover {
+		font-size: 2em;
+	}
+}
+
 .inline-btn {
   @include clearfix;
   text-align: center;
