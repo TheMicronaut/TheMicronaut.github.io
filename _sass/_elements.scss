@@ -224,8 +224,10 @@ table {
 
 .social-share {
     outline: none !important;
+    font-size: 1.5em;
 	&:hover {
 		font-size: 2em;
+        padding-top: -5px;
 	}
 }
 
