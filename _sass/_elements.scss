@@ -222,20 +222,12 @@ table {
 	}
 }
 
-.social-share-box {
-    padding-left: 10px;
+.social-share {
     outline: none !important;
+    font-size: 1.5em;
 	&:hover {
-        padding-top: -5px;
-	}
-}
-
-.social-share-icon {
-    padding-left: 10px;
-    font-size: 1.3em;
-    outline: none !important;
-	&:hover {
-		font-size: 2em;
+		//font-size: 2em;
+        color: $text-color !important;
 	}
 }
 
