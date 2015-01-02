@@ -223,11 +223,29 @@ table {
 }
 
 .social-share {
+	$social: 
+        (facebook, $facebook-color),
+		(flickr, $flickr-color),
+		(foursquare, $foursquare-color),
+		(google-plus, $google-plus-color),
+		(instagram, $instagram-color),
+		(linkedin, $linkedin-color),
+		(pinterest, $pinterest-color),
+		(rss, $rss-color),
+		(tumblr, $tumblr-color),
+		(twitter, $twitter-color),
+		(vimeo, $vimeo-color),
+		(youtube, $youtube-color);
     outline: none !important;
-    font-size: 1.5em;
+    font-size: 1.1em;
 	&:hover {
-		//font-size: 2em;
-        color: $text-color !important;
+		-webkit-transform: scale(1.5)
+        @each $socialnetwork, $color in $social {
+            i.fa-#{$socialnetwork} {
+                color: $color;
+                line-height: 2;
+            }    
+        }
 	}
 }
 
