@@ -237,9 +237,9 @@ table {
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
     outline: none !important;
-    font-size: 1.1em;
+    font-size: 1.2em;
 	&:hover {
-		-webkit-transform: scale(1.5);
+		-webkit-transform: scale(1.7);
         @each $socialnetwork, $color in $social {
             i.fa-#{$socialnetwork} {
                 color: $color;
