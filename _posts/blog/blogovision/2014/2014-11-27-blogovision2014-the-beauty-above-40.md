@@ -9,6 +9,7 @@ date: '2014-11-27T22:00:00+01:00'
 #modified: '2014-11-26T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
 author: Micronaut
+hidelogo: true
 ---
 <figure>
 	<a href="/images/posts/beauty-above-40.png"><img src="/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" class="center"/></a>

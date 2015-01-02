@@ -9,6 +9,7 @@ date: '2014-11-28T23:00:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
 author: Micronaut
+hidelogo: true
 ---
 <figure>
 	<a href="/images/posts/dirty-thirty.jpg"><img src="/images/posts/dirty-thirty.jpg" alt="Dirty-Thirty-Image" class="center"/></a>

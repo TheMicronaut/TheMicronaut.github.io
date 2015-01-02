@@ -9,6 +9,7 @@ date: '2014-11-29T23:00:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
 author: Micronaut
+hidelogo: true
 ---
 <figure>
 	<a href="/images/posts/the-roaring-twenties.jpg"><img src="/images/posts/the-roaring-twenties.jpg" alt="Roading-Twenties-Image" class="center"/></a>

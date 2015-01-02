@@ -9,6 +9,7 @@ date: '2014-11-26T23:40:00+01:00'
 #modified: '2014-11-26T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
 author: Micronaut
+hidelogo: true
 ---
 <figure>
 	<a href="/images/WeAreTheOutcasts.jpg"><img src="/images/WeAreTheOutcasts.jpg" alt="We-Are-The-Outcasts-Image" class="center"/></a>
