@@ -59,11 +59,11 @@
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
       {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post" class="left-align">&#8592; {{ page.previous.title }}</a>
+        <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post">&#8592; {{ page.previous.title }} (previous)</a>
       {% endif %}
-      &nbsp;&nbsp;<span style="font-size: 2rem; margin-top: 2em;">&#10058;</span>&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;<span style="font-size: 2rem; margin-top: 2em;">&#10058;</span>&nbsp;&nbsp;&nbsp;
       {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" title="Next" class="right-align">{{ page.next.title }} &#8594;</a>
+        <a href="{{ site.url }}{{ page.next.url }}" title="Next">(next) {{ page.next.title }} &#8594;</a>
       {% endif %}<br/>
       <a href="#post" title="Top">Back to Top</a>
     </nav><!-- /.pagination -->
