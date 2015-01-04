@@ -1,7 +1,7 @@
 // TYPOGRAPHY ================================================
 $base-font: 'Ubuntu', sans-serif;
 $alt-font: 'Philosopher', 'Ubuntu', sans-serif;
-$title-font: 'Tangerine', 'Ubuntu', serif;
+$title-font: 'Tangerine', 'Caudex', 'Ubuntu', serif;
 $heading-font: $base-font;
 $caption-font: $alt-font;
 $code-font: 'Ubuntu', sans-serif;
@@ -10,7 +10,6 @@ $doc-font-size: 16;
 $doc-line-height: 24;
 
 $border-radius: 3px;
-
 
 // set-up the body font-size / line-height
 body {
