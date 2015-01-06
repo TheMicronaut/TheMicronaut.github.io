@@ -5,14 +5,14 @@ share: true
 comments: true
 title: 'Ημέρα τρίτη - Η Τίνα η Ρουτίνα'
 excerpt: 'Όση τρέλα κουβαλά το κάπνισμα, άλλη τόση χρειάζεται να το κόψεις...'
-date: '2015-01-06T22:55:00+01:00'
+date: '2015-01-06T23:45:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
 tags: [quitsmoking, cross-blog-storytelling]
 author: Aleh
 hidelogo: true
 ---
 <figure>
-    <a href="/images/posts/diary/zafiris.jpg"><img src="/images/posts/diary/zafiris.jpg" alt="zafiris-Image" class="center"/></a>
+    <a href="/images/posts/diary/pasxalia.jpg"><img src="/images/posts/diary/pasxalia.jpg" alt="pasxalia-Image" class="center"/></a>
     <figcaption>"Επτάμιση χρόνια σε κλάδευα, μωρέ, και δε μου βάσταξες. Θέλησες να πας να κάνεις παρέα με τους φίλου σου τα ελατάκια・ εκείνα που οι ανεγκέφαλοι γείτονες πέταξαν στα σκουπίδια."</figcaption>
 </figure>
 
