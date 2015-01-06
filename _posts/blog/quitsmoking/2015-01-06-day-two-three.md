@@ -12,7 +12,7 @@ author: Aleh
 hidelogo: true
 ---
 <figure>
-    <a href="/images/posts/diary/pasxalia.jpg"><img src="/images/posts/diary/pasxalia.jpg" alt="pasxalia-Image" class="center"/></a>
+    <a href="/images/posts/diary/pasxalia.JPG"><img src="/images/posts/diary/pasxalia.JPG" alt="pasxalia-Image" class="center"/></a>
     <figcaption>"Επτάμιση χρόνια σε κλάδευα, μωρέ, και δε μου βάσταξες. Θέλησες να πας να κάνεις παρέα με τους φίλου σου τα ελατάκια・ εκείνα που οι ανεγκέφαλοι γείτονες πέταξαν στα σκουπίδια."</figcaption>
 </figure>
 
