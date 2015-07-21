@@ -17,8 +17,7 @@ hidelogo: true
 	<figcaption>Παραδοσιακό παντοπωλείο στην Κρήτη, photo by John Phillips, 1947</figcaption>
 </figure>
 
-> TO ΤΡΑΓΟΥΔΙ ΤΗΣ ΠΑΙΔΙΚΗΣ ΗΛΙΚΙΑΣ<br/>  
->        του Peter Handke, μετάφρ. Aleh<br/>
+> TO ΤΡΑΓΟΥΔΙ ΤΗΣ ΠΑΙΔΙΚΗΣ ΗΛΙΚΙΑΣ (του Peter Handke, μετάφρ. Aleh)<br/>
 >
 > Όταν το παιδί ήταν παιδί,<br/>
 > περπατούσε κουνώντας τα χέρια,<br/>
@@ -97,11 +96,11 @@ hidelogo: true
 >
 > Όταν παιδί ήταν το παιδί,<br/>
 > πέταξε ένα κομμάτι ξύλο, σαν λόγχη, προς ένα δέντρο,<br/>
-> κι αυτό πάλλεται εκεί ακόμη και σήμερα.<br/>
+> κι αυτό πάλλεται εκεί μέχρι σήμερα.<br/>
 
 
 <figure>
-    <iframe width="560" height="315" src="//www.youtube.com/embed/s2VzLn6DMCE" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    <iframe width="545" height="300" src="//www.youtube.com/embed/s2VzLn6DMCE" frameborder="0" allowfullscreen>&nbsp;</iframe>	
     <figcaption>I jumped in the river and what did I see?<br/>
 Black-eyed angels swam with me<br/>
 A moon full of stars and astral cars<br/>
@@ -208,12 +207,11 @@ There was nothing to fear and nothing to doubt</figcaption>
 > und sie zittert da heute noch.<br/>
 
 <figure>
-    <iframe width="560" height="315" src="//www.youtube.com/embed/Gy_BD76-mvo" frameborder="0" allowfullscreen>&nbsp;</iframe>	
-    <figcaption>Να 'ναι παραμύθι
-	αρχή παραμυθιού,
-	στέρνα γεμάτη χρώματα,
+    <iframe width="545" height="300" src="//www.youtube.com/embed/Gy_BD76-mvo" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    <figcaption>Να 'ναι παραμύθι<br/>
+	αρχή παραμυθιού,<br/>
+	στέρνα γεμάτη χρώματα,<br/>
 	να μπείς και να πλυθείς</figcaption>
 </figure>
 
-*χχχχ*
-
+*To be able to say "ah" and "oh" and "hey" instead of "yea" and "amen."*
