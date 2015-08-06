@@ -7,7 +7,7 @@ title: 'Ημέρα τρίτη - Η Τίνα η Ρουτίνα'
 excerpt: 'Όση τρέλα κουβαλά το κάπνισμα, άλλη τόση χρειάζεται να το κόψεις...'
 date: '2015-01-06T23:45:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [quitsmoking, cross-blog-storytelling]
+tags: [quitsmoking, stories]
 author: Aleh
 hidelogo: true
 ---
