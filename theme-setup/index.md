@@ -23,7 +23,7 @@ If you are creating a new Jekyll site using So Simple follow these steps:
 1. Fork the [So Simple repo](http://github.com/mmistakes/so-simple-theme/fork).
 2. Clone the repo you just forked and rename it.
 3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
+4. Update `_config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
 
 If you want to use So Simple with an existing Jekyll site follow these steps:
 
@@ -39,6 +39,22 @@ If you want to use So Simple with an existing Jekyll site follow these steps:
 
 ---
 
+## Running Jekyll
+
+If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll with `bundled exec` instead.
+
+> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
+>
+>However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
+
+{% highlight text %}
+bundle exec jekyll build
+
+bundle exec jekyll serve
+{% endhighlight %}
+
+---
+
 ## Scaffolding
 
 How So Simple is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
@@ -51,7 +67,7 @@ so-simple-theme/
 |    ├── footer.html            # site footer
 |    ├── head.html              # site head
 |    ├── navigation.html        # site top navigation
-|    ├── open-graph.html        # Twitter Cards and Open Graph meta data
+|    ├── open-graph.html        # meta data for Open Graph and Twitter cards
 |    └── scripts.html           # site scripts
 |    └── site-search.html       # site search overlay
 ├── _layouts/
@@ -100,7 +116,7 @@ Your site's logo, appears in the header below the navigation bar and is used as 
 
 #### url
 
-Used to generate absolute URLs for sitemaps, feeds and for generating canonical URLs in a page's `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*.
+Used to generate absolute URLs for sitemaps, feeds and for generating canonical URLs in a page's `<head>`. When developing locally either comment this out or use something like `http://localhost:4000` so all assets load properly. *Don't include a trailing `/`*. [Protocol-relative URLs](http://www.paulirish.com/2010/the-protocol-relative-url/) are a nice option but there are a few caveats[^protocol].
 
 Examples:
 
@@ -108,8 +124,11 @@ Examples:
 url: http://mmistakes.github.io/so-simple-theme
 url: http://localhost:4000
 url: http://mademistakes.com
+url: //mademistakes.com
 url: 
 {% endhighlight %}
+
+[^protocol]: If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I'd suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`.
 
 #### Google Analytics and Webmaster Tools
 
@@ -175,7 +194,7 @@ These two layouts are very similar. Both have an author sidebar, allow for large
 
 In the sample posts folder you may have noticed `categories: articles` in the YAML front matter. Categories can be used to group posts into sub-folders. If you decide to rename or add categories you will need to create new category index pages.
 
-For example. Say you want to group all your posts under blog/ instead of articles/. In your post add `category: blog` to the YAML front matter, rename or duplicate articles/index.md to blog/index.md and update the *for loop* to limit posts to just the blog category.
+For example. Say you want to group all your posts under blog/ instead of articles/. In your post add `categories: blog` to the YAML front matter, rename or duplicate articles/index.md to blog/index.md and update the *for loop* to limit posts to just the blog category.
 
 {% highlight text %}
 {% raw %}
@@ -271,6 +290,26 @@ Share links appear below author details in the sidebar.
 
 ---
 
+## Disqus Comments
+
+To enable comments [signup for a Disqus account](https://disqus.com/admin/signup/?utm_source=New-Site) and create a shortname for your site. Then add it to your `_config.yml` under the site owner section like so:
+
+{% highlight yaml %}
+site:
+  owner:
+    disqus-shortname: shortname
+{% endhighlight %}
+
+If you would like comments to appear on every post or page that uses the `post.html` layout simply add the following line to your `_config.yml` and you're done.
+
+{% highlight yaml %}
+comments: true
+{% endhighlight %}
+
+To be more selective and granualar with which posts and pages Disqus comments appear on, add `comments: true` to the YAML Front Matter of each post or page instead.
+
+---
+
 ## Twitter Cards
 
 Feature and thumbnail images are used by [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) as well. If you don't assign a thumbnail the site logo is used.
@@ -297,7 +336,7 @@ Adding `search: true` to your `_config.yml` enables search using Christian Fei's
 
 ## Further Customization
 
-Jekyll 2.x added support for Sass files making it much easier to modify a theme's fonts and colors. By editing values found in `_sass/variables.scss` you can fine tune the site's colors and typography.
+Jekyll 2.x added support for Sass files making it much easier to modify a theme's fonts and colors. By editing values found in `_sass/_variables.scss` you can fine tune the site's colors and typography.
 
 For example if you wanted a red background instead of white you'd change `$body-color: #ebebeb;` to `$body-color: $cc0033;`.
 

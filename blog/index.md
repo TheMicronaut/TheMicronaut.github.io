@@ -3,6 +3,7 @@ layout: page
 title: Archive
 excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
+search_omit: true
 ---
 
 <ul class="post-list">
