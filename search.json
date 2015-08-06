@@ -11,7 +11,7 @@ sitemap: false
 		  "url"        : "{{ site.url }}{{ post.url }}",
 		  "date"       : "{{ post.date }}",
 		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}",
-		  "excerpt"      : "{{ post.excerpt | strip_html | strip_newlines }}"
+		  "excerpt"     : "{{ post.excerpt | strip_html | strip_newlines | truncatewords:100}}"
 		} {% unless forloop.last %},{% endunless %}
 	    {% endif %}
 	{% endfor %}	
