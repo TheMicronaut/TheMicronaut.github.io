@@ -10,7 +10,8 @@ sitemap: false
 		  "tags"       : "{{ post.tags | array_to_sentence_string }}",
 		  "url"        : "{{ site.url }}{{ post.url }}",
 		  "date"       : "{{ post.date }}",
-		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}"
+		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}",
+		  "excerpt"      : "{{ post.excerpt | strip_html | strip_newlines }}"
 		} {% unless forloop.last %},{% endunless %}
 	    {% endif %}
 	{% endfor %}	
