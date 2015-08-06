@@ -7,7 +7,7 @@ sitemap: false
 		{
 		  "title"      : "{{ post.title | escape }}",
 		  "category"   : "{{ post.category }}",
-		  "excerpt"    : "{{ post.excerpt }}",
+		  "excerpt"    : "{{ post.excerpt | escape }}",
 		  "tags"       : "{{ post.tags | array_to_sentence_string }}",
 		  "url"        : "{{ site.url }}{{ post.url }}",
 		  "date"       : "{{ post.date }}",
