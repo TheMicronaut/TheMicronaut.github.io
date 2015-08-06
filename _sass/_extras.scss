@@ -1,0 +1,189 @@
+// Alternative Fonts
+// --------------------------------------------------
+.alt-font-normal {
+	font-family: $alt-font;
+	font-style: italic;
+	@include font-size(20,yes,20);
+	font-weight: 200;
+	a {
+		color: $black;
+		text-decoration: underline;
+	}
+ }
+ 
+.alt-font-small {
+	font-family: $alt-font;
+	@include font-size(16,yes,16);
+	a {
+		color: $black;
+		text-decoration: underline !important;
+	}
+ }
+ 
+.alt-font-smallest {
+	font-family: $alt-font;
+	@include font-size(14,yes,14);
+	a {
+		color: $black;
+		text-decoration: underline !important;
+	}
+ }
+
+// Breadcrumbs
+// --------------------------------------------------
+.breadcrumbs { 
+	@include row;
+	margin-top: $gutter;
+	@include font-size(10,no);
+	a {
+		display: inline-block;
+		font-family: $alt-font;
+		font-weight: 700;
+		text-align: left;
+		text-transform: uppercase;
+	}
+}
+
+// Images
+// --------------------------------------------------
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Back to top
+// --------------------------------------------------
+#back-top {
+	position: fixed;
+	bottom: 5px;
+	margin-left: -10px;
+    outline: none !important;
+}
+#back-top a {
+	width: 108px;
+	display: block;
+	text-align: center;
+	font: 11px/100% Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #bbb;
+    outline: none !important;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover {
+	color: #000;
+}
+/* arrow icon (span tag) */
+#back-top span {
+	//width: 70px;
+	height: 117px;
+	display: block;
+	//margin-bottom: 7px;
+	background: transparent url("../../images/icon_top.png") no-repeat center center;
+    opacity: 0.3;
+	/* background color transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+    &:focus {
+      box-shadow: none;
+      outline: none;
+    }    
+}
+#back-top a:hover span {
+	//background: transparent url("../../images/icon_top-hover.png") no-repeat center center;
+    opacity: 0.7;
+}
+
+// Social share
+// --------------------------------------------------
+.social-share {
+	$social: 
+        (facebook, $facebook-color),
+		(flickr, $flickr-color),
+		(foursquare, $foursquare-color),
+		(google-plus, $google-plus-color),
+		(instagram, $instagram-color),
+		(linkedin, $linkedin-color),
+		(pinterest, $pinterest-color),
+		(rss, $rss-color),
+		(tumblr, $tumblr-color),
+		(twitter, $twitter-color),
+		(vimeo, $vimeo-color),
+		(youtube, $youtube-color);
+    outline: none !important;
+    font-size: 1.2em;
+    -webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;    
+	&:hover {
+		-webkit-transform: scale(2);
+        -moz-transform: scale(2);
+        -o-transform: scale(2);
+        -ms-transform: scale(2);        
+        @each $socialnetwork, $color in $social {
+            i.fa-#{$socialnetwork} {
+                color: $color;
+            } 
+        }
+	}
+}
+
+// Google Search Form
+// --------------------------------------------------
+#goog-fixurl {
+	ul {
+		list-style: none;
+		margin-left: 0;
+		padding-left: 0;
+		li {
+			list-style-type: none;
+		}
+	}
+}
+#goog-wm-qt {
+	width: auto;
+	margin-right: 10px;
+	padding: 8px 10px;
+	@include font-size(14);
+	border-width: 2px;
+	border-radius: $border-radius;
+}
+#goog-wm-sb {
+	@extend .btn;
+}
+
+// ANIMATIONS
+// --------------------------------------------------
+@include keyframes(wiggle) {
+	25%, 50%, 75%, 100% { @include transform-origin(top center); }
+	25% { @include transform(rotate(8deg)); }
+	50% { @include transform(rotate(-4deg)); }
+	75% { @include transform(rotate(2deg)); }
+	100% { @include transform(rotate(0deg)); }
+}
+
+
+@include keyframes(pop) {
+	50% { @include transform(scale(1.1)); }
+	100% { @include transform(scale(1)); }
+}
+
+
+@include keyframes(hang) {
+	50% { @include transform(translateY(-3px)); }
+	100% { @include transform(translateY(-6px)); }
+}
+.hang {
+	display: inline-block;
+	@include animation-name(hang);
+	@include animation-duration(0.5s);
+	@include animation-timing-function(linear);
+	@include animation-iteration-count(infinite);
+	@include animation-direction(alternate);
+}

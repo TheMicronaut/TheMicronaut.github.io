@@ -1,5 +1,33 @@
 // Jekyll Simple Search
 // -------------------------------------------------
+
+// Search Overlay
+// --------------------------------------------------
+.search-wrapper {
+  @include outer-container;
+  margin-top: 0;
+  padding-right: $gutter;
+  padding-left: $gutter;
+  height: 1px;
+}
+
+// menu overlay
+.menu-screen {
+  @include position(fixed, 0px 0px 0px 0px);
+  @include transition;
+  background: $black;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 10;
+  &.is-visible {
+    opacity: 1;
+    visibility: visible;
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
 .search-form {
   width: 100%;
   position: relative;
@@ -56,10 +84,12 @@
     }
   }
 }
+
 // search button in navigation
 .no-js .dosearch {
   display: none;
 }
+
 .dosearch {
   span {
     display: block;
