@@ -133,12 +133,6 @@ a {
 	}
 }
 
-.link-arrow {
-	font-weight: 100;
-	text-decoration: underline;
-	font-style: normal;
-}
-
 
 // Figures
 // --------------------------------------------------
@@ -206,20 +200,6 @@ figcaption {
 }
 
 
-// Note text
-// --------------------------------------------------
-
-.notice {
-	margin-top: 1.5em;
-	padding: .5em 1em;
-	text-indent: 0;
-	@include font-size(16);
-	background-color: lighten($black, 95);
-	border: 1px solid lighten($black, 90);
-	@include rounded(4px);
-}
-
-
 // Blockquotes
 // --------------------------------------------------
 
@@ -229,15 +209,6 @@ blockquote {
 	@include font-size(16);
 	padding-left: 20px;
 	border-left: 8px solid $black;
-}
-
-
-// Footnotes
-// --------------------------------------------------
-
-.footnotes {
-	@include font-size(14);
-	font-family: $base-font;
 }
 
 
@@ -263,36 +234,6 @@ li {
 pre {
 	@include font-size(14);
 	overflow-x: auto;
-}
-
-
-// Utility Classes
-// --------------------------------------------------
-
-.wrap {
-	margin: 0 auto;
-}
-.all-caps {
-	text-transform: uppercase;
-}
-.pull-left {
-	float: left;
-	padding-right: $gutter;
-}
-.pull-right {
-	float: right;
-	padding-left: $gutter;
-}
-.unstyled-list {
-	list-style: none;
-	margin-left: 0;
-	padding-left: 0;
-	li {
-		list-style-type: none;
-	}
-}
-.no-scroll {
-	overflow: hidden;
 }
 
 

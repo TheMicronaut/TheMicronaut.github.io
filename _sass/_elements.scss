@@ -65,63 +65,6 @@ img.center {
 
 // Figures and images
 // --------------------------------------------------
-figure {
-	margin-left: -1 * $gutter;
-	margin-right: -1 * $gutter;
-	// full width figures on small screens
-	@include media($medium) {
-		margin-left: 0;
-		margin-right: 0;
-		position: relative;
-	}
-	@include clearfix;
-	img {
-		margin-bottom: 0px + $doc-line-height;
-		margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
-        outline: none !important;
-	}
-	a {
-		img {
-        //-webkit-transition-duration: 0.25s;
-        //-moz-transition-duration: 0.25s;
-        //-o-transition-duration: 0.25s;
-        opacity: 1; 
-			// Image hover animation
-			&:hover {
-				//@include transform(translateY(-5px));
-                @include animation(pop .3s 0 linear);
-                //@include box-shadow(0 0 10px rgba($black, .20));
-                opacity: 1;
-			}
-		}
-	}
-	&.half {
-		@include outer-container;
-		@include media($medium) {
-			a,
-			> img {
-				@include span-columns(6);
-				@include omega(2n);
-			}
-			figcaption {
-				clear: left;
-			}
-		}
-	}
-	&.third {
-		@include outer-container;
-		@include media($medium) {
-			a,
-			> img {
-				@include span-columns(4);
-				@include omega(3n);
-			}
-			figcaption {
-				clear: left;
-			}
-		}
-	}
-}
 
 svg:not(:root) {
   overflow: hidden; 
@@ -132,94 +75,6 @@ svg:not(:root) {
 // --------------------------------------------------
 table { 
   width: 100%;
-}
-
-// Buttons
-// --------------------------------------------------
-.btn {
-  display: inline-block;
-  margin-bottom: 20px;
-  padding: 8px 20px;
-  @include font-size(14);
-  background-color: $black;
-  color: $white;
-  border: 2px solid $black !important;
-  border-radius: $border-radius;
-  &:visited {
-    color: $white;
-  }
-  &:hover {
-    background-color: $white;
-    color: $black;
-  }
-}
-
-.close-btn {
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 1;
-  background-color: transparent;
-  border: 0 solid transparent;
-  color: $white;
-}
-
-.btn-inverse {
-	@extend .btn;
-	background-color: $white;
-	color: $text-color;
-	&:visited,
-	&:active {
-		color: $text-color;
-	}
-	&:hover {
-		color: $white;
-		background-color: $text-color;
-	}
-}
-
-.btn-social {
-	$social: 
-    (facebook, $facebook-color),
-		(flickr, $flickr-color),
-		(foursquare, $foursquare-color),
-		(google-plus, $google-plus-color),
-		(instagram, $instagram-color),
-		(linkedin, $linkedin-color),
-		(pinterest, $pinterest-color),
-		(rss, $rss-color),
-		(tumblr, $tumblr-color),
-		(twitter, $twitter-color),
-		(vimeo, $vimeo-color),
-		(youtube, $youtube-color);
-	@extend .btn-inverse;
-	color: $text-color !important;
-	&:visited,
-	&:active {
-		color: $text-color;
-	}
-	border: 1px solid $border-color !important;
-    width: 10%;
-	@each $socialnetwork, $color in $social {
-		i.fa-#{$socialnetwork} {
-	    color: $color;
-        line-height: 2;
-    }    
-	}
-	&:hover {
-		color: $white !important;
-	}
-	@each $socialnetwork, $color in $social {
-		&.#{$socialnetwork}:hover {
-		    background: $color;
-		    border-color: $color;
-		    @each $socialnetwork, $color in $social {
-					i.fa-#{$socialnetwork} {
-				    color: $white;
-			    }    
-				}
-	    }    
-	}
 }
 
 .social-share {
@@ -255,25 +110,6 @@ table {
 	}
 }
 
-.inline-btn {
-  @include clearfix;
-  text-align: center;
-  a, btn {
-    display: inline-block;
-    margin-right: $gutter / 2;
-    &:last-child {
-      margin-right: 0;
-    }
-  }
-}
-
-// Well
-// --------------------------------------------------
-.well {
-  padding: 20px;
-  border: 1px solid $comp-color;
-  @include rounded(4px);
-}
 
 // Animations
 // --------------------------------------------------

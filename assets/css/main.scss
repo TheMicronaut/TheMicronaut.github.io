@@ -30,10 +30,22 @@ sitemap: false
 @import "mixins";
 @import "reset";
 @import "site";
-@import "pygments";
-@import "coderay";
+
+/*
+   Components
+   ========================================================================== */
+
+@import "helpers";
+@import "buttons";
+@import "wells";
+@import "syntax";
 @import "elements";
 @import "forms";
+@import "notices"; /* notices and alerts */
+@import "footnotes";
 @import "layout";
 @import "animations";
+@import "masthead";
+@import "navigation";
 @import "simple-search";
+@import "footer";

@@ -1,0 +1,139 @@
+/* ==========================================================================
+   Helpers and Utility Classes
+   ========================================================================== */
+
+.wrap {
+  margin: 0 auto;
+}
+
+/*
+   Typography
+   ========================================================================== */
+
+/* capitalize all letters */
+
+.all-caps {
+  text-transform: uppercase;
+}
+
+/* center text */
+
+.center {
+  text-align: center;
+}
+
+/* remove bullets from list items */
+
+/**
+ *  <ul class="unstyled-list">
+ *    <li>Item 1</li>
+ *    <li>Item 2</li>
+ *  </ul>
+ */
+
+.unstyled-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  li {
+    list-style-type: none;
+  }
+}
+
+/*
+   Image alignment
+   ========================================================================== */
+
+/* float left */
+
+.pull-left {
+  float: left;
+  padding-right: $gutter;
+}
+
+/* float right */
+
+.pull-right {
+  float: right;
+  padding-left: $gutter;
+}
+
+/*
+   Image layout in <figure>
+   ========================================================================== */
+
+figure {
+	margin-left: -1 * $gutter;
+	margin-right: -1 * $gutter;
+	// full width figures on small screens
+	@include media($medium) {
+		margin-left: 0;
+		margin-right: 0;
+		position: relative;
+	}
+	@include clearfix;
+	img {
+		margin-bottom: 0px + $doc-line-height;
+		margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
+        outline: none !important;
+	}
+	a {
+		img {
+        //-webkit-transition-duration: 0.25s;
+        //-moz-transition-duration: 0.25s;
+        //-o-transition-duration: 0.25s;
+        opacity: 1; 
+			// Image hover animation
+			&:hover {
+				//@include transform(translateY(-5px));
+                @include animation(pop .3s 0 linear);
+                //@include box-shadow(0 0 10px rgba($black, .20));
+                opacity: 1;
+			}
+		}
+	}
+	&.half {
+		@include outer-container;
+		@include media($medium) {
+			a,
+			> img {
+				@include span-columns(6);
+				@include omega(2n);
+			}
+			figcaption {
+				clear: left;
+			}
+		}
+	}
+	&.third {
+		@include outer-container;
+		@include media($medium) {
+			a,
+			> img {
+				@include span-columns(4);
+				@include omega(3n);
+			}
+			figcaption {
+				clear: left;
+			}
+		}
+	}
+}
+
+/*
+   No scrollbars
+   ========================================================================== */
+
+.no-scroll {
+  overflow: hidden;
+}
+
+/*
+   Link arrow (used in link post titles)
+   ========================================================================== */
+
+.link-arrow {
+  font-weight: 100;
+  text-decoration: underline;
+  font-style: normal;
+}
