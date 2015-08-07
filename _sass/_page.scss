@@ -92,10 +92,10 @@ span + .entry-title {
 .entry-meta {
 	@include span-columns(12);
 	text-transform: uppercase;
-        font-family: $alt-font;
+    font-family: $alt-font;
 	@include font-size(14);
-    	border-top: 1px solid rgba(0,0,0,0.1);
-    	padding-top: 10px;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    padding-top: 10px;
 	a {
 		color: $text-color;
 	}
@@ -182,7 +182,11 @@ span + .entry-title {
    ========================================================================== */
 
 #disqus_thread {
-	margin-top: 2em;
+	margin-top: 1em;
+}
+
+#comments-head {
+	border-top: 1px solid rgba(0,0,0,0.1);
 }
 
 /*
