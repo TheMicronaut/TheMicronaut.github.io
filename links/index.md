@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogs & sites I visit frequently
+title: blogs & sites I visit frequently
 excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
@@ -23,10 +23,14 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [mysteryheaven](http://mysteryheaven.tumblr.com/){:target="_blank"} 
 * [inhal3rt](http://inhal3rt.tumblr.com/){:target="_blank"}
 * [starelf ophelia](http://elenib.tumblr.com/){:target="_blank"}
+* [ghoulnextdoor](http://ghoulnextdoor.tumblr.com/){:target="_blank"}
 * [theargasmicmusic](http://theargasmicmusic.tumblr.com/){:target="_blank"}
 
 ##### mixcloud
 
 ##### youtube
+
+* [tzortzinious](https://www.youtube.com/channel/UC-cSXjGlG90Gw8VDTwsL06g){:target="_blank"}
+
 
 
