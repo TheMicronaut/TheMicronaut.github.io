@@ -26,7 +26,7 @@ Have fun and respect others,<br/>
 Aleh and the Micronaut
 
 <figure>
-    <iframe width="545" height="300" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    <iframe width="530" height="300" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
     <figcaption>Dear little lad<br/>
 Here's the story of my life<br/> 
 I lived on the moon (2x)<br/>
@@ -36,8 +36,7 @@ The three tailed moneys<br/>
 Were drawing the stars<br/>
 Light from the Sun and I<br/>
 Hide myself on the dark side, alone<br/>
-I've run so far<br/>
-To find my way<br/>
+I've run so far, to find my way<br/>
 Then I dream again.. alone<br/>
 <br/>
 Dear little boy, listen<br/>
@@ -51,6 +50,5 @@ Your dream will be your only shell<br/>
 Your secrets, your hiding place, my son<br/>
 Don't let them try<br/>
 To crush your brain<br/>
-Let you go far<br/>
-..my son</figcaption>
+Let you go far ...my son</figcaption>
 </figure>
