@@ -16,6 +16,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [GR/EN]
 
 #### &#x261B; Music resources
+
 ##### tumblr
 
 * [elenelli](http://elenelli.tumblr.com/){:target="_blank"}
