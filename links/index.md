@@ -17,6 +17,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 
 #### &#x261B; Music resources
 ##### tumblr
+
 * [elenelli](http://elenelli.tumblr.com/){:target="_blank"}
 * [mysteryheaven](http://mysteryheaven.tumblr.com/){:target="_blank"} 
 * [inhal3rt](http://inhal3rt.tumblr.com/){:target="_blank"}
