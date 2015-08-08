@@ -3,11 +3,14 @@
 - title: Main
   url: /
 
-#- title: Articles
-#  url: /articles/
-
-- title: Archive
+- title: Blog
   url: /blog/
-  
+
 - title: Tags
   url: /tags/
+
+- title: About
+  url: /about/
+
+- title: Links
+  url: /links/
