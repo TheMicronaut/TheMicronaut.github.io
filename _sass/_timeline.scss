@@ -88,8 +88,10 @@ $timeline-color: #222;
 				font-size: 0.85rem;
 			}
 			p#tags { 
-				color: #E6E6E6;
-				font-size: 0.7rem;
+				color: #222;
+				font-size: 0.8rem;
+				font-style: italic;
+				float: right;
 			} 
 
 			&:before {
