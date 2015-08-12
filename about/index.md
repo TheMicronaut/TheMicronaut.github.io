@@ -2,20 +2,21 @@
 layout: page
 title: What's all about this?
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+date: '2015-08-09T00:30:00+01:00'
+#modified: 2014-08-08T19:44:38.564948-04:00
 #image:
 # feature: so-simple-sample-image-4.jpg
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Hello dearest visitor, and thanks for visiting,
+Hello dearest visitor, and thanks for being one,
 
-I'm Aleh and together with my buddy, the Micronaut, we are sharing things mainly about music and stories. Sometimes you will find content in English whereas other times in Greek. That depends pretty much on the mood.
+I'm a Micronaut and together with my buddy Aleh we are hereby sharing things mostly about music and storytelling. Depending pretty much on our mood,  you will find content either in English or in Greek. 
 
-Myself, I've studied (high energy & particle) physics, electrical engineering, medical informatics, and currently I earn my bread as software engineer in Healthcare IT sector. But I assume you don't care about all this. If it happens you seek for this type of content here, you will probably be frustrated, as you will find only tiny traces of it.
+Aleh studied (high energy & particle) physics, electrical engineering, medical informatics, and currently earns his bread (mine as well) as software engineer in Healthcare IT sector. But who cares about all that staff? If it happens you seek content in these areas, you will  be frustrated to find only tiny traces of it. Aleh loves to write or narrate stories, but alas his time is very limited.
 
-Most of the time you will find me travelling in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very difficult when it comes to mainstream pop music. If you are curious about my musical taste, you could best check my [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I'm also very privileged to be surrounded by [friends](/links){:target="_blank"} (real or online) with great taste in music. 
+As for the Micronaut, most of my time you will find me travelling in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very difficult when it comes to mainstream pop music. If you are curious about my musical taste, you could best check my [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I'm also very privileged to be surrounded by [friends](/links){:target="_blank"} (real or online) with great taste in music. 
 
 Regarding the deployment of this blog, I chose one of the most promising available bloging platforms nowadays, that is Jekyll on Github. I find it very exciting that one can post by simply uploading text files. For the theme, I chose the ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}. I slightly modified this theme to accommodate my needs.
 

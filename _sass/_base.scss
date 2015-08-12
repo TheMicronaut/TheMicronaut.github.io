@@ -216,7 +216,17 @@ blockquote {
 	border-left: 8px solid $black;
 }
 
-
+.dcap {
+	color: #000; 
+	display: block; 
+	float: left; 
+	font-family:  $alt-font;
+	font-size: 74px; 
+	height: 62px; 
+	line-height: 72px; 
+	padding-left: 0; 
+	padding-right: 8px;
+}
 
 
 
