@@ -201,22 +201,18 @@ img.center {
 
 // PREVIEWS-NEXT POST
 // --------------------------------------------------
-/* .next-prev-mobile {
-	display: none;
-} */
-
 .next-prev a {
+	@include media($small) {
+		display: none;
+	}
 	background: $link-color;
 	padding: 10px;
 	color: $white;
 	font-size: 14px;
-	font-family:  $alt-font;  //'Raleway', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family:  $alt-font; 
 	text-transform: uppercase;
 	font-weight: 500;
 	letter-spacing: 1px;
-	@include media($small) {
-		display: none;
-	}
 }
 
 .next-post a {
