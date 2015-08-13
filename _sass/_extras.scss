@@ -206,9 +206,9 @@ img.center {
 } */
 
 .next-prev a {
-	background: #DD574C;
+	background: $link-color; //#DD574C;
 	padding: 10px;
-	color: #fff;
+	color: $white;
 	font-size: 14px;
 	font-family:  $alt-font;  //'Raleway', 'Helvetica Neue', Helvetica, sans-serif;
 	text-transform: uppercase;
@@ -240,10 +240,10 @@ img.center {
 .next-post a:after {
 	position: absolute;
 	content: "\f054";
-	left: 10px;
-	top: 12px;
-	color: #fff;
-	font-size: 24px;
+	left: 6px;
+	top: 6px;
+	color: $white;
+	font-size: 20px;
 	font-family: 'FontAwesome';
     -webkit-font-smoothing: antialiased;
 }
@@ -272,10 +272,10 @@ img.center {
 .prev-post a:after {
 	position: absolute;
 	content: "\f053";
-	right: 10px;
-	top: 12px;
+	right: 6px;
+	top: 6px;
 	color: #fff;
-	font-size: 24px;
+	font-size: 20px;
 	font-family: 'FontAwesome';
     -webkit-font-smoothing: antialiased;
 }
