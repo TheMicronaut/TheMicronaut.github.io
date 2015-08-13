@@ -202,10 +202,8 @@ img.center {
 // PREVIEWS-NEXT POST
 // --------------------------------------------------
 .next-prev a {
-	@include media($micro) {
-		display: none;
-	}
 	background: $link-color;
+	opacity: 0.9;
 	padding: 10px;
 	color: $white;
 	font-size: 14px;
@@ -213,6 +211,12 @@ img.center {
 	text-transform: uppercase;
 	font-weight: 500;
 	letter-spacing: 1px;
+	@include media($micro) {
+		display: none;
+	}
+	@include media($small) {
+		opacity: 0.7;
+	}	
 }
 
 .next-post a {
