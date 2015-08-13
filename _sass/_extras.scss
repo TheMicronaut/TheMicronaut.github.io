@@ -202,7 +202,7 @@ img.center {
 // PREVIEWS-NEXT POST
 // --------------------------------------------------
 .next-prev a {
-	@include media($small) {
+	@include media($micro) {
 		display: none;
 	}
 	background: $link-color;
