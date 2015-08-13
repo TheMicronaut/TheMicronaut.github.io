@@ -206,7 +206,7 @@ img.center {
 } */
 
 .next-prev a {
-	background: $link-color; //#DD574C;
+	background: $link-color;
 	padding: 10px;
 	color: $white;
 	font-size: 14px;
@@ -214,6 +214,9 @@ img.center {
 	text-transform: uppercase;
 	font-weight: 500;
 	letter-spacing: 1px;
+	@include media($small) {
+		display: none;
+	}
 }
 
 .next-post a {

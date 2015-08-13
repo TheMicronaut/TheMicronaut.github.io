@@ -7,8 +7,12 @@
 {% include head.html %}
 </head>
 <div class="next-prev">
+{% if page.previous %}
 <div class="prev-post"> <a href="{{ site.url }}{{ page.previous.url }}"  rel="prev">Previous Post</a></div>
+{% endif %}
+{% if page.next %}
 <div class="next-post"> <a href="{{ site.url }}{{ page.next.url }}"  rel="next">Next Post</a></div>
+{% endif %}
 </div>
 
 <body id="post">
@@ -65,13 +69,6 @@
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
-      {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" title="Previous post">&#8592; {{ page.previous.title }} (previous)</a>
-      {% endif %}
-      &nbsp;&nbsp;&nbsp;<span style="font-size: 2rem; vertical-align: middle;">&#10058;</span>&nbsp;&nbsp;&nbsp;
-      {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" title="Next">(next) {{ page.next.title }} &#8594;</a>
-      {% endif %}<br/>
       <a href="#post" title="Top">Back to Top</a>
     </nav><!-- /.pagination -->
   </article>
