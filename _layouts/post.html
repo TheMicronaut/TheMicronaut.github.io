@@ -6,6 +6,10 @@
 <head>
 {% include head.html %}
 </head>
+<div class="next-prev">
+<div class="prev-post"> <a href="{{ site.url }}{{ page.previous.url }}"  rel="prev">Previous Post</a></div>
+<div class="next-post"> <a href="{{ site.url }}{{ page.next.url }}"  rel="next">Next Post</a></div>
+</div>
 
 <body id="post">
 
