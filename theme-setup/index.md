@@ -63,7 +63,7 @@ How So Simple is organized and what the various files are. All posts, layouts, i
 so-simple-theme/
 ├── _includes/
 |    ├── browser-upgrade.html   # prompt to install a modern browser for < IE9
-|    ├── disqus_comments.html   # Disqus comments script
+|    ├── disqus-comments.html   # Disqus comments script
 |    ├── footer.html            # site footer
 |    ├── head.html              # site head
 |    ├── navigation.html        # site top navigation

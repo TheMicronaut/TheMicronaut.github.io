@@ -62,10 +62,11 @@
       </footer>
       <div class="entry-content">
         {{ content }}
-        {% if site.owner.disqus-shortname and page.comments == true %}
-		<div id="comments-head"><h2 class="alt-font-big">Comments</h2></div>
-		<div id="disqus_thread"></div><!-- /#disqus_thread -->
-		{% endif %}
+        {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
+		  <div id="comments-head"><h2 class="alt-font-big">Comments</h2></div>
+          <div id="disqus_thread"></div><!-- /#disqus_thread -->
+          {% include disqus-comments.html %}
+        {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
     <nav class="pagination" role="navigation">
