@@ -7,7 +7,7 @@ title: 'Ένα πουλί μετράει τα πούπουλα'
 excerpt: 'Always the hours...'
 date: '2015-07-21T00:30:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [stories, poetry]
+tags: [stories, poetry, vitae]
 author: Aleh
 hidelogo: true
 ---
