@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: music
+categories: [music, blogovision, blogovision2013]
 share: true
 comments: true
 title: 'Blogovision - My own list of 2013 nominees (albums)'
