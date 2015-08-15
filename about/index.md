@@ -12,7 +12,7 @@ date: '2015-08-09T00:30:00+01:00'
 
 Hello dearest visitor, and thanks for being one,
 
-I'm a Micronaut and together with my buddy Aleh we are hereby sharing things mostly about music and storytelling. Depending pretty much on our mood,  you will find content either in English or in Greek. 
+I'm a Micronaut and together with my buddy Aleh we are hereby sharing things mostly about [music](/music){:target="_blank"} and [stories](/blog){:target="_blank"}. Depending pretty much on our mood,  you will find content either in English or in Greek. 
 
 Aleh studied (high energy & particle) physics, electrical engineering, medical informatics, and currently earns his bread (mine as well) as software engineer in Healthcare IT sector. But who cares about all that stuff? If it happens you seek content related to these areas, you will be frustrated to find here only tiny traces of it, and always well woven in his stories. You see, Aleh loves to write or to narrate stories, but alas his free time is very limited. He is trying his best, though, for that I can tell.
 
