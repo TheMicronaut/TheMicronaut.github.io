@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: music
+categories: [music, blogovision, blogovision2014]
 share: true
 comments: true
 title: 'The Roaring Twenties - 2014' 
@@ -100,9 +100,9 @@ hidelogo: true
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/25636880&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true">&nbsp;</iframe>
 
 #### Check also this…
-* [The Dirty Thirties - 2014](/music/blogovision2014-the-dirty-thirties/){:target="_blank"}
-* [The Beauty Above 40 - 2014](/music/blogovision2014-the-beauty-above-40/){:target="_blank"}
-* [The Glorious Outcasts - 2014](/music/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
-* [My own list of albums - 2014](/music/complete-list-2014/){:target="_blank"}
-* [#Blogovision: My No.1 for 2013](/music/blogovision2013-no01/){:target="_blank"}
-* [#Blogovision : The list of 2013 albums](/music/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
+* [The Dirty Thirties - 2014](/music/blogovision/blogovision2014/blogovision2014-the-dirty-thirties/){:target="_blank"}
+* [The Beauty Above 40 - 2014](/music/blogovision/blogovision2014/blogovision2014-the-beauty-above-40/){:target="_blank"}
+* [The Glorious Outcasts - 2014](/music/blogovision/blogovision2014/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
+* [My own list of albums - 2014](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01/){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}

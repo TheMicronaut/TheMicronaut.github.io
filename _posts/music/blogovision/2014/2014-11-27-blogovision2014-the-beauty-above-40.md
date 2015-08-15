@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: music
+categories: [music, blogovision, blogovision2014]
 share: true
 comments: true
 title: 'The Beauty Above 40 - 2014'
@@ -15,7 +15,7 @@ hidelogo: true
 	<a href="/images/posts/beauty-above-40.png"><img src="/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" class="center"/></a>
 </figure>
 
-Υπάρχει ομορφιά μετά τα σαράντα; Ηλίθια ερώτηση θα σκεφτείς και θα συμφωνήσω. Θέλει [τέχνη να ρωτάς](http://www.ted.com/talks/amanda_palmer_the_art_of_asking?language=en){:target="_blank"} είναι η αλήθεια. Κι αν πάλι ρωτήσεις γιατί τα παρακάτω άλμπουμ είναι σ' αυτή τη θέση, και πάλι άτεχνη η ερώτηση θα σου απαντήσω. Αν ωστόσο με ρωτούσε κάποιος ποια φετινά άλμπουμ θα έπαιρνα στο ταξίδι μας, στο mp3-player που χωράει μόνο 50 albums, σίγουρα τα παρακάτω [διαμάντια](/music/complete-list-2014/){:target="_blank"} θα ήταν μέσα σ' αυτά.  Τα παραθέτω με **σειρά προτεραιότητας**, μη τυχόν δε και χωρέσουν στον player! :)
+Υπάρχει ομορφιά μετά τα σαράντα; Ηλίθια ερώτηση θα σκεφτείς και θα συμφωνήσω. Θέλει [τέχνη να ρωτάς](http://www.ted.com/talks/amanda_palmer_the_art_of_asking?language=en){:target="_blank"} είναι η αλήθεια. Κι αν πάλι ρωτήσεις γιατί τα παρακάτω άλμπουμ είναι σ' αυτή τη θέση, και πάλι άτεχνη η ερώτηση θα σου απαντήσω. Αν ωστόσο με ρωτούσε κάποιος ποια φετινά άλμπουμ θα έπαιρνα στο ταξίδι μας, στο mp3-player που χωράει μόνο 50 albums, σίγουρα τα παρακάτω [διαμάντια](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"} θα ήταν μέσα σ' αυτά.  Τα παραθέτω με **σειρά προτεραιότητας**, μη τυχόν δε και χωρέσουν στον player! :)
 
 ##### 50 &#x261B; Leonard Cohen - Popular Problems
 *Color:* folk::blues<br/>
@@ -78,7 +78,7 @@ hidelogo: true
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=912886997/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=3326116588/transparent=true/" seamless><a href="http://dmp666.bandcamp.com/album/teeth-toes-and-other-trinkets">Teeth, Toes And Other Trinkets by MANES</a>&nbsp;</iframe>
 
 #### Check also this…
-* [The Glorious Outcasts - 2014](/music/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
-* [My own list of albums - 2014](/music/complete-list-2014/){:target="_blank"}
-* [#Blogovision: My No.1 for 2013](/music/blogovision2013-no01/){:target="_blank"}
-* [#Blogovision : The list of 2013 albums](/music/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
+* [The Glorious Outcasts - 2014](/music/blogovision/blogovision2014/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
+* [My own list of albums - 2014](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01/){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
