@@ -20,15 +20,15 @@ body {
 
 
 // COLORS =====================================================
-$body-color       : #fff;
+$body-color         : #fff;
 $text-color         : #222;
-$base-color        : #343434;    
-$comp-color      : spin($base-color, 180); 
-$border-color     : #ddd;
-$white                : #fff;
-$black                : #000;
-$accent-color     : $black;
-$link-color          : #222;
+$base-color         : #343434;    
+$comp-color         : spin($base-color, 180); 
+$border-color       : #ddd;
+$white              : #fff;
+$black              : #000;
+$accent-color       : $black;
+$link-color         : #222;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;
@@ -52,8 +52,8 @@ $vimeo-color                  : #1ab7ea;
 $youtube-color                : #ff3333;
 
 // MEDIA QUERIES ==============================================
-$micro           : "only screen and (min-width: 30em)";
+$micro            : "only screen and (min-width: 30em)";
 $small            : "only screen and (min-width: 37.5em)";
-$medium       : "only screen and (min-width: 48em)";
+$medium           : "only screen and (min-width: 48em)";
 $large            : "only screen and (min-width: 62em)";
-$x-large         : "only screen and (min-width: 86.375em)";
+$x-large          : "only screen and (min-width: 86.375em)";
