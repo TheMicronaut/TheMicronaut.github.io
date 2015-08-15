@@ -87,8 +87,8 @@ hidelogo: true
 <iframe width="420" height="315" src="//www.youtube.com/embed/Rh1C8qpODZs" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 #### Check also this…
-* [The Beauty Above 40 - 2014](/blog/blogovision2014-the-beauty-above-40//){:target="_blank"}
-* [The Glorious Outcasts - 2014](/blog/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
-* [My own list of albums - 2014](/blog/complete-list-2014/){:target="_blank"}
-* [#Blogovision: My No.1 for 2013](/blog/blogovision2013-no01/){:target="_blank"}
-* [#Blogovision : The list of 2013 albums](/blog/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
+* [The Beauty Above 40 - 2014](/music/blogovision2014-the-beauty-above-40//){:target="_blank"}
+* [The Glorious Outcasts - 2014](/music/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
+* [My own list of albums - 2014](/music/complete-list-2014/){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/music/blogovision2013-no01/){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/music/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
