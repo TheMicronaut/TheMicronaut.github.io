@@ -131,12 +131,13 @@ img.center {
     -webkit-transition: 1s ease-in-out;
     -moz-transition: 1s ease-in-out;
     -o-transition: 1s ease-in-out;
-    transition: 1s ease-in-out;    
+    transition: 1s ease-in-out;
 	&:hover {
 		-webkit-transform: scale(2);
         -moz-transform: scale(2);
         -o-transform: scale(2);
-        -ms-transform: scale(2);        
+        -ms-transform: scale(2);
+		animation-fill-mode: forwards;
         @each $socialnetwork, $color in $social {
             i.fa-#{$socialnetwork} {
                 color: $color;
