@@ -2,9 +2,9 @@
 $base-font: 'Ubuntu', sans-serif;
 $alt-font: 'Philosopher', 'Ubuntu', sans-serif;
 $heading-font: $base-font;
+$title-font: $alt-font;
 $caption-font: $alt-font;
-$code-font: 'Ubuntu', sans-serif;
-$title-font: 'Tangerine', 'Caudex', 'Ubuntu', serif;
+$code-font: $base-font;
 
 $doc-font-size: 16;
 $doc-line-height: 24;
