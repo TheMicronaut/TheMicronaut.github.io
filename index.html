@@ -10,7 +10,7 @@ search_omit: true
   <li><article><a class="alt-font-normal" href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
       <span class="alt-font-small">{{ post.excerpt | strip_html | truncatewords:125}}</span><br>
       {% for tag in post.tags %}<a class="alt-font-smallest" href="/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}<br>
-      <a class="alt-font-smallest" href="{{ post.url }}"><i>Read more &#8594;<i></a><br><br>
+      <br>
 {% endfor %}
 
 <!-- Pagination links -->
