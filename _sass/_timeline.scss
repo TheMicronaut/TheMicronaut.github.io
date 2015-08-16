@@ -79,10 +79,11 @@ $timeline-color: #222;
 				margin: -20px -20px 0 -20px;
 				font-weight: 400;
 				font-size: 1.5rem;
+				line-height: 1.2;
 				@include prefix(border-radius, 3px 3px 0 0);
 			}
 			h3 {
-				padding-top: 4px;
+				padding-top: 5px;
 				color: #E6E6E6;
 				font-weight: 200;
 				font-size: 0.85rem;
