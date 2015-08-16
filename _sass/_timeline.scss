@@ -68,8 +68,8 @@ $timeline-color: #222;
 			width: 45%;
 			background: #fff;
 			padding: 20px;
-			@include prefix(box-shadow, 0 3px 0 rgba(0,0,0,0.1));
-			@include prefix(border-radius, 5px);
+			@include prefix(box-shadow, 0 2px 0 rgba(0,0,0,0.3));
+			@include prefix(border-radius, 1px);
 			@include prefix(transition, all .3s ease);
 
 			h2 , h3 {
@@ -83,7 +83,7 @@ $timeline-color: #222;
 				@include prefix(border-radius, 3px 3px 0 0);
 			}
 			h3 {
-				padding-top: 10px;
+				padding-top: 12px;
 				color: #E6E6E6;
 				font-weight: 200;
 				font-size: 0.85rem;
