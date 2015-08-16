@@ -73,7 +73,7 @@ $timeline-color: #222;
 			@include prefix(transition, all .3s ease);
 
 			h2 , h3 {
-				padding: 15px;
+				padding: 8px;
 				background: $timeline-color;
 				color: #fff;
 				margin: -20px -20px 0 -20px;
