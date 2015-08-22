@@ -28,7 +28,7 @@ Have fun and respect others,<br/>
 Aleh and the Micronaut
 
 <figure>
-    <iframe width="530" height="320" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    <iframe width="530" height="340" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
     <figcaption>Dear little lad<br/>
 Here's the story of my life<br/> 
 I lived on the moon (2x)<br/>
