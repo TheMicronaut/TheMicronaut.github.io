@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's all about this?
+title: What's going on here?
 excerpt: "So Simple is a responsive Jekyll theme for your words and images."
 date: '2015-08-09T00:30:00+01:00'
 #modified: 2014-08-08T19:44:38.564948-04:00
@@ -23,11 +23,12 @@ Regarding the deployment of this blog, I chose one of the most promising availab
 
 If you wish to contact me, you may use one of the links at the bottom (footer).
 
+Welcome to our adventures.<br/>
 Have fun and respect others,<br/>
 Aleh and the Micronaut
 
 <figure>
-    <iframe width="530" height="300" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    <iframe width="530" height="320" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
     <figcaption>Dear little lad<br/>
 Here's the story of my life<br/> 
 I lived on the moon (2x)<br/>
@@ -36,19 +37,24 @@ Mountains of destiny while<br/>
 The three tailed moneys<br/>
 Were drawing the stars<br/>
 Light from the Sun and I<br/>
-Hide myself on the dark side, alone<br/>
-I've run so far, to find my way<br/>
+Hide myself<br/>
+on the dark side, alone<br/>
+I've run so far,<br/>
+to find my way<br/>
 Then I dream again.. alone<br/>
 <br/>
 Dear little boy, listen<br/>
 To voices of your soul<br/>
 It showed you the way of<br/>
-Silence and peace<br/>
+silence and peace<br/>
 Follow your thought and fly<br/>
-Choosing all the things that you desire<br/>
+Choosing all the things<br/>
+that you desire<br/>
 Giant waves, fireflies..<br/>
-Your dream will be your only shell<br/>
-Your secrets, your hiding place, my son<br/>
+Your dream will be<br/>
+your only shell<br/>
+Your secrets,<br/>
+your hiding place, my son<br/>
 Don't let them try<br/>
 To crush your brain<br/>
 Let you go far ...my son</figcaption>
