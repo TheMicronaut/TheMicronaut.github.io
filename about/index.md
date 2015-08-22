@@ -28,16 +28,16 @@ Have fun and respect others,<br/>
 Aleh and the Micronaut
 
 <figure>
-    <iframe width="530" height="340" src="//www.youtube.com/embed/xTysF1E4Ft0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    <iframe width="530" height="335" src="//www.youtube.com/embed/xTysF1E4Ft0?rel=0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
     <figcaption>Dear little lad<br/>
 Here's the story of my life<br/> 
 I lived on the moon (2x)<br/>
 Grey flying snakes along<br/>
 Mountains of destiny while<br/>
-The three tailed moneys<br/>
-Were drawing the stars<br/>
-Light from the Sun and I<br/>
-Hide myself<br/>
+the three tailed moneys<br/>
+were drawing the stars<br/>
+Light from the Sun<br/>
+and I hide myself<br/>
 on the dark side, alone<br/>
 I've run so far,<br/>
 to find my way<br/>
