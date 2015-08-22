@@ -29,7 +29,7 @@
     {% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
+        <span class="entry-tags">{% if page.tags %}<i class="fa fa-tags"></i>&nbsp;&nbsp;{% endif %}{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
         {% if page.link %}
           <h1 class="entry-title"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
         {% else %}

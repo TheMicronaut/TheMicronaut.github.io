@@ -9,7 +9,7 @@ search_omit: true
 {% for post in paginator.posts %} 
   <li><article><a class="alt-font-normal" href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
       <span class="alt-font-small">{{ post.excerpt | strip_html | truncatewords:125}}</span><br>
-      {% for tag in post.tags %}<a class="alt-font-smallest" href="/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}<br>
+      {% if post.tags %}<i class="fa fa-tags"></i>&nbsp;&nbsp;{% endif %}{% for tag in post.tags %}<a class="alt-font-smallest" href="/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}<br>
       <br>
 {% endfor %}
 
