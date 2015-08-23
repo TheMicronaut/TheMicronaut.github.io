@@ -225,6 +225,7 @@ There was nothing to fear and nothing to doubt</figcaption>
 > warf es einen Stock als Lanze gegen den Baum,<br/>
 > und sie zittert da heute noch.<br/>
 
+<div class="appear-later">
 <figure>
     <iframe width="545" height="300" src="//www.youtube.com/embed/Gy_BD76-mvo" frameborder="0" allowfullscreen>&nbsp;</iframe>	
     <figcaption>Να 'ναι παραμύθι<br/>
@@ -232,5 +233,5 @@ There was nothing to fear and nothing to doubt</figcaption>
 	στέρνα γεμάτη χρώματα,<br/>
 	να πιεις και να πλυθείς</figcaption>
 </figure>
-
+</div>
 *To be able to say "ah" and "oh" and "hey" instead of "yea" and "amen."*
