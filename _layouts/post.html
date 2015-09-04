@@ -62,7 +62,7 @@
       </footer>
       <div class="entry-content">
         {{ content }}
-		{% if page.poll_id %} {% include polls/poll-{{page.poll_id}}.html %} {% endif %}	
+		{% if page.poll_id %} <div id="poll">{% include polls/poll-{{page.poll_id}}.html %}</div> {% endif %}	
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
 		  <div id="comments-head"><h2 class="alt-font-big">Comments</h2></div>
           <div id="disqus_thread"></div><!-- /#disqus_thread -->
