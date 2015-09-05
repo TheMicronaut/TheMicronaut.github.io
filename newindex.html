@@ -6,7 +6,7 @@ search_omit: true
 ---
 
 <ul class="post-list">
-{% for post in site.posts %} 
+{% for post in site.posts limit: 20 %} 
   <li><article><a class="alt-font-normal" href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
       <span class="alt-font-small">{{ post.excerpt | strip_html | truncatewords:125}}</span><br>
       {% if post.tags %}<i class="fa fa-tags"></i>&nbsp;&nbsp;{% endif %}{% for tag in post.tags %}<a class="alt-font-smallest" href="/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}<br>
