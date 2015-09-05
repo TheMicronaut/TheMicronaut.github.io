@@ -8,6 +8,7 @@ excerpt: "Το τέλος είναι η αρχή"
 date: '2014-11-29T23:00:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
+redirect_from: "/blog/blogovision2014-the-roaring-twenties/"
 author: Micronaut
 hidelogo: true
 ---

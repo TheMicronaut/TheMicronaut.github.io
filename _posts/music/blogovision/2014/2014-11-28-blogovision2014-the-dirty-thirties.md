@@ -8,6 +8,7 @@ excerpt: "Εσύ, πόσα κρεμμύδια καθάρισες σήμερα;"
 date: '2014-11-28T23:00:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
+redirect_from: "/blog/blogovision2014-the-dirty-thirties/"
 author: Micronaut
 hidelogo: true
 ---

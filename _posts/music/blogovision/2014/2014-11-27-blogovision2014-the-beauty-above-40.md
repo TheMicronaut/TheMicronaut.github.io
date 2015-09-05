@@ -8,6 +8,7 @@ excerpt: "Υπάρχει ομορφιά μετά τα σαράντα;"
 date: '2014-11-27T22:00:00+01:00'
 #modified: '2014-11-26T23:39:00+01:00'
 tags: [blogovision, blogovision2014]
+redirect_from: "/blog/blogovision2014-the-beauty-above-40/"
 author: Micronaut
 hidelogo: true
 ---
