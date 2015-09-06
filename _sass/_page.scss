@@ -132,33 +132,30 @@ span + .entry-title {
 /* feature image credit */
 
 .image-credit {
-    font-family: $alt-font;  // previewsstyle
-	font-style: italic; // previewsstyle
-	@include font-size(14,no); // previewsstyle
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	margin: 0 auto;
-	max-width: 440px;
-	padding: 10px 15px;
-	background-color: rgba(#222,0.4);
-	color: $white;
-	//@include font-rem(12);
-	text-align: right;
-	@include border-radius(3px,0,0,3px);
-	z-index: 10;
-	@include media ($medium) {
+	  margin: 0 auto;
+	  max-width: 440px;
+	  padding-top: 3px;
+	  padding-right: 20px;
+	  padding-left: 20px;
+	  text-align: right;
+	  font-family: $alt-font;
+	  font-style: italic;    
+	  @include font-size(14,no);
+	  line-height: 1.3;
+	  color: lighten($text-color, 30);
+	  @include clearfix();
+	  @include media($medium) {
 		max-width: 760px;
-		@include font-size(14,no);
-	}
-	@include media ($large) {
+		padding-right: 60px;
+		padding-left: 60px;
+		@include font-size(14, no);
+	  }
+	  @include media($large) {
 		max-width: 960px;
-	}
-	a {
-		color: $white;
-		text-decoration: none;
-		color: lighten($text-color, 30); // previewsstyle
-	}
+	  }
+	  a {
+		color: lighten($text-color, 30);
+	  }
 }
 
 /* main content block */
