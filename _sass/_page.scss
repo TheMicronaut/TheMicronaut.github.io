@@ -41,8 +41,8 @@
 
 .entry-tags {
 	display: block;
-	margin-top: 1em;
-        margin-bottom: 1rem !important;
+	margin-top: 2em;
+    margin-bottom: 1rem !important;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 400;
@@ -144,6 +144,8 @@ span + .entry-title {
 	  color: $white;
 	  margin-top: -40px;
 	  background-color: rgba($black, 0.6);
+	  @include border-radius(3px,0,0,3px);
+	  z-index: 10;	
 	  @include clearfix();
 	  @include media($medium) {
 		max-width: 760px;
