@@ -54,7 +54,7 @@ $timeline-color: #222;
 			top: 0;
 			left: 50%;
 			overflow: hidden;
-			margin-left: -23px;
+			margin-left: -19px; //-23px;
 			@include prefix(border-radius, 50%);
 
 			img {
