@@ -141,15 +141,14 @@ figure {
   }
   a {
     img {
-        //-webkit-transition-duration: 0.25s;
-        //-moz-transition-duration: 0.25s;
-        //-o-transition-duration: 0.25s;
-        opacity: 1; 
-	// Image hover animation
+      @include transform(translateY(0));
+      -webkit-transition-duration: 0.25s;
+      -moz-transition-duration: 0.25s;
+      -o-transition-duration: 0.25s;
+      opacity: 0.9; 
       &:hover {
-        //@include transform(translateY(-5px));
-        @include animation(pop .3s 0 linear);
-        //@include box-shadow(0 0 10px rgba($black, .20));
+        @include transform(translateY(-5px));
+        @include box-shadow(0 0 10px rgba($black, .20));
         opacity: 1;
       }
     }
@@ -163,37 +162,37 @@ svg:not(:root) {
 // Figure captions
 
 figcaption {
-	padding-left: 2 * $gutter;
-	padding-right: 2 * $gutter;
-	font-family: $alt-font;
+    padding-left: 2 * $gutter;
+    padding-right: 2 * $gutter;
+    font-family: $alt-font;
     font-style: italic;
     font-weight: 200;
-	@include font-size(12,no,15);
-	color: lighten($text-color, 10);
-	text-align: center;
-	clear: both;
-	@include media($large) {
-		position: absolute;
-		top: 1px;
-		right: (3 * $column + $gutter) * -1;
-		padding-top: 10px;
-		padding-left: 0;
-		padding-right: 0;
-		width: (3 * $column);
-		text-align: left;
-		&:before {
-			content: '';
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 50px;
-			height: 1px;
-			background: lighten($black, 70);
-		}
-	}
-	a {
-		text-decoration: none;
-	}
+    @include font-size(12,no,15);
+    color: lighten($text-color, 10);
+    text-align: center;
+    clear: both;
+    @include media($large) {
+        position: absolute;
+        top: 1px;
+        right: (3 * $column + $gutter) * -1;
+        padding-top: 10px;
+        padding-left: 0;
+        padding-right: 0;
+        width: (3 * $column);
+        text-align: left;
+        &:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background: lighten($black, 70);
+        }
+    }
+    a {
+        text-decoration: none;
+    }
 }
 
 
@@ -216,17 +215,7 @@ blockquote {
 	border-left: 8px solid $black;
 }
 
-.dcap {
-	color: #000; 
-	display: block; 
-	float: left; 
-	font-family:  $alt-font;
-	font-size: 74px; 
-	height: 62px; 
-	line-height: 72px; 
-	padding-left: 0; 
-	padding-right: 8px;
-}
+
 
 
 

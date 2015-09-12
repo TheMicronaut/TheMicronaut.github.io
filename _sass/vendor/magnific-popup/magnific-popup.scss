@@ -501,6 +501,13 @@ button {
       margin: 0;
     }
   }
+  
+  .mfp-figure figcaption {
+        &:before {
+            content: none;
+        }
+  }
+	
   .mfp-bottom-bar {
     margin-top: -$mfp-image-padding-bottom + 4;
     position: absolute;
@@ -515,6 +522,7 @@ button {
     color: $mfp-caption-title-color;
     word-wrap: break-word;
     padding-right: 36px; // leave some space for counter at right side
+	padding-top: $mfp-image-padding-top; // same as img
   }
 
   .mfp-image-holder {
