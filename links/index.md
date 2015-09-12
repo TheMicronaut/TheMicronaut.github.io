@@ -14,6 +14,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 #### &#x261B; Blogs / music
 * [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [GR/EN]
+* [The Roots of the Groove](https://grooveroots.wordpress.com/){:target="_blank"}  [GR]
 
 #### &#x261B; Music resources
 
