@@ -88,19 +88,18 @@ $(document).ready(function(){
 $(document).ready(function() {
     
     /* Every time the window is scrolled ... */
-    $(window).scroll( function(){
+    $(window).scroll( function() {
     
         /* Check the location of each desired element */
-        $('.invisible').each( function(i){
+        $('.invisible').each( function(i) {
             
-            var bottom_of_object = $(this).offset().top + $(this).outerHeight();
+            /*var bottom_of_object = $(this).offset().top + $(this).outerHeight();*/
+			var middle_of_object = $(this).offset().top + ($(this).outerHeight()  * 0.5);
             var bottom_of_window = $(window).scrollTop() + $(window).height();
             
-            /* If the object is completely visible in the window, fade it */
-            if( bottom_of_window > bottom_of_object ){
-                
-                $(this).animate({'opacity':'1'},400);
-                    
+            /* If the object is half visible in the window, fade it */
+            if( bottom_of_window > middle_of_object ){ 
+                $(this).animate({'opacity':'1'}, 400);
             }
             
         }); 
