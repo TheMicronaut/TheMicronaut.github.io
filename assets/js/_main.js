@@ -45,7 +45,7 @@ $(document).ready(function() {
     },
     image: {
       titleSrc: function(item) {
-          return item.el.parents('figure').find('figcaption').html();
+          return '<p>' + item.el.parent().find('figcaption').text() + '</p>';
       },
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
