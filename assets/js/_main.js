@@ -44,6 +44,9 @@ $(document).ready(function() {
       preload: [0,1] // Will preload 0 - before current, and 1 after the current image
     },
     image: {
+      titleSrc: function(item) {
+          return item.el.parents('figure').find('figcaption').html();
+      },
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
