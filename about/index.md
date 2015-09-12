@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What's going on here?
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "About Aleh and the Micronaut"
 date: '2015-08-09T00:30:00+01:00'
 #modified: 2014-08-08T19:44:38.564948-04:00
 #image:
@@ -14,14 +14,14 @@ Hello dearest visitor, and thanks for being one,
 
 I'm a Micronaut and together with my buddy Aleh we are hereby sharing things mostly about [music](/music){:target="_blank"} and [stories](/blog){:target="_blank"}. Depending pretty much on our mood,  you will find content either in English or in Greek. 
 
-Aleh studied (high energy & particle) physics, electrical engineering, medical informatics, and currently earns his bread (mine as well) as software engineer in Healthcare IT sector. But who cares about all that stuff? If it happens you seek content related to these areas, you will be frustrated to find here only tiny traces of it, and always well woven in his stories. You see, Aleh loves to write or to narrate stories, but alas his free time is very limited. He is trying his best, though, for that I can tell.
+Aleh studied (high energy & particle) physics, electrical engineering, and medical informatics. He currently earns his daily bread (mine as well) as software engineer in Healthcare IT sector. But who cares about all this? You will be rather frustrated to find here only few tiny traces of this staff, and always well woven in Aleh's stories. He prefers to narrate stories, you see, but alas his free time is quite limited. He is trying his best, though, for that I can tell.
 
-As for the Micronaut, I sail into the oceans of the human mind. Most of the time you will find me travelling in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very fastidious when it comes to mainstream pop music, as much as Aleh is. If you are curious about my taste in music you might best check my [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I'm also very privileged to be surrounded by [friends](/links){:target="_blank"} (real or online) with great taste in music. 
+As for myself, the Micronaut, I sail into the oceans of the human mind. Most of the time you will find me travelling in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very fastidious when it comes to mainstream pop music, as much as Aleh is. In case you are interested in my music taste, you might better check my [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I'm also very privileged to be surrounded by [friends](/links){:target="_blank"} (both real and virtual) with great taste in music. 
 
-Regarding the deployment of this blog, I chose one of the most promising available bloging platforms nowadays, that is Jekyll on Github. I find it very exciting to post text files instead of bulky database entries. As for the theme, I chose the ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael has done a great job here, and I think he deserves our compliments. I slightly modified his theme, though, in order to accommodate my needs. Among others, I've incorporated the [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"} styles by Bruno Rodrigues, which you can check [here](/music/new-albums-2015/){:target="_blank"}.
+Regarding the deployment of this blog, I chose one of the most promising bloging platforms to date, that is Jekyll on Github pages. I find it just great  to post text files instead of bulky database entries. The chosen theme is the simple yet beatiful ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael has done a great job here, and he definetly deserves compliments. As a proper software engineer would do, Aleh has (slightly) modified Michael's theme, in order to accommodate our needs. Among others, he incorporated the [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"} styles by Bruno Rodrigues, which you can check [here](/music/new-albums-2015/){:target="_blank"}.
 
 
-If you wish to contact me, you may use one of the links at the bottom (footer).
+If you wish to contact us, you may use one of the links at the bottom (footer).
 
 Welcome to our adventures.<br/>
 Have fun and respect others,<br/>
