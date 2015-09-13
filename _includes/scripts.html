@@ -57,41 +57,17 @@
 
 </script>
 {% endif %}
-<script type="text/javascript">
-$(document).ready(function(){
-
-	// hide #back-top first
-	$("#back-top").hide();
-	
-	// fade in #back-top
-	$(function () {
-		$(window).scroll(function () {
-			if ($(this).scrollTop() > 1300) {
-				$('#back-top').fadeIn();
-			} else {
-				$('#back-top').fadeOut();
-			}
-		});
-
-		// scroll body to 0px on click
-		$('#back-top a').click(function () {
-			$('body,html').animate({
-				scrollTop: 0
-			}, 800);
-			return false;
-		});
-	});
-
-});
-</script>
 <!-- Scroll effect for invisible & lazy elements -->
 <script type="text/javascript">
 $(document).ready(function() {
+
+	/* Hide the 'back-top' element */
+	$("#back-top").hide();
     
     /* Every time the window is scrolled ... */
     $(window).scroll( function() {
-    
-        /* Check the location of each desired element */
+        
+		/* Check the location of each 'invisible' element */
         $('.invisible').each( function(i) {
             
             /*var bottom_of_object = $(this).offset().top + $(this).outerHeight();*/
@@ -109,9 +85,27 @@ $(document).ready(function() {
                 $(this).animate({'opacity':'1'}, 400);
             }
             
-        }); 
+        });
+		
+		/* Show or hide the back-top element */
+		if ($(this).scrollTop() > 1300) {
+			$('#back-top').fadeIn();
+		} else {
+			$('#back-top').fadeOut();
+		}		
 
     });
+	
+	/* fade in 'back-top' */
+	$(function () {
+		/* scroll body to 0px on click */
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});	
     
 });
 </script>
