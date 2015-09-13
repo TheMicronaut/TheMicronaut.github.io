@@ -260,25 +260,20 @@ img.center {
 // Back to top
 // --------------------------------------------------
 #back-top {
-	position: fixed;
-	bottom: 5px;
-	margin-left: -10px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    margin-bottom: 2px;
+    margin-right: 2px;
     outline: none !important;
 }
+
 #back-top a {
-	width: 50px;
-	display: block;
-	text-align: right;
-	/* font: 11px/100% Arial, Helvetica, sans-serif; */
-	font-size: 20px;
-	/* text-transform: uppercase; */
-	text-decoration: none;
-	color: #bbb;
+    display: block;
+    /* font-size: 20px; */
+    text-decoration: none;
+    color: #696969;
     outline: none !important;
-	/* background color transition */
-	//-webkit-transition: 1s;
-	//-moz-transition: 1s;
-	//transition: 1s;
 }
 #back-top a:hover {
 	color: #000;
