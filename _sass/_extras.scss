@@ -180,8 +180,9 @@ img.center {
 // PREVIEWS-NEXT POST
 // --------------------------------------------------
 .next-prev a {
-	color: $navarrows-color;
+	background: $navarrows-color;
 	padding: 10px;
+	color: $white;
 	font-size: 14px;
 	font-family:  $alt-font; 
 	text-transform: uppercase;
@@ -206,8 +207,6 @@ img.center {
 }
 
 .next-post a:hover {
-	color: $white;
-	background: $black;
 	right: 0px;
 	-webkit-transition: .2s ease-in;  
 	-moz-transition: .2s ease-in;  
@@ -276,5 +275,5 @@ img.center {
     outline: none !important;
 }
 #back-top a:hover {
-	color: $black;
+	color: #000;
 }
