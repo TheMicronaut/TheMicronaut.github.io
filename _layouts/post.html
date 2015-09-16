@@ -68,11 +68,12 @@
 				<h2 id="comments-title" class="comment-toggle alt-font-big">Leave A Comment</h2>
 				<div class="comments-wrap" style="display: block;">
 					<div id="disqus_thread"></div>
+					{% include disqus-comments.html %}
 				</div>
 			</div>
 		  <!-- <div id="comments-head"><h2 class="alt-font-big">Comments</h2></div> -->
           <!-- <div id="disqus_thread"></div> --><!-- /#disqus_thread -->
-          {% include disqus-comments.html %}
+          <!-- {% include disqus-comments.html %} -->
         {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
