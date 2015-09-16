@@ -284,11 +284,12 @@ img.center {
 
 // Comments section
 // --------------------------------------------------
-.comments {
+#comments {
 	background: #f9f9f9;
 	border-top: solid 1px #eee;
     float: left;
 	width: 100%;
+	margin-top: 15px;
 }
 
 .comments-wrap {
