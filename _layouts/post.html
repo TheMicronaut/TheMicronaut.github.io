@@ -64,8 +64,14 @@
         {{ content }}
 		{% if page.poll_id %} <div id="poll">{% include polls/poll-{{page.poll_id}}.html %}</div> {% endif %}	
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
-		  <div id="comments-head"><h2 class="alt-font-big">Comments</h2></div>
-          <div id="disqus_thread"></div><!-- /#disqus_thread -->
+			<div id="comments">
+				<h2 id="comments-title" class="comment-toggle alt-font-big">Leave A Comment</h2>
+				<div class="comments-wrap" style="display: block;">
+					<div id="disqus_thread"></div>
+				</div>
+			</div>
+		  <!-- <div id="comments-head"><h2 class="alt-font-big">Comments</h2></div> -->
+          <!-- <div id="disqus_thread"></div> --><!-- /#disqus_thread -->
           {% include disqus-comments.html %}
         {% endif %}
       </div><!-- /.entry-content -->

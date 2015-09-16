@@ -281,3 +281,41 @@ img.center {
 #back-top a:hover {
 	color: $black;
 }
+
+// Comments section
+// --------------------------------------------------
+.comments {
+	background: #f9f9f9;
+	border-top: solid 1px #eee;
+    float: left;
+	width: 100%;
+}
+
+.comments-wrap {
+	width: 60%;
+	margin: 0 auto;
+	padding: 8% 0;
+}
+
+#comments-title {
+	background: #f1f1f1;
+	padding: 5% 0;
+	margin: 0 0 0 0;
+	font-size: 26px;
+	font-weight: 500px;
+	text-align: center;
+	/* border-bottom: solid 1px #e7e7e7; */
+	-webkit-transition: .07s ease-in;
+	-moz-transition: .07s ease-in;
+	-o-transition: .07s ease-in;
+	transition: .07s ease-in;
+}
+
+#comments .comment-toggle:hover {
+	background: #ebebeb ;
+	cursor: pointer;
+	 -webkit-transition: .07s ease-in;  
+	-moz-transition: .07s ease-in;  
+	-o-transition: .07s ease-in;  
+	transition: .07s ease-in; 
+}
