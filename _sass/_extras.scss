@@ -292,7 +292,7 @@ img.center {
 }
 
 .comments-wrap {
-	width: 60%;
+	width: 80%;
 	margin: 0 auto;
 	padding: 8% 0;
 }
@@ -311,7 +311,7 @@ img.center {
 	transition: .07s ease-in;
 }
 
-#comments .comment-toggle:hover {
+#comments .toggleButton:hover {
 	background: #ebebeb ;
 	cursor: pointer;
 	 -webkit-transition: .07s ease-in;  
