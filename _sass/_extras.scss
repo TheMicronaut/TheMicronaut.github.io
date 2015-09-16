@@ -181,16 +181,20 @@ img.center {
 // --------------------------------------------------
 .next-prev a {
 	background: $navarrows-color;
-	padding: 10px;
 	color: $white;
+	padding: 10px;
 	font-size: 14px;
 	font-family:  $alt-font; 
 	text-transform: uppercase;
-	font-weight: 500;
+	font-weight: 400;
 	letter-spacing: 1px;
 	@include media($micro) {
 		display: none;
 	}
+}
+
+.next-prev a:hover {
+	background: $black;
 }
 
 .next-post a {
@@ -215,11 +219,11 @@ img.center {
 }
 
 .next-post a:after {
+	color: $white;
 	position: absolute;
 	content: "\f054";
 	left: 6px;
 	top: 6px;
-	color: $white;
 	font-size: 20px;
 	font-family: 'FontAwesome';
     -webkit-font-smoothing: antialiased;
@@ -247,11 +251,11 @@ img.center {
 }
 
 .prev-post a:after {
+	color: $white;
 	position: absolute;
 	content: "\f053";
 	right: 6px;
 	top: 6px;
-	color: #fff;
 	font-size: 20px;
 	font-family: 'FontAwesome';
     -webkit-font-smoothing: antialiased;
@@ -275,5 +279,5 @@ img.center {
     outline: none !important;
 }
 #back-top a:hover {
-	color: #000;
+	color: $black;
 }
