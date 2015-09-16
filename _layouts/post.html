@@ -50,7 +50,7 @@
         {% if page.modified %}<span class="entry-date date modified"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i>&nbsp;&nbsp;{{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
         {% capture readtime %}{{ page.content | number_of_words | plus:91 | divided_by:150.0 | append:'.' | split:'.' | first }}{% endcapture %}
         <span class="entry-comments"><i class="fa fa-clock-o"> </i>&nbsp;&nbsp;{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. reading </span>
-        {% if site.owner.disqus-shortname and page.comments == true %}<span class="entry-comments"><i class="fa fa-comment-o"></i>&nbsp;&nbsp;<a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.path | split:'/' | last | cgi_escape }}">View Comments</a></span>{% endif %}
+        {% if site.owner.disqus-shortname and page.comments == true %}<span class="entry-comments"><i class="fa fa-comment-o"></i>&nbsp;&nbsp;<a href="{{ page.url }}#comments" data-disqus-identifier="{{ page.path | split:'/' | last | cgi_escape }}">View Comments</a></span>{% endif %}
         {% if page.ads == true %}{% include ad-sidebar.html %}<!-- /.google-ads -->{% endif %}
         {% if page.share %}
             <span style="float: right;">
@@ -66,14 +66,11 @@
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
 			<div id="comments">
 				<h2 id="comments-title" class="comment-toggle alt-font-big">Leave A Comment</h2>
-				<div id="comments-area" class="comments-wrap" style="display: none;">
+				<div id="comments-wrap" style="display: none;">
 					<div id="disqus_thread"></div>
 					{% include disqus-comments.html %}
 				</div>
 			</div>
-		  <!-- <div id="comments-head"><h2 class="alt-font-big">Comments</h2></div> -->
-          <!-- <div id="disqus_thread"></div> --><!-- /#disqus_thread -->
-          <!-- {% include disqus-comments.html %} -->
         {% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
