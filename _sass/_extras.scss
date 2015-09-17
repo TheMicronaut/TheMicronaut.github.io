@@ -285,21 +285,21 @@ img.center {
 // Comments section
 // --------------------------------------------------
 #comments {
-	background: #f9f9f9;
+	background: #F1F1F1;
 	border-top: solid 1px #eee;
     float: left;
 	width: 100%;
-	margin-top: 15px;
+	margin-top: 12px;
 }
 
 #comments-wrap {
 	width: 90%;
 	margin: 0 auto;
-	padding: 1% 0;
+	/*padding: 1% 0;*/
 }
 
 #comments-title {
-	background: #f1f1f1;
+	background: #F1F1F1;
 	padding: 3% 0;
 	margin: 0 0 0 0;
 	font-weight: 500px;
@@ -311,7 +311,7 @@ img.center {
 }
 
 #comments .comment-toggle:hover {
-	background: #ebebeb ;
+	background: #EBEBEB;
 	cursor: pointer;
 	 -webkit-transition: .07s ease-in;  
 	-moz-transition: .07s ease-in;  
