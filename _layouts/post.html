@@ -8,10 +8,10 @@
 </head>
 <div class="next-prev">
 {% if page.previous %}
-<div class="prev-post"> <a href="{{ site.url }}{{ page.previous.url }}"  rel="prev">Previous Post</a></div>
+<div class="prev-post"> <a href="{{ site.url }}{{ page.previous.url }}"  title="{{ site.url }}{{ page.previous.title }}" rel="prev">Previous Post</a></div>
 {% endif %}
 {% if page.next %}
-<div class="next-post"> <a href="{{ site.url }}{{ page.next.url }}"  rel="next">Next Post</a></div>
+<div class="next-post"> <a href="{{ site.url }}{{ page.next.url }}"  title="{{ site.url }}{{ page.next.title }}" rel="next">Next Post</a></div>
 {% endif %}
 </div>
 
