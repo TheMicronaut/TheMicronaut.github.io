@@ -76,11 +76,15 @@ $(document).ready(function() {
             
             /* If the object is half visible in the window... */
             if( bottom_of_window > middle_of_object ) { 
-				/* 1. load any lazy iframes inside the object */
+				/* 1. load any lazy sources inside the object */
 				var $iframe=$(this).find('iframe');
 				if ($iframe.data('src')){ // only do it once per iframe
 					$iframe.prop('src', $iframe.data('src')).data('src', false);
 				}
+				var $img=$(this).find('img');
+				if ($img.data('src')){ // only do it once per image
+					$img.prop('src', $img.data('src')).data('src', false);
+				}				
 				/* 2. fade-in the object */
                 $(this).animate({'opacity':'1'}, 400);
             }
