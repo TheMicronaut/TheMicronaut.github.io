@@ -141,15 +141,15 @@ figure {
   }
   a {
     img {
-      @include transform(translateY(0));
-      -webkit-transition-duration: 0.25s;
-      -moz-transition-duration: 0.25s;
-      -o-transition-duration: 0.25s;
-      opacity: 0.9; 
+      @include transform(scale(1));
+      -webkit-transition-duration: 1s;
+      -moz-transition-duration: 1s;
+      -o-transition-duration: 1s;
+      //opacity: 0.9; 
       &:hover {
-        @include transform(translateY(-5px));
-        @include box-shadow(0 0 10px rgba($black, .20));
-        opacity: 1;
+        @include transform(scale(1.1));
+        @include box-shadow(0 0 10px rgba($black, .40));
+        //opacity: 1;
       }
     }
   }
