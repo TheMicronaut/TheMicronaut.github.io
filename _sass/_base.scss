@@ -180,7 +180,7 @@ figcaption {
         width: (3 * $column);
         text-align: left;
         &:before {
-            content: '';
+            //content: '';
             position: absolute;
             top: 0;
             left: 0;
