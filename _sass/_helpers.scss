@@ -67,16 +67,15 @@ figure {
   /* 2 images in a row. should be of equal height/width to maintain layout */
 
   &.half {
-	outline: none !important;
-    @include outer-container;
-    @include media($medium) {
-      a,
-      > img {
-        @include span-columns(6);
-	@include omega(2n);
+    @include media($large) {
+      img {
+        width: 47.5%;
+        float: left;
+        margin-right: 2.5%;
+        margin-bottom: 2.5%;
       }
       figcaption {
-        //clear: left;
+        clear: left;
       }
     }
   }
@@ -84,16 +83,15 @@ figure {
   /* 3 images in a row. should be of equal height/width to maintain layout */
 
   &.third {
-	outline: none !important;
-    @include outer-container;
-      @include media($medium) {
-        a,
-	> img {
-	  @include span-columns(4);
-	  @include omega(3n);
+    @include media($large) {
+      img {
+        width: 30.8%;
+        float: left;
+        margin-right: 2.5%;
+        margin-bottom: 2.5%;
       }
       figcaption {
-        //clear: left;
+        clear: left;
       }
     }
   }
