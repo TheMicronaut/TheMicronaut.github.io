@@ -76,7 +76,7 @@ figure {
 	@include omega(2n);
       }
       figcaption {
-        clear: left;
+        //clear: left;
       }
     }
   }
@@ -93,7 +93,7 @@ figure {
 	  @include omega(3n);
       }
       figcaption {
-        clear: left;
+        //clear: left;
       }
     }
   }
