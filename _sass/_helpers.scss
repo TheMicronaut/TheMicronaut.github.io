@@ -67,6 +67,7 @@ figure {
   /* 2 images in a row. should be of equal height/width to maintain layout */
 
   &.half {
+	outline: none !important;
     @include outer-container;
     @include media($medium) {
       a,
@@ -83,6 +84,7 @@ figure {
   /* 3 images in a row. should be of equal height/width to maintain layout */
 
   &.third {
+	outline: none !important;
     @include outer-container;
       @include media($medium) {
         a,

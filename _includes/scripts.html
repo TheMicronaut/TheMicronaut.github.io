@@ -78,15 +78,16 @@ $(document).ready(function() {
             if( bottom_of_window > middle_of_object ) { 
 				/* 1. load any lazy sources inside the object */
 				var $iframe=$(this).find('iframe');
-				if ($iframe.data('src')){ // only do it once per iframe
+				if ($iframe.data('src')) { // only do it once per iframe
 					$iframe.prop('src', $iframe.data('src')).data('src', false);
 				}
-				var $img=$(this).find('img');
-				if ($img.data('src')){ // only do it once per image
-					$img.prop('src', $img.data('src')).data('src', false);
-				}				
+				var $img=$(this).find('img').each(function (index, element) { // do it for each nested image
+					if ($(this).data('src')) { // only do it once per image
+						$(this).prop('src', $(this).data('src')).data('src', false);
+					}
+				});
 				/* 2. fade-in the object */
-                $(this).animate({'opacity':'1'}, 400);
+                $(this).animate({'opacity':'1'}, 500);
             }
             
         });

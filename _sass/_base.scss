@@ -147,8 +147,8 @@ figure {
       -o-transition-duration: 0.5s; 
 	  outline: none !important;
       &:hover {
-        @include transform(scale(1.05));
-        @include box-shadow(0 0 10px rgba($black, .90));
+        @include transform(scale(1.03));
+        @include box-shadow(0 0 5px rgba($black, .90));
       }
     }
   }
