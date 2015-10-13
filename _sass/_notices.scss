@@ -10,10 +10,10 @@
   margin-top: 1.5em;
   padding: .5em 1em;
   text-indent: 0;
-  @include font-size(16);
-  background-color: lighten($black, 95);
-  border: 1px solid lighten($black, 90);
-  @include rounded(4px);
+  @include font-size(14);
+  background-color: $border-color;
+  border: 1px solid darken($border-color,20);
+  @include rounded(3px);
 }
 
 /*
