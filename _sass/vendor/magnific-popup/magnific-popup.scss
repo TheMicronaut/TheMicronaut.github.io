@@ -504,10 +504,13 @@ button {
     }
   }
   
+  /* cancel all figcapture styles applied previously, use of plugin's native formating */
   .mfp-figure figcaption {
-        &:before {
-            content: none;
-        }
+      position: relative;
+	  top: 0px;
+	  right: 0px;
+	  padding-top: 0px;
+	  width : auto;
   }
 	
   .mfp-bottom-bar {
@@ -524,7 +527,7 @@ button {
     color: $mfp-caption-title-color;
     word-wrap: break-word;
     padding-right: 36px; // leave some space for counter at right side
-    padding-top: $mfp-image-padding-top; // same as img
+    font-family: $alt-font;
   }
 
   .mfp-image-holder {
