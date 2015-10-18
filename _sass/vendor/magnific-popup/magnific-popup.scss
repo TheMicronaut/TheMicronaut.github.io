@@ -511,6 +511,10 @@ button {
 	  right: 0px;
 	  padding-top: 0px;
 	  width : auto;
+	  margin: 0px;
+        &:before {
+            content: none;
+        }			
   }
 	
   .mfp-bottom-bar {
