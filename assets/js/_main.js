@@ -53,6 +53,12 @@ $(document).ready(function() {
     removalDelay: 200, // Delay in milliseconds before popup is removed
     // Class that is added to body when popup is open. 
     // make it unique to apply your CSS animations just to this exact popup
-    mainClass: 'mfp-fade'
+    mainClass: 'mfp-with-zoom',
+	zoom: {
+        enabled: true, // By default it's false, so don't forget to enable it
+        duration: 300, // duration of the effect, in milliseconds
+        easing: 'ease-in-out' // CSS transition easing function
+    }
+	
   });
 });

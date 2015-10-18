@@ -129,7 +129,7 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
 
 // Remove vertical centering when popup has class `mfp-align-top`
 .mfp-align-top {
-  .mfp-container { 
+  .mfp-container {
     &:before {
       display: none;
     }
@@ -328,8 +328,10 @@ button {
   top: 0;
   right: 0;
   color: $mfp-controls-text-color;
+  font-family: $alt-font;
   font-size: 12px;
   line-height: 18px;
+  white-space: nowrap;
 }
 
 // Navigation arrows
@@ -401,7 +403,7 @@ button {
     &:before,
     .mfp-b {
       margin-left: 25px;
-      border-right: 27px solid $mfp-controls-border-color; 
+      border-right: 27px solid $mfp-controls-border-color;
     }
   }
 
