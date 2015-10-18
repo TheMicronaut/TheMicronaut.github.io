@@ -2,7 +2,7 @@
 
 title: Micronaut's Blog
 locale: en_US
-description: The adventures of Aleh & the Micronaut
+description: The adventures of Aleh &amp; the Micronaut
 logo: site-logo.png
 search: true
 url: http://themicronaut.github.io
@@ -37,7 +37,7 @@ paginate_path: posts/page:num
 
 # Site owner
 owner:
-  name: Aleh & the Micronaut
+  name: Aleh &amp; the Micronaut
   avatar: site-logo.png
   email: moonlight.fairytales@gmail.com
   disqus-shortname: TheMicronaut
