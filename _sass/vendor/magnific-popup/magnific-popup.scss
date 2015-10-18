@@ -504,7 +504,7 @@ button {
     }
   }
   
-  /* cancel all figcapture styles applied previously, use of plugin's native formating */
+  /* cancel all figcapture styles applied previously, make use of plugin's native formating */
   .mfp-figure figcaption {
       position: relative;
 	  top: 0px;
@@ -512,9 +512,12 @@ button {
 	  padding-top: 0px;
 	  width : auto;
 	  margin: 0px;
-        &:before {
-            content: none;
-        }			
+	  p {
+        margin: 0px;
+      }	
+	  &:before {
+		content: none;
+	  }			
   }
 	
   .mfp-bottom-bar {
