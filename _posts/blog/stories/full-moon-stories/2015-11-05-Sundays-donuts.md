@@ -7,7 +7,7 @@ title: 'Οι κυριακάτικοι λουκουμάδες'
 #excerpt: ''
 date: '2015-11-05T23:59:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [story-telling, full-moon-stories]
+tags: [stories, full-moon-stories]
 author: Aleh
 hidelogo: true
 ---
