@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog posts & other stories
+title: Blog posts & stories
 excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true

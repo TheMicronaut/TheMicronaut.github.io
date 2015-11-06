@@ -29,7 +29,9 @@
     {% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags">{% if page.tags %}<i class="fa fa-tags"></i>&nbsp;&nbsp;{% endif %}{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>
+        <ul class="entry-tags">{% if page.tags %}<i class="fa fa-tags"></i>&nbsp;&nbsp;{% endif %}
+          {% for tag in page.tags %}<li><a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
+        </ul>
         {% if page.link %}
           <h1 class="entry-title"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
         {% else %}
@@ -70,8 +72,8 @@
     </div><!-- /.entry-wrapper -->
   </article>
   <p id="back-top"><a href="#post"><i class="fa fa-arrow-up"></i></a></p>
-  </div><!-- /#main -->
-  
+</div><!-- /#main -->
+
 <div class="footer-wrapper">
   <footer role="contentinfo" class="entry-wrapper">
     {% include footer.html %}
