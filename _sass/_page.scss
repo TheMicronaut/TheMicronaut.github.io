@@ -40,32 +40,16 @@
 /* tag listing in page header */
 
 .entry-tags {
-	margin: 2em 0 0;
-  padding: 0;
-	margin-bottom: 1rem !important;
+	display: block;
+	margin-top: 2em;
+    margin-bottom: 1rem !important;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 400;
 	font-family: $alt-font;
-  a {
-    color: $text-color;
-    padding: 0 5px;
-  }
-  li {
-    display: inline-block;
-    margin-bottom: 0;
-    &:before {
-      content: "\2022";
+    a {
+      color: $text-color;
     }
-    &:first-child {
-      &:before {
-        content: "";
-      }
-      a {
-        padding-left: 0;
-      }
-    }
-  }
 }
 
 /* page title */
