@@ -2,8 +2,6 @@
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-[![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
-
 ## So Simple Theme is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
@@ -11,7 +9,7 @@ Looking for a simple, responsive, theme for your Jekyll powered blog? Well look 
 * Minimal embellishments and subtle animations.
 * Optional large feature images for posts and pages.
 * [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
+* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
 * Support for Disqus Comments
 
 ![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)

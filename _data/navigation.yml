@@ -3,6 +3,9 @@
 - title: Main
   url: /
 
+- title: About
+  url: /about/
+
 - title: Blog
   url: /blog/
 
@@ -14,6 +17,6 @@
 
 - title: Links
   url: /links/
-  
-- title: About
-  url: /about/
+
+- title: Search
+  url: /search/
