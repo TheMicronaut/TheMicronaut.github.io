@@ -141,15 +141,10 @@ figure {
   }
   a {
     img {
-      @include transform(scale(1.0));
-      -webkit-transition-duration: 0.5s;
-      -moz-transition-duration: 0.5s;
-      -o-transition-duration: 0.5s; 
 	  outline: none !important;
+	  padding: 3px;
       &:hover {
-        background: transparent;
-        padding: 5px;
-        border: 1px solid $body-color;
+        border: 1px solid $border-color;
       }
     }
   }
