@@ -13,7 +13,7 @@
   @include font-size(14);
   background-color: $border-color;
   border: 1px solid darken($border-color,20);
-  @include rounded(3px);
+  @include rounded($border-radius);
 }
 
 /*
