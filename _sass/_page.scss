@@ -41,15 +41,16 @@
 
 .entry-tags {
 	display: block;
-	margin-top: 2em;
-    margin-bottom: 1rem !important;
+	margin: 2em 0 0;
+	padding: 0;
 	text-transform: uppercase;
 	@include font-size(16);
 	font-weight: 400;
 	font-family: $alt-font;
     a {
       color: $text-color;
-    }
+      padding: 0px 5px;
+    }	
 }
 
 /* page title */
@@ -82,7 +83,7 @@ span + .entry-title {
 .entry-wrapper {
 	@include outer-container;
 	margin-top: 0;
-	margin-bottom: 1em; //3em;
+	margin-bottom: 1em;
 	padding-right: $gutter;
 	padding-left: $gutter;
 }
@@ -193,7 +194,7 @@ span + .entry-title {
 
 #disqus_thread iframe {
 	height: auto !important;
-	min-height: 327px;
+	min-height: 357px;
 }
 
 /*
@@ -203,8 +204,8 @@ span + .entry-title {
 .pagination {
 	margin-top: 2em;
 	text-align: center;
-    	font-family: $alt-font;
-    	font-size: 1.2rem;
+	font-family: $alt-font;
+	font-size: 1.2rem;
 }
 
 /*
