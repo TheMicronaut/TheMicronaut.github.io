@@ -26,9 +26,9 @@ search_omit: true
   {% if page == paginator.page %}
     <a href="/" class="btn" style="font-size: 15pt">{{ page }}</a>
   {% elsif page == 1 %}
-    <a href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.url | replace: '//', '/' }}" class="btn" style="font-size: 15pt">{{ page }}</a>
+    <a href="{{ paginator.previous_page_path | replace: 'index.html', '/' | replace: '//', '/' }}" class="btn" style="font-size: 15pt">{{ page }}</a>
   {% else %}
-    <a href="{{ site.paginate_path | prepend: site.url | replace: '//', '/' | replace: ':num', page }}" class="btn" style="font-size: 15pt">{{ page }}</a>
+    <a href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}" class="btn" style="font-size: 15pt">{{ page }}</a>
   {% endif %}
   {% endfor %}
   
