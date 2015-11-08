@@ -10,7 +10,7 @@ modified: '2014-11-16T20:39:00+01:00'
 tags: [politics, views]
 author: Aleh
 image:
-  feature: Gyzis_Krypho_sxolio.jpg
+  feature: /posts/views/Gyzis_Krypho_sxolio.jpg
   credit: Νικόλαος Γύζης, Το κρυφό σχολειό, ελαιογραφία, 1885/86.  
 ---
 Σήμερα αποφάσισα να γίνω υπουργός Παιδείας. Μόνο για μια μέρα όμως, όχι παραπάνω. Θα ξεκινούσα με το όνομα του υπουργείου, κλασσικά, γιατί να το κρύψομε άλλωστε...
