@@ -18,15 +18,10 @@
   &:visited {
     color: $white;
   }
-  &:active, 
   &:hover {
     background-color: $white;
     color: $black;
   }
-  &:active {
-	cursor: default;
-	pointer-events: none;
-  }  
 }
 
 /*
