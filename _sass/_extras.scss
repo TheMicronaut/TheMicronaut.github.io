@@ -89,17 +89,9 @@ img.center {
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
     outline: none !important;
-    font-size: 1.2em;
-    -webkit-transition: 1s ease-in-out;
-    -moz-transition: 1s ease-in-out;
-    -o-transition: 1s ease-in-out;
-    transition: 1s ease-in-out;
+    font-size: 1.5em;
+	color: $link-color;
 	&:hover {
-		-webkit-transform: scale(2);
-        -moz-transform: scale(2);
-        -o-transform: scale(2);
-        -ms-transform: scale(2);
-		animation-fill-mode: forwards;
         @each $socialnetwork, $color in $social {
             i.fa-#{$socialnetwork} {
                 color: $color;
