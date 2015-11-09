@@ -189,7 +189,8 @@ span + .entry-title {
    ========================================================================== */
 #disqus_thread {
 	margin-top: 0px;
-	min-height: 327px;
+	min-height: 357px;
+	font-family: $alt-font !important;
 }
 
 #disqus_thread iframe {
