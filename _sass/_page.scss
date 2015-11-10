@@ -118,9 +118,10 @@ span + .entry-title {
 .entry-meta-small {
 	text-transform: uppercase;
     font-family: alt-font-smallest;
-	margin-top: 0px;
+	margin-top: -30px;
+	margin-bottom: -20px;
 	& > span {
-		padding: 0 10px 0 0;
+		padding: 0 5px 0 0;
 		display: inline-block;
 	}
 }
