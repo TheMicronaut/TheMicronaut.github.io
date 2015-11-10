@@ -115,6 +115,16 @@ span + .entry-title {
 	}
 }
 
+.entry-meta-small {
+	text-transform: uppercase;
+    font-family: alt-font-small;
+     //padding-top: 6px;
+	& > span {
+		padding: 0 15px 10px 0;
+		display: inline-block;
+	}
+}
+
 /* author avatar (circular) */
 
 .bio-photo {
