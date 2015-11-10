@@ -118,8 +118,8 @@ span + .entry-title {
 .entry-meta-small {
 	text-transform: uppercase;
 	font-family: $alt-font;
-	@include font-size(12,yes,12);
-	margin: 1px 0;
+	font-size: 0.85rem;
+	margin: 6px 0;
 	& > span {
 		padding: 0 4px 0 0;
 		display: inline-block;
