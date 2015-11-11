@@ -127,6 +127,7 @@ hr {
 figure {
   margin-left: -1 * $gutter;
   margin-right: -1 * $gutter;
+  outline: none !important;
   // full width figures on small screens
   @include media($medium) {
     margin-left: 0;
@@ -142,8 +143,7 @@ figure {
   a {
     img {
 	  outline: none !important;
-	  padding: 3px;
-	  border: 1px solid $body-color;
+	  border: 2px solid $body-color;
       &:hover {
         border-color: $link-color;
       }
@@ -166,6 +166,7 @@ figcaption {
     @include font-size(13,no,15);
     color: $text-color;
     text-align: center;
+	margin-top: -15px;
     clear: both;
     @include media($large) {
         position: absolute;

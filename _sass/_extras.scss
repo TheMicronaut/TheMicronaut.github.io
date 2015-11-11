@@ -24,17 +24,6 @@
 
 // Alternative Fonts
 // --------------------------------------------------
-
-.alt-font-big {
-	font-family: $alt-font;
-	@include font-size(30,yes,30);
-	font-weight: 300;
-	a {
-		color: $black;
-		text-decoration: underline;
-	}
- }
- 
 .alt-font-normal {
 	font-family: $alt-font;
 	font-style: italic;
@@ -211,7 +200,9 @@ img.center {
 #comments-title {
 	background: #F1F1F1;
 	padding: 3% 0;
-	margin: 0 0 0 0;
+	margin: 0 2px;
+	font-family: $alt-font;
+	@include font-size(30,yes,30);	
 	font-weight: 500px;
 	text-align: center;
 	-webkit-transition: .07s ease-in;
