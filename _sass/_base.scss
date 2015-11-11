@@ -166,7 +166,6 @@ figcaption {
     @include font-size(13,no,15);
     color: $text-color;
     text-align: center;
-	margin-top: -15px;
     clear: both;
     @include media($large) {
         position: absolute;
