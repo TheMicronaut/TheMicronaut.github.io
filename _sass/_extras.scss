@@ -200,7 +200,7 @@ img.center {
 #comments-title {
 	background: #F1F1F1;
 	padding: 3% 0;
-	margin: 0 0 0 0;
+	margin: 0rem !important;
 	font-family: $alt-font;
 	@include font-size(30,yes,30);	
 	font-weight: 500px;
