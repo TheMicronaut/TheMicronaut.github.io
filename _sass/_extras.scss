@@ -22,6 +22,17 @@
 	padding-right: 8px;
 }
 
+.central-quote {
+    background:
+        url(images/divider-top.png) top center no-repeat,
+        url(divider-bottom.png) bottom center no-repeat;
+    color: #a5a4a4;
+    font-family:  $alt-font;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;   
+} 
+
 // Alternative Fonts
 // --------------------------------------------------
 .alt-font-normal {

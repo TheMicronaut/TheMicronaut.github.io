@@ -356,6 +356,12 @@ The only thing to look out for is the escaping of the backslash when using markd
 
 ---
 
+## Aleh's Customizations
+
+Next to the blockquote, you can make use of the central-quote as following:
+
+<div class="central-quote">This is supposed to be a central-blockquote. You should see two dividers on top and the bottom of this quote.</div>
+
 ## Further Customization
 
 Jekyll 2.x added support for Sass files making it much easier to modify a theme's fonts and colors. By editing values found in `_sass/_variables.scss` you can fine tune the site's colors and typography.
