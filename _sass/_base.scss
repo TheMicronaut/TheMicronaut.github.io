@@ -211,9 +211,9 @@ blockquote {
 	border-left: 8px solid $black;
 }
 
-blockquote .cite {
+.cite {
 	@include font-size(12);
-	color: $navarrows-color;
+	color: #CCC;
 	font-style: normal;
 }
 
