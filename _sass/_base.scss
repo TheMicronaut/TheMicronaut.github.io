@@ -210,23 +210,31 @@ blockquote {
 	padding-left: 20px;
 	border-left: 8px solid $black;
 }
-blockquote > *:first-child {
+
+blockquote .cite {
+	@include font-size(12);
+	color: $navarrows-color;
+	font-style: normal;
+}
+
+/* for the moment, keep disabled...
+blockquote > p:first-child {
     text-indent:-16px;
 }
 blockquote > p:first-child:before {
     content:"\201C"; 
     line-height:1px; 
-    padding-right:.2em; 
-	font-size: 2rem !important;
+    padding-right:.1.8em; 
+	font-size: 1.8rem !important;
 }
 blockquote > p:last-child:after {
     content:"\201D"; 
     line-height:1px; 
     margin-left:-.05em; 
-	font-size: 2rem !important;
+	font-size: 1.8rem !important;
 }
 * html blockquote * {text-indent:-6px;} /* fix IE6 */
-
+*/
 
 // Code
 // --------------------------------------------------
