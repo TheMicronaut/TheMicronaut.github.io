@@ -145,7 +145,7 @@ There was nothing to fear and nothing to doubt</figcaption>
 
 > DAS LIED VOM KINDSEIN (Peter Handke)<br/>
 >
-> \201C Als das Kind Kind war,<br/>
+> Als das Kind Kind war,<br/>
 > ging es mit hängenden Armen,<br/>
 > wollte der Bach sei ein Fluß,<br/>
 > der Fluß sei ein Strom,<br/>
@@ -222,7 +222,7 @@ There was nothing to fear and nothing to doubt</figcaption>
 >
 > Als das Kind Kind war,<br/>
 > warf es einen Stock als Lanze gegen den Baum,<br/>
-> und sie zittert da heute noch. \201D
+> und sie zittert da heute noch.
 
 <div class="appear-later">
 <figure>
