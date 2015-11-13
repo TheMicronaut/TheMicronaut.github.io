@@ -337,7 +337,7 @@ To exclude posts/pages from search results add `search_omit: true` to their YAML
 
 ### Usage
 
-To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file.
+To enable MathJax support be sure Kramdown is your Markdown flavor of choice and MathJax is set to true in your `_config.yml` file. Next to that, add `mathjax: true` to the YAML Front Matter of the page or post that the math is to be added. 
 
 ~~~
 markdown: kramdown
