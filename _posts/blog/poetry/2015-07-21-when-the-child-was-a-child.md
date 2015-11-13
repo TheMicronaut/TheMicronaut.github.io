@@ -38,7 +38,7 @@ hidelogo: true
 
 > TO ΤΡΑΓΟΥΔΙ ΤΗΣ ΠΑΙΔΙΚΗΣ ΗΛΙΚΙΑΣ (του Peter Handke, μετάφρ. Aleh)<br/>
 >
-> Όταν το παιδί ήταν παιδί,<br/>
+> “Όταν το παιδί ήταν παιδί,<br/>
 > περπατούσε κουνώντας τα χέρια,<br/>
 > ήθελε το ρέμα να 'ναι ποτάμι,<br/>
 > το ποτάμι να 'ναι χείμαρρος,<br/>
@@ -115,7 +115,7 @@ hidelogo: true
 >
 > Όταν παιδί ήταν το παιδί,<br/>
 > πέταξε ένα κομμάτι ξύλο, σαν λόγχη, προς ένα δέντρο,<br/>
-> κι αυτό πάλλεται εκεί μέχρι σήμερα.<br/>
+> κι αυτό πάλλεται εκεί μέχρι σήμερα.”<br/>
 
 
 <figure>
@@ -146,7 +146,7 @@ There was nothing to fear and nothing to doubt</figcaption>
 
 > DAS LIED VOM KINDSEIN (Peter Handke)<br/>
 >
-> Als das Kind Kind war,<br/>
+> “Als das Kind Kind war,<br/>
 > ging es mit hängenden Armen,<br/>
 > wollte der Bach sei ein Fluß,<br/>
 > der Fluß sei ein Strom,<br/>
@@ -223,7 +223,7 @@ There was nothing to fear and nothing to doubt</figcaption>
 >
 > Als das Kind Kind war,<br/>
 > warf es einen Stock als Lanze gegen den Baum,<br/>
-> und sie zittert da heute noch.<br/>
+> und sie zittert da heute noch.”<br/>
 
 <div class="appear-later">
 <figure>
