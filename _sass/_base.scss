@@ -233,8 +233,10 @@ blockquote > p:last-child:after {
     margin-left:-.05em; 
 	font-size: 1.8rem !important;
 }
-* html blockquote * {text-indent:-6px;} /* fix IE6 */
 */
+//* html blockquote * {text-indent:-6px;} 
+/* fix IE6 */
+
 
 // Code
 // --------------------------------------------------
