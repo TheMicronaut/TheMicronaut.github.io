@@ -359,7 +359,7 @@ The only thing to look out for is the escaping of the backslash when using markd
 ## Aleh's Customizations
 This is the official rendering of a `blockquote` :
 
-> This is a blockquote
+> \201C This is a blockquote \201D
 >
 > -- <cite>Aleh</cite>
 
