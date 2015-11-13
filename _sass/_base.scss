@@ -210,12 +210,24 @@ blockquote {
 	padding-left: 20px;
 	border-left: 8px solid $black;
 }
-
-blockquote * { quotes: ''; }
-blockquote > *:before { content: '\201C'; }
-blockquote > *:after { content: '\201D'; }
-blockquote q:before { content: '\2018'; }
-blockquote q:after { content: '\2019'; }
+blockquote > *:first-child {
+    text-indent:-16px;
+}
+blockquote > *:first-child:before {
+    color:#CCC; 
+    content:"\201C"; 
+    line-height:1px; 
+    padding-right:.2em; 
+    vertical-align:-1500%;
+}
+blockquote > *:last-child:after {
+    color:#CCC; 
+    content:"\201D"; 
+    line-height:1px; 
+    margin-left:-.05em; 
+    vertical-align:-2700%;
+}
+* html blockquote * {text-indent:-6px;} /* fix IE6 */
 
 
 // Code
