@@ -24,10 +24,11 @@
 
 .central-quote {
     background:
-        url(images/divider-top.png) top center no-repeat,
-        url(divider-bottom.png) bottom center no-repeat;
-    color: #a5a4a4;
+        url("divider-top.png") top center no-repeat,
+        url("divider-bottom.png") bottom center no-repeat;
+    color: #222;
     font-family:  $alt-font;
+	@include font-size(26,yes,26);
     margin: 20px;
     padding: 20px;
     text-align: center;   
