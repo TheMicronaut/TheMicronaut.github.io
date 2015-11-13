@@ -22,12 +22,13 @@
 	padding-right: 8px;
 }
 
-.central-quote {
-    background-image:
+div .central-quote {
+    background:
         url(images/divider-top.png) top center no-repeat,
         url(images/divider-bottom.png) bottom center no-repeat;
     color: #222;
     font-family:  $alt-font;
+	line-height: 1.1em; 
 	@include font-size(26,yes,26);
     margin: 20px;
     padding: 20px;
