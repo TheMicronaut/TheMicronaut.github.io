@@ -31,7 +31,7 @@ div .central-quote {
     font-family:  $alt-font;
     font-style: italic;	
     line-height: 1.2em; 
-	padding: 40px;
+	padding: 30px 30px 40px;
     text-align: center;
     @include font-size(20,yes,20);
     @include media($medium) {

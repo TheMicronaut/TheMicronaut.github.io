@@ -357,6 +357,11 @@ The only thing to look out for is the escaping of the backslash when using markd
 ---
 
 ## Aleh's Customizations
+This is the official rendering of a `blockquote` :
+
+> This is a blockquote
+>
+> -- <cite>Aleh</cite>
 
 Next to the blockquote, you can make use of the central-quote as following:
 
