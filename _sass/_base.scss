@@ -211,12 +211,6 @@ blockquote {
 	border-left: 8px solid $black;
 }
 
-.cite {
-	@include font-size(12);
-	color: #CCC;
-	font-style: normal;
-}
-
 /* for the moment, keep disabled...
 blockquote > p:first-child {
     text-indent:-16px;
