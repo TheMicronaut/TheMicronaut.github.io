@@ -360,6 +360,10 @@ The only thing to look out for is the escaping of the backslash when using markd
 
 Next to the blockquote, you can make use of the central-quote as following:
 
+{% highlight html %}
+<div class="central-quote">This is supposed to be a central-blockquote. You should see two dividers on top and the bottom of this quote.</div>
+{% endhighlight %}
+
 <div class="central-quote">This is supposed to be a central-blockquote. You should see two dividers on top and the bottom of this quote.</div>
 
 ## Further Customization

@@ -24,15 +24,22 @@
 
 div .central-quote {
     background:
-        url(images/divider-top.png) top center no-repeat,
-        url(images/divider-bottom.png) bottom center no-repeat;
+        url(/images/divider-top.png) top center no-repeat,
+        url(/images/divider-bottom.png) bottom center no-repeat;
+    background-size: contain;
     color: #222;
     font-family:  $alt-font;
-	line-height: 1.1em; 
-	@include font-size(26,yes,26);
-    margin: 20px;
-    padding: 20px;
-    text-align: center;   
+    font-style: italic;	
+    line-height: 1.2em; 
+	padding: 40px;
+    text-align: center;
+    @include font-size(20,yes,20);
+    @include media($medium) {
+	    @include font-size(24,yes,24);
+    }
+    @include media($large) {
+        @include font-size(26,yes,26);
+    }
 } 
 
 // Alternative Fonts
