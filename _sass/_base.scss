@@ -213,19 +213,17 @@ blockquote {
 blockquote > *:first-child {
     text-indent:-16px;
 }
-blockquote > *:first-child:before {
-    color:#CCC; 
+blockquote > p:first-child:before {
     content:"\201C"; 
     line-height:1px; 
     padding-right:.2em; 
-    vertical-align:-1500%;
+	font-size: 2rem !important;
 }
-blockquote > *:last-child:after {
-    color:#CCC; 
+blockquote > p:last-child:after {
     content:"\201D"; 
     line-height:1px; 
     margin-left:-.05em; 
-    vertical-align:-2700%;
+	font-size: 2rem !important;
 }
 * html blockquote * {text-indent:-6px;} /* fix IE6 */
 
