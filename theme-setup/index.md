@@ -11,7 +11,7 @@ comments: true
 
 General notes and suggestions for customizing **So Simple Theme**.
 
-**Note:** You can find Aleh's own tweaks [below](/#alehs-customizations).
+**Note:** You can find Aleh's own tweaks [below](#alehs-customizations).
 {:.notice}
 
 * Table of Contents
@@ -361,7 +361,7 @@ The only thing to look out for is the escaping of the backslash when using markd
 
 ## Aleh's Customizations
 
-**Disclaimer:** Aleh is not a web designer, Michael instead, the creator of this theme is a great one. All credits and rights go to him. Aleh knows html, xml and json, bits of javascript, and is struggling hard with css. His only weapon is his experience in good software engineering practises. In order to not harass the original theme, Aleh tries to handle additions either in `_extras.scss` file or in their own .scss files. Alas, some of the modifications need to be done on the theme's own .scss files. All modifications and additions implemented on top of the so-simple-theme merely serve the purposes of Aleh and the Micronaut. If you have remarks, comments, or improvements or suggestions, you are more than welcome to contact Aleh via any of his social channels.
+**Disclaimer:** Aleh is not a web designer, Michael instead, the creator of this theme is a great one. All credits and rights go to him. Aleh knows html, xml and json, bits of javascript, and is struggling hard with css. His only weapon is his experience in good software engineering practises. In order to not harass the original theme, Aleh tries to handle additions either in `_extras.scss` file or in their own .scss files. Alas, some of the modifications need to be done on the theme's own .scss files. All modifications and additions implemented on top of the so-simple-theme merely serve the purposes of Aleh and the Micronaut. If you have remarks, comments, improvements or suggestions, you are more than welcome to contact Aleh via any of his social channels.
 {:.notice}
 
 ##### Typography
@@ -370,7 +370,7 @@ Since I needed content in both English and Greek, I had to find nice fonts that 
 ##### Capital Letter in paragraphs
 You can start a paragraph with a capital letter as in the example below. The capital letter shoud be nested inside a `<span class="dcap">T</span>` markup. 
 
-<span class="dcap">L</span>orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. 
+<span class="dcap">L</span>orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
 
 ##### The Bio-photo
 Aleh and the Micronaut are the only editors of this blog. You don't need to see their photo on every post. Since we need a single column for the text, the bio-photo which shows the author's avatar has been disabled. In this blog we mainly focus on the sounds, and text rather than on visual appearances. It would be great though, if the original theme had a configuration point for single, double column support. The truth is that we do need support for double columns, for displaying relative or suggested posts rather than displaying bio-photos. 
@@ -381,29 +381,29 @@ A timeline can be declared either inside an html page or a markdown page/post. T
 Example:
 {% highlight html %}
 <div id="timeline">
+
+   <!-- First item - left aligned -->
+  <div class="timeline-item">
+  <div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
+    <div class="timeline-content">
+        <h2>Left aligned item</h2>
+        <h3>optional h3</h3>
+        <p id="tags">optional · tag1</p>
+        <p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
+    </div>
+  </div>
 	
-	<!-- First item - left aligned -->
-	<div class="timeline-item">
-		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
-		<div class="timeline-content">
-			<h2>Left aligned item</h2>
-			<h3>optional h3</h3>
-			<p id="tags">optional · tag1</p>
-			<p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
-		</div>
-	</div>
-	
-	<!-- Second item - right aligned -->
-	<div class="timeline-item">
-		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
-		<div class="timeline-content right">
-			<h2>Right aligned item</h2>
-			<h3>Optional h3</h3>
-			<p id="tags">optional · tag2</p>
-			<p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
-		</div>
-	</div>
-	
+  <!-- Second item - right aligned -->
+  <div class="timeline-item">
+    <div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
+    <div class="timeline-content right">
+      <h2>Right aligned item</h2>
+      <h3>Optional h3</h3>
+      <p id="tags">optional · tag2</p>
+      <p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
+    </div>
+  </div>
+
 </div>
 {% endhighlight %}
  
