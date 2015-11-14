@@ -439,7 +439,7 @@ This is the official rendering of a `blockquote`  by the so-simple theme:
 >
 > -- <cite>Aleh</cite>
  
- Note that one has to manually add the quotation characters. There is a reasoning behind this, and I assume this is because of the `cite` mess (which is supposed to be outside the quotations. The current implementation is satisfactory and thus no modifications are done for blockquotes. Next to the blockquotes, Aleh has added the central-quote element which can be used as following:
+ Note that one has to manually add the quotation characters. There is a reasoning behind this, and I assume this is because of the `cite` mess (should be outside the quotations). The current implementation is satisfactory and thus no modifications are done for blockquotes. Next to the blockquotes, Aleh has added the central-quote element which can be used as following:
 
 {% highlight html %}
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
