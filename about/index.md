@@ -10,9 +10,9 @@ date: '2015-08-09T00:30:00+01:00'
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Hello dearest visitor, and thanks for being one,
+Dearest visitor, welcome and thanks for being one,
 
-I'm a Micronaut and together with my buddy Aleh we are hereby sharing things about [music](/music){:target="_blank"},  [fiction](/stories){:target="_blank"} and sometimes about our [views and day life](/blog){:target="_blank"}.  You will find content either in English or Greek, depending pretty much on our mood.
+I'm a Micronaut and together with my buddy Aleh we are hereby sharing things about [music](/music){:target="_blank"},  [fiction](/stories){:target="_blank"} and sometimes about our [views and daily life](/blog){:target="_blank"}.  You will find content either in English or Greek, depending pretty much on our mood.
 
 Aleh studied physics, electrical engineering, and medical informatics. Currently he earns his bread (mine as well) as software engineer in the Healthcare IT sector. But I guess this is not why you are here, is it? At least you will be frustrated to find only traces of technical topics, and always well woven in his stories. You see, Aleh prefers to write fictional stories, but alas his free time is little and precious. He is trying his best, though, for that I can tell.
 
@@ -20,13 +20,12 @@ As for myself the Micronaut, I sail the oceans of human minds but most of the ti
 
 Regarding the deployment of this site, we chose one of the most promising bloging platforms to date, that is Jekyll on Github pages. We find it delightful to post simple text files instead of bulky database entries. The chosen theme is the ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael has created an awesome yet simple theme, and he definitely deserves compliments for his work. 
 
-As a proper software engineer would do, Aleh has [modified](/theme-setup/#alehs-customizations) Michael's theme, in order to accommodate our needs. Among others, he incorporated the [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"} styles by Bruno Rodrigues (check [here](/music/new-albums-2015/){:target="_blank"}). Next to that, Aleh has been messing around with javascript (poor guy still struggling with it) to load certain type of content only when is supposed to be displayed in your browser; he did that to save your bandwidth in case you visit a page that happens to contain plenty of photos and iframes. Last but not least, you can spend some time in the [404](/404){:target="_blank"} page. You can find a (attempt for a) list of customizations in our [theme-setup](/theme-setup/#alehs-customizations) page.
+As a proper software engineer would do, Aleh has [modified](/theme-setup/#alehs-customizations) Michael's theme, in order to accommodate our needs. Among others, he incorporated the [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"} styles by Bruno Rodrigues (check [here](/music/new-albums-2015/){:target="_blank"}). Next to that, Aleh has been messing around with javascript (poor guy still struggling with it) to load certain type of content only when is supposed to be displayed in your browser; he did that to save your bandwidth in case you visit a page that happens to contain plenty of photos and iframes. Last but not least, you can spend some time in the [404](/404){:target="_blank"} page. You can find an (attempt for a) list of customizations in our [theme-setup](/theme-setup/#alehs-customizations) page.
 
 If you wish to contact us, feel free to use one of the links at the bottom (footer).
 
-Welcome to our adventures.<br/>
-Have fun and respect others,<br/>
-Aleh and the Micronaut
+Welcome to our adventures. Have fun and respect others,<br/>
+Aleh & the Micronaut
 
 <figure>
     <iframe width="530" height="335" src="//www.youtube.com/embed/xTysF1E4Ft0?rel=0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
