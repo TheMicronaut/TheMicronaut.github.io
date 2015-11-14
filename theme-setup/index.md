@@ -14,7 +14,7 @@ General notes and suggestions for customizing **So Simple Theme**.
 * Table of Contents
 {:toc}
 
-**Note:** You can find Aleh's own tweaks [here](#Alehs-customizations).
+**Note:** You can find Aleh's own tweaks [below](/#alehs-customizations).
 {:.notice}
 
 ## Installation
@@ -361,11 +361,11 @@ The only thing to look out for is the escaping of the backslash when using markd
 
 ## Aleh's Customizations
 
-#### Typography
+##### Typography
 Since I needed content in both English and Greek, I had to find nice fonts that support both languages without geopardizing the layout. I finally came up with a combination of google's 'Philosopher' and 'Ubuntu' webfonts. These two seem to render well together, while Ubuntu supports Greek characters.
 
-#### Timeline
-A timeline can be declared either inside an html page or a markdown page/post. The timelines is declared within a `<div id="timeline">...</div>` section. The left-right alignment needs to be done manually, via the  `<div class="timeline-content right">`. Credits for the timeline styles go to Bruno Rodrigues' [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"}.  Check [here](/music/new-albums-2015/){:target="_blank"} for an example on this blog. 
+##### The Timeline
+A timeline can be declared either inside an html page or a markdown page/post. The timelines is declared within a `<div id="timeline">...</div>` section. The left-right alignment needs to be done manually, via the  `<div class="timeline-content right">`. Timeline icon should be 110x110px, otherwise does not render in the center; if you have a tip to fix that I would be happy. Credits for the timeline styles go to Bruno Rodrigues' [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"}.  Check [here](/music/new-albums-2015/){:target="_blank"} for an example on this blog. 
 
 Example:
 {% highlight html %}
@@ -373,7 +373,7 @@ Example:
 	
 	<!-- First item - left aligned -->
 	<div class="timeline-item">
-		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
 		<div class="timeline-content">
 			<h2>Left aligned item</h2>
 			<h3>optional h3</h3>
@@ -384,7 +384,7 @@ Example:
 	
 	<!-- Second item - right aligned -->
 	<div class="timeline-item">
-		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
 		<div class="timeline-content right">
 			<h2>Right aligned item</h2>
 			<h3>Optional h3</h3>
@@ -421,7 +421,7 @@ Example:
 	</div>
 </div>
  
-#### Central quotes
+##### Central quotes
 This is the official rendering of a `blockquote` :
 
 > &ldquo; This is a blockquote &rdquo;
@@ -435,6 +435,8 @@ Next to this, you can make use of the central-quote as following:
 {% endhighlight %}
 
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
+
+---
 
 ## Further Customization
 
