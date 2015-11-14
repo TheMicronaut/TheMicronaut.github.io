@@ -1,21 +1,21 @@
 ---
 layout: page
 title: Theme Setup
-excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
-modified: 2014-08-08T20:04:41.231140-04:00
+excerpt: "Instructions on how to install and customize the Jekyll theme So Simple, including modifications and customizations by Aleh"
+modified: 2015-11-14T11:30:41.231140-04:00
 image:
   feature: blue-splash.jpg
   credit: Unknown
-#creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
 
-* Table of Contents
-{:toc}
-
 **Note:** You can find Aleh's own tweaks [below](/#alehs-customizations).
 {:.notice}
+
+* Table of Contents
+{:toc}
 
 ## Installation
 
@@ -361,8 +361,19 @@ The only thing to look out for is the escaping of the backslash when using markd
 
 ## Aleh's Customizations
 
+**Disclaimer:** Aleh is not a web designer, Michael instead, the creator of this theme is a great one. All credits and rights go to him. Aleh knows html, xml and json, bits of javascript, and is struggling hard with css. His only weapon is his experience in good software engineering practises. In order to not harass the original theme, Aleh tries to handle additions either in `_extras.scss` file or in their own .scss files. Alas, some of the modifications need to be done on the theme's own .scss files. All modifications and additions implemented on top of the so-simple-theme merely serve the purposes of Aleh and the Micronaut. If you have remarks, comments, or improvements or suggestions, you are more than welcome to contact Aleh via any of his social channels.
+{:.notice}
+
 ##### Typography
 Since I needed content in both English and Greek, I had to find nice fonts that support both languages without geopardizing the layout. I finally came up with a combination of google's 'Philosopher' and 'Ubuntu' webfonts. These two seem to render well together, while Ubuntu supports Greek characters.
+
+##### Capital Letter in paragraphs
+You can start a paragraph with a capital letter as in the example below. The capital letter shoud be nested inside a `<span class="dcap">T</span>` markup. 
+
+<span class="dcap">L</span>orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. 
+
+##### The Bio-photo
+Aleh and the Micronaut are the only editors of this blog. You don't need to see their photo on every post. Since we need a single column for the text, the bio-photo which shows the author's avatar has been disabled. In this blog we mainly focus on the sounds, and text rather than on visual appearances. It would be great though, if the original theme had a configuration point for single, double column support. The truth is that we do need support for double columns, for displaying relative or suggested posts rather than displaying bio-photos. 
 
 ##### The Timeline
 A timeline can be declared either inside an html page or a markdown page/post. The timelines is declared within a `<div id="timeline">...</div>` section. The left-right alignment needs to be done manually, via the  `<div class="timeline-content right">`. Timeline icon should be 110x110px, otherwise does not render in the center; if you have a tip to fix that I would be happy. Credits for the timeline styles go to Bruno Rodrigues' [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"}.  Check [here](/music/new-albums-2015/){:target="_blank"} for an example on this blog. 
@@ -422,19 +433,22 @@ Example:
 </div>
  
 ##### Central quotes
-This is the official rendering of a `blockquote` :
+This is the official rendering of a `blockquote`  by the so-simple theme:
 
 > &ldquo; This is a blockquote &rdquo;
 >
 > -- <cite>Aleh</cite>
-
-Next to this, you can make use of the central-quote as following:
+ 
+ Note that one has to manually add the quotation characters. There is a reasoning behind this, and I assume this is because of the `cite` mess (which is supposed to be outside the quotations. The current implementation is satisfactory and thus no modifications are done for blockquotes. Next to the blockquotes, Aleh has added the central-quote element which can be used as following:
 
 {% highlight html %}
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
 {% endhighlight %}
 
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
+
+##### Images & Figcaptions
+There is a lot to be said about images and figcaptions, but better have a look around this site to see how images and figcaptions are rendered compared to the original theme.
 
 ---
 
