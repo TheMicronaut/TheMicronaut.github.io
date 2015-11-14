@@ -4,15 +4,18 @@ title: Theme Setup
 excerpt: "Instructions on how to install and customize the Jekyll theme So Simple."
 modified: 2014-08-08T20:04:41.231140-04:00
 image:
-  feature: so-simple-sample-image-6.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: blue-splash.jpg
+  credit: Unknown
+#creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
 
 * Table of Contents
 {:toc}
+
+**Note:** You can find Aleh's own tweaks [here](#Alehs-customizations).
+{:.notice}
 
 ## Installation
 
@@ -357,19 +360,81 @@ The only thing to look out for is the escaping of the backslash when using markd
 ---
 
 ## Aleh's Customizations
+
+#### Typography
+Since I needed content in both English and Greek, I had to find nice fonts that support both languages without geopardizing the layout. I finally came up with a combination of google's 'Philosopher' and 'Ubuntu' webfonts. These two seem to render well together, while Ubuntu supports Greek characters.
+
+#### Timeline
+A timeline can be declared either inside an html page or a markdown page/post. The timelines is declared within a `<div id="timeline">...</div>` section. The left-right alignment needs to be done manually, via the  `<div class="timeline-content right">`. Credits for the timeline styles go to Bruno Rodrigues' [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"}.  Check [here](/music/new-albums-2015/){:target="_blank"} for an example on this blog. 
+
+Example:
+{% highlight html %}
+<div id="timeline">
+	
+	<!-- First item - left aligned -->
+	<div class="timeline-item">
+		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-content">
+			<h2>Left aligned item</h2>
+			<h3>optional h3</h3>
+			<p id="tags">optional · tag1</p>
+			<p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
+		</div>
+	</div>
+	
+	<!-- Second item - right aligned -->
+	<div class="timeline-item">
+		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-content right">
+			<h2>Right aligned item</h2>
+			<h3>Optional h3</h3>
+			<p id="tags">optional · tag2</p>
+			<p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
+		</div>
+	</div>
+	
+</div>
+{% endhighlight %}
+ 
+ This html code should render into something like:
+ 
+<div id="timeline">
+	<!-- First item - left aligned -->
+	<div class="timeline-item">
+		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-content">
+			<h2>Left aligned item</h2>
+			<h3>optional h3</h3>
+			<p id="tags">optional · tag1</p>
+			<p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
+		</div>
+	</div>
+	<!-- Second item - right aligned -->
+	<div class="timeline-item">
+		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-content right">
+			<h2>Right aligned item</h2>
+			<h3>Optional h3</h3>
+			<p id="tags">optional · tag2</p>
+			<p>Add your text here. You may include as many paragraphs, images, iframes as you like.</p>
+		</div>
+	</div>
+</div>
+ 
+#### Central quotes
 This is the official rendering of a `blockquote` :
 
 > &ldquo; This is a blockquote &rdquo;
 >
 > -- <cite>Aleh</cite>
 
-Next to the blockquote, you can make use of the central-quote as following:
+Next to this, you can make use of the central-quote as following:
 
 {% highlight html %}
-<div class="central-quote">This is supposed to be a central-blockquote. You should see two dividers on top and the bottom of this quote.</div>
+<div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
 {% endhighlight %}
 
-<div class="central-quote">This is supposed to be a central-blockquote. You should see two dividers on top and the bottom of this quote.</div>
+<div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
 
 ## Further Customization
 
