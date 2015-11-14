@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog posts & stories
+title: Views & other blog posts
 excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true
@@ -15,6 +15,6 @@ search_omit: true
     <ul class="post-list">
     {% capture year %}{{currentyear}}{% endcapture %} 
   {% endif %}
-    <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+    <li><article><a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>

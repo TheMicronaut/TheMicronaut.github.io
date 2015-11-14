@@ -1,15 +1,16 @@
 ---
 layout: post
-categories:  [blog, stories, full-moon-stories]
+categories:  [stories, full-moon-stories]
 share: true
 comments: true
 title: 'Οι κυριακάτικοι λουκουμάδες'
 #excerpt: ''
 date: '2015-11-05T23:59:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [stories, full-moon-stories]
+tags: [full-moon-stories, mystery]
 author: Aleh
 hidelogo: true
+redirect_from: "/blog/stories/full-moon-stories/Sundays-donuts/"
 ---
 
 *Με το φως κάθε ολόγιομου φεγγαριού, ο Aleh σκαρφίζεται ιστορίες μυστηρίου και φαντασίας που τις αφηγείται η Ophelia στην εκπομπή DW Ophelia στον [innersound-radio](http://innersound-radio.com/){:target="_blank"} τις Παρασκευές  με πανσέληνο 23:00 - 01:00 (UTC+2hrs). Στο mixcloud που ακολουθεί, η πρώτη ιστορία με την υπέροχη αφήγηση και μουσική επένδυση της Οφηλίας.*

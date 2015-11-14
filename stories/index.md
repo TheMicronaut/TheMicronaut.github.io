@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Music Posts
-excerpt: "An archive of posts related to music sorted by date."
+title: Stories
+excerpt: "An archive of fictional stories sorted by date."
 hidelogo: true
 search_omit: true
 ---
 
 <ul class="post-list">
-{% for post in site.categories.music %}
+{% for post in site.categories.stories %}
   {% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
   {% if currentyear != year %}
     {% unless forloop.first %}</ul>{% endunless %}
