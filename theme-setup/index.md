@@ -401,7 +401,7 @@ Example:
 <div id="timeline">
 	<!-- First item - left aligned -->
 	<div class="timeline-item">
-		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
 		<div class="timeline-content">
 			<h2>Left aligned item</h2>
 			<h3>optional h3</h3>
@@ -411,7 +411,7 @@ Example:
 	</div>
 	<!-- Second item - right aligned -->
 	<div class="timeline-item">
-		<div class="timeline-icon"><img src="/images/timeline/star.svg" alt=""></div>
+		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
 		<div class="timeline-content right">
 			<h2>Right aligned item</h2>
 			<h3>Optional h3</h3>
