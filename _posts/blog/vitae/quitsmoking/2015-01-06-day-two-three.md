@@ -1,15 +1,16 @@
 ---
 layout: post
-categories: blog
+categories: [blog, vitae]
 share: true
 comments: true
 title: 'Ημέρα τρίτη - Η Τίνα η Ρουτίνα'
 excerpt: 'Όση τρέλα κουβαλά το κάπνισμα, άλλη τόση χρειάζεται να το κόψεις...'
 date: '2015-01-06T23:45:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [quitsmoking, stories]
+tags: [smoking, bio]
 author: Aleh
 hidelogo: true
+redirect_from: "/blog/day-two-three/"
 ---
 <figure>
     <a href="/images/posts/diary/pasxalia.JPG"><img src="/images/posts/diary/pasxalia.JPG" alt="pasxalia-Image" class="center"/></a>

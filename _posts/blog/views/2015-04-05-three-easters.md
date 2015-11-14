@@ -1,15 +1,16 @@
 ---
 layout: post
-categories: blog
+categories: [blog,views]
 share: true
 comments: true
 title: 'Ένας ήλιος, ένα φεγγάρι και τρια θαύματα'
 excerpt: 'Απo το Πάσχα των αρχαίων Αιγυπτίων, στο Πάσχα των Εβραίων και αυτό των Χριστιανών'
 date: '2015-04-05T18:50:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [paganism]
+tags: [relegion, paganism, science]
 author: Aleh
 hidelogo: true
+redirect_from: "/blog/three-easters/"
 ---
 
 *Αγαπητέ αναγνώστη, αν αυτό το κείμενο σου φαίνεται μακρόσυρτο, μπορείς να πατήσεις το κουμπί στο παρακάτω mix, για να κάνει το διάβασμα σου λιγότερο βαρετό. Αν πάλι δεν έχεις χρόνο για χάσιμο, μάλλον δε χρειάζεται να μπεις στο κόπο να διαβάσεις.*

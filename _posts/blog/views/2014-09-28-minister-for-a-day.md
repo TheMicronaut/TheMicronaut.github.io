@@ -1,17 +1,18 @@
 ---
 layout: post
-categories: blog
+categories: [blog, views]
 share: true
 comments: true
 title: 'Υπουργός για μια μέρα'
 excerpt: "Σήμερα αποφάσισα να γίνω υπουργός Παιδείας. Μόνο για μια μέρα όμως, όχι παραπάνω..."
 date: '2014-09-28T23:20:00+01:00'
 modified: '2014-11-16T20:39:00+01:00'
-tags: [politics, views]
+tags: [politics]
 author: Aleh
 image:
   feature: /posts/views/Gyzis_Krypho_sxolio.jpg
-  credit: Νικόλαος Γύζης, Το κρυφό σχολειό, ελαιογραφία, 1885/86.  
+  credit: Νικόλαος Γύζης, Το κρυφό σχολειό, ελαιογραφία, 1885/86. 
+redirect_from: "/blog/minister-for-a-day/" 
 ---
 Σήμερα αποφάσισα να γίνω υπουργός Παιδείας. Μόνο για μια μέρα όμως, όχι παραπάνω. Θα ξεκινούσα με το όνομα του υπουργείου, κλασσικά, γιατί να το κρύψομε άλλωστε...
 

@@ -1,15 +1,16 @@
 ---
 layout: post
-categories: blog
+categories: [blog, vitae]
 share: true
 comments: true
 title: 'Ένα πουλί μετράει τα πούπουλα'
 excerpt: 'Always the hours...'
 date: '2015-07-21T00:30:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [stories, poetry, vitae]
+tags: [stories, poetry, bio]
 author: Aleh
 hidelogo: true
+redirect_from: "/blog/when-the-child-was-a-child/"
 ---
 
 <figure>
