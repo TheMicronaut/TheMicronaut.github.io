@@ -33,6 +33,8 @@ div .central-quote {
     line-height: 1.2em; 
 	padding: 30px 30px 40px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     @include font-size(20,yes,20);
     @include media($medium) {
 	    @include font-size(24,yes,24);
