@@ -36,9 +36,11 @@ div .central-quote {
     @include font-size(20,yes,20);
     @include media($medium) {
 	    @include font-size(24,yes,24);
+		max-width: 80%;
     }
     @include media($large) {
         @include font-size(26,yes,26);
+		max-width: 70%;
     }
 } 
 
