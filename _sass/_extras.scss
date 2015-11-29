@@ -45,6 +45,15 @@ div .central-quote {
         @include font-size(26,yes,26);
 		max-width: 70%;
     }
+}
+
+div .text-divider {
+    background: url(/images/divider-text.png) center no-repeat;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+	height: 25px;
+	max-width: 40%;
 } 
 
 // Alternative Fonts
