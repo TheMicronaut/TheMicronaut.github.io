@@ -1,27 +1,31 @@
 ---
 layout: page
-title: blogs & sites I visit frequently
+title: I visit frequently...
 excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-Here is a list of internet resources (blogs, sites, etc) from which I get inspiration:
+Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
 
-#### &#x261B; Blogs / storytelling
-* [Ad Astra](http://aylwens.blogspot.gr/){:target="_blank"}  [GR]
+###<i class="fa fa-link"></i> Stories
+
+##### <i class="fa fa-hand-o-right"></i> Blogs / storytelling
+* [Ad Astra](http://aylwens.blogspot.gr/){:target="_blank"}  [GR] <br/>
 * [Passenger](http://www.aggelosspyrou.net/){:target="_blank"}  [GR]
 
-#### &#x261B; Blogs / music
+
+###<i class="fa fa-link"></i> Music Resources
+
+#####<i class="fa fa-hand-o-right"></i> Blogs / music
 * [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [GR/EN]
 * [The Roots of the Groove](http://grooveroots.wordpress.com/){:target="_blank"}  [GR]
+* [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.nl/){:target="_blank"}  [GR/EN]
 
-#### &#x261B; Music resources
-
-##### Web Radio
+#####<i class="fa fa-hand-o-right"></i> Web Radio
 * [Innersound Radio](http://innersound-radio.com/){:target="_blank"}
 
-##### Tumblr
+#####<i class="fa fa-hand-o-right"></i> Tumblr
 * [elenelli](http://elenelli.tumblr.com/){:target="_blank"}
 * [mysteryheaven](http://mysteryheaven.tumblr.com/){:target="_blank"} 
 * [inhal3rt](http://inhal3rt.tumblr.com/){:target="_blank"}
@@ -29,7 +33,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [ghoulnextdoor](http://ghoulnextdoor.tumblr.com/){:target="_blank"}
 * [theargasmicmusic](http://theargasmicmusic.tumblr.com/){:target="_blank"}
 
-##### Mixcloud
+#####<i class="fa fa-hand-o-right"></i> Mixcloud
 * [Ophelia Hamlet](http://www.mixcloud.com/opheliah2o/){:target="_blank"}
 * [Anna Alverti](http://www.mixcloud.com/annaalverti102/){:target="_blank"}
 * [Elena Elliniadou](http://www.mixcloud.com/elenaelliniadou/){:target="_blank"}
@@ -51,7 +55,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [Sokrates Called](http://www.mixcloud.com/anartcalled/){:target="_blank"}
 
 
-##### youtube channels
+#####<i class="fa fa-hand-o-right"></i> YouTube channels
 * [tzortzinious](https://www.youtube.com/channel/UC-cSXjGlG90Gw8VDTwsL06g){:target="_blank"}
 * [Alevizon](https://www.youtube.com/channel/UCDUmKobggGUPVz6A8x2qGdg){:target="_blank"}
 * [Anna Konda](https://www.youtube.com/channel/UCRwxlqapFLv9EIrzOQ0aN1g){:target="_blank"}
@@ -63,9 +67,3 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [artmaniac53](https://www.youtube.com/channel/UCeI2O8GIPsjdI8pWyic-Xww){:target="_blank"}
 * [Medusatrip~](https://www.youtube.com/channel/UCAjayTXVwboR6dAt1Ev2yFA){:target="_blank"}
 * [PolllkaAA](https://www.youtube.com/channel/UCExkJGfeeMmJvjmC_Eajt1Q){:target="_blank"}
-
-
-
-
-
-
