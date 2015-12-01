@@ -62,6 +62,7 @@
     float: left;
     @include font-size(14);
     line-height: 2.5;
+	list-style-type: none;
   }
   a {
     padding: 4px 6px;
