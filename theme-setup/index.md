@@ -446,6 +446,15 @@ This is the official rendering of a `blockquote`  by the so-simple theme:
 
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
 
+##### Text divider
+ You can divide pieces of text by means of the text divider. The following html syntax can be used within markdown, similar to the central quote and other html markups:
+ 
+ {% highlight html %}
+ <div class="text-divider"></div>
+ {% endhighlight %}
+ 
+ <div class="text-divider"></div>
+
 ##### Images & Figcaptions
 There is a lot to be said about images and figcaptions, but better have a look around this site to see how images and figcaptions are rendered compared to the original theme.
 
