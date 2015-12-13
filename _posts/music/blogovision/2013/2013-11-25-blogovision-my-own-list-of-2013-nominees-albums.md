@@ -6,6 +6,7 @@ comments: true
 title: 'Blogovision - My own list of 2013 nominees (albums)'
 date: '2013-11-25T01:09:40+01:00'
 tags: [blogovision, blogovision2013]
+redirect_from: "/blog/blogovision-my-own-list-of-2013-nominees-albums/"
 link: http://themicronaut.tumblr.com/post/68009214005/blogovision-my-own-list-of-2013-nominees-albums
 ---
 The list reflects my own taste in music. If you have proposals, please feel free to add your comments.The albums sorted in alphabetical order and the reported release date is as appears in last.fm; which implies that it might not be accurate. For sure, the following albums are all released within 2013.          
