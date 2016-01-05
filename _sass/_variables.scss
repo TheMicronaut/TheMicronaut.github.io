@@ -23,8 +23,21 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'zallman_capsregular';
+    src: url('../fonts/eb-garamond-0016/zallmancaps-webfont.eot');
+    src: url('../fonts/eb-garamond-0016/zallmancaps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.woff2') format('woff2'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.woff') format('woff'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.ttf') format('truetype'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.svg#zallman_capsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 $base-font: 'eb_garamond12_regular', 'eb_garamond12_italic', 'Ubuntu', sans-serif;
-$alt-font: 'Philosopher', 'Ubuntu', sans-serif;
+$alt-font: 'Philosopher', 'eb_garamond12_regular', sans-serif;
+$cap-font: 'zallman_capsregular', 'eb_garamond12_regular', sans-serif;
 $heading-font: $base-font;
 $title-font: $alt-font;
 $caption-font: $alt-font;
