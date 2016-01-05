@@ -43,12 +43,12 @@ body {
 }
 
 p {
-	@include font-size(18,yes,28);
+	@include font-size(22,yes,32);
 }
 
 li {
 	list-style-type: square;
-	@include font-size(16,12,24);
+	@include font-size(20,12,28);
 }
 
 /* headings */
