@@ -44,7 +44,7 @@ $caption-font: $alt-font;
 $code-font: $base-font;
 
 $doc-font-size: 16;
-$doc-line-height: 24;
+$doc-line-height: 28;
 
 $border-radius: 3px;
 
@@ -58,7 +58,7 @@ body {
 
 // COLORS =====================================================
 $body-color         : #fff;
-$text-color         : #222;
+$text-color         :  #000; 	//#222;
 $base-color         : #343434;    
 $comp-color         : spin($base-color, 180); 
 $border-color       : #ddd;
