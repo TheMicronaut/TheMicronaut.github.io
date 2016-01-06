@@ -54,6 +54,7 @@
    ========================================================================== */
 
 .site-title {
+  font-family: $alt-font;
   margin-bottom: 0;
   @include animation-duration(1s);
     @include animation-delay(.75s);
