@@ -1,3 +1,11 @@
+// Printability
+// --------------------------------------------------
+@media print {
+  .no-print {
+    display:none;
+  }
+}
+
 // Visibility (Scroll Effects)
 // --------------------------------------------------
 .invisible {
