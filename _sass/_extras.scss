@@ -71,11 +71,6 @@ div .text-divider {
 	}
  }
  
-.alt-font-small {
-	font-family: $alt-font;
-	@include font-size(16,yes,16);
- }
-
 // Images
 // --------------------------------------------------
 img.center {
