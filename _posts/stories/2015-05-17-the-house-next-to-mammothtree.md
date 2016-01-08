@@ -65,7 +65,7 @@ redirect_from: "/blog/the-house-next-to-mammothtree/"
 
 by Aleh (1995)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/WXFvSE7GBbs" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/WXFvSE7GBbs" frameborder="0" class="no-print">&nbsp;</iframe>
 
 <figure class="center">
 	<img src="/images/TheEnd.gif" alt="The End" class="center"/>

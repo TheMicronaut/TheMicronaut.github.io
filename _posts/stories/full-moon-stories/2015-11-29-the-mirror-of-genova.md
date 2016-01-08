@@ -14,7 +14,7 @@ hidelogo: true
 *Με το φως κάθε ολόγιομου φεγγαριού, ο Aleh σκαρφίζεται ιστορίες μυστηρίου και φαντασίας που τις αφηγείται η Οφηλία στην εκπομπή της DW Ophelia στον [innersound-radio](http://innersound-radio.com/){:target="_blank"} τις Παρασκευές με πανσέληνο 23:00 - 01:00 (UTC+2hrs). Στο mixcloud (1:01:20) που ακολουθεί , η δεύτερη ιστορία με την απολαυστική αφήγηση και υπέροχη μουσική επένδυση της Οφηλίας.*
 {:.notice}
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=b545c17d-7751-4842-a2d6-36aa9c0c7764&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fopheliah2o%2Fon-board-the-dreamship-innersound-radiocom%2F&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;replace=0&amp;stylecolor=191717" frameborder="0"></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?embed_type=widget_standard&amp;embed_uuid=b545c17d-7751-4842-a2d6-36aa9c0c7764&amp;feed=https%3A%2F%2Fwww.mixcloud.com%2Fopheliah2o%2Fon-board-the-dreamship-innersound-radiocom%2F&amp;hide_cover=1&amp;hide_tracklist=1&amp;light=1&amp;replace=0&amp;stylecolor=191717" frameborder="0" class="no-print"></iframe>
 
 
 <span class="dcap">A</span>κούμπησε προσεκτικά το πακέτο κάτω και πήρε μια ανάσα μπροστά στη βιτρίνα με τα ηλεκτρικά είδη. Με τα μάτια καρφωμένα στις επίπεδες τηλεοράσεις, τελευταία λέξη της τεχνολογίας, έβγαλε το μεταξένιο μαντήλι απ΄τη πάνω τσέπη του μπλέϊζερ, και σκούπισε τον ιδρώτα. Κομψός και πάντα προσεκτικά και με γούστο ντυμένος θα μπορούσε κάλλιστα να είναι ανάμεσα στα μοντέλα που παρήλαυναν μπροστά στα μάτια του στις οθόνες. 
@@ -107,7 +107,7 @@ hidelogo: true
 
 <div class="text-divider"></div>
 
-Οι σειρήνες ασθενοφόρου έβγαλαν στο δρόμο ολόκληρη τη γειτονιά. Αρκετοί μαζεύτηκαν γύρω απ' τα οχήματα της πυροσβεστικής, κάπου ανάμεσα κι η Κατερίνα που είχε μόλις επιστρέψει απ’ το νοσοκομείο. Δύο πυροσβέστες βγήκαν απ' το κτίριο, ο καθένας κρατώντας στα χέρια του από δύο κουτάβια.
+Οι σειρήνες ασθενοφόρου έβγαλαν στο δρόμο ολόκληρη τη γειτονιά. Αρκετοί μαζεύτηκαν γύρω απ' τα οχήματα της πυροσβεστικής, κάπου ανάμεσα κι η Κατερίνα που είχε μόλις επιστρέψει απ' το νοσοκομείο. Δύο πυροσβέστες βγήκαν απ' το κτίριο, ο καθένας κρατώντας στα χέρια του από δύο κουτάβια.
 
 *«Βρίσκεται εδώ η Αικατερίνη Σταμούλη του Γεωργίου;»* ρώτησε ο αστυνόμος προς στον πλήθος που είχε στοιβαχτεί δίπλα στην είσοδο της πολυκατοικίας.
 
@@ -115,7 +115,7 @@ hidelogo: true
 
 *«Η φωτιά ξεκίνησε απ' το διαμέρισμα σας, κυρία Σταμούλη, όπως φαίνεται από την ηλεκτρική σόμπα που αφήσατε αναμμένη. Θα σας παρακαλέσω να με ακολουθήσετε στο τμήμα για λεπτομερή κατάθεση»*. 
 
- <div class="invisible">
+ <div class="invisible no-print">
 <figure class="center">
 <iframe width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/AQKlRGFmP0Y" frameborder="0" allowfullscreen>&nbsp;</iframe>
 </figure>
