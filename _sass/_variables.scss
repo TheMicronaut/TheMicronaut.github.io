@@ -11,11 +11,6 @@
     font-weight: normal;
     font-style: normal;
 }
-/* This font face inherits and overrides the previous font face, but only for chrome */
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-	font-family: 'eb_garamond12_regular';
-	url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.svg#eb_garamond12_regular') format('svg');
-}
 
 /* This is the default font face used for all browsers. */
 @font-face {
@@ -30,12 +25,6 @@
     font-style: normal;
 }
 
-/* This font face inherits and overrides the previous font face, but only for chrome */
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-	font-family: 'eb_garamond12_italic';
-	url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.svg#eb_garamond12_italic') format('svg');
-}
-
 /* This is the default font face used for all browsers. */
 @font-face {
     font-family: 'zallman_capsregular';
@@ -47,12 +36,6 @@
          url('../fonts/eb-garamond-0016/zallmancaps-webfont.svg#zallman_capsregular') format('svg');
     font-weight: normal;
     font-style: normal;
-}
-
-/* This font face inherits and overrides the previous font face, but only for chrome */
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-	font-family: 'zallman_capsregular';
-	url('../fonts/eb-garamond-0016/zallmancaps-webfont.svg#zallman_capsregular') format('svg');
 }
 
 $base-font: 'eb_garamond12_regular', 'eb_garamond12_italic', sans-serif;
