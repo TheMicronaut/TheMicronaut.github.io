@@ -44,11 +44,13 @@ body {
 
 p {
 	@include font-size(24,yes,36);
+	-webkit-font-smoothing: antialiased;
 }
 
 li {
 	list-style-type: square;
 	@include font-size(24,12,32);
+	-webkit-font-smoothing: antialiased;
 }
 
 /* headings */
@@ -56,6 +58,7 @@ li {
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
 	text-rendering: optimizeLegibility; // Fix the character spacing for headings
+	-webkit-font-smoothing: antialiased;
 }
 h1 {
 	@include font-size(40);
