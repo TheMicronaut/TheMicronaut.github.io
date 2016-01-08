@@ -23,13 +23,12 @@
     float: left;
     list-style: none;
     text-align: center;
-	font-size: 1.5rem;
+	font-size: 1rem;
     font-family: $alt-font;
-    @include font-size(26,no);
     text-transform: uppercase;
     color: $white;
     @include media($medium) {
-      @include font-size(18,no);
+      font-size: 0.85rem;
     }
     a:hover {
       @include box-shadow($shadow: inset 0 0 1px $white);
@@ -94,6 +93,7 @@
   padding: 6px 20px;
   background-color: $black;
   height: 44px;
+  font-size: 1.3rem;
   @include rounded(0);
   @include media($medium) {
     display: none;
