@@ -191,7 +191,7 @@ span + .entry-title {
 	li > a {
 		display: inline-block;
 		position: relative;
-		&:after {
+		&:after, &:hover {
 		  content: '';
 		  position: absolute;
 		  left: 0;
