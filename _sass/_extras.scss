@@ -91,7 +91,6 @@ img.center {
 		(vimeo, $vimeo-color),
 		(youtube, $youtube-color);
     outline: none !important;
-    font-size: 1.5em;
 	color: $link-color;
 	&:hover {
         @each $socialnetwork, $color in $social {
