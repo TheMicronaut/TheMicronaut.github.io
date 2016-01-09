@@ -6,12 +6,12 @@ sitemap: false
 {% for post in site.posts %}
   {% if post.title != null and post.title != empty and post.search_omit != true %}
     {% if forloop.index > 1 %},{% endif %}{
-      "title"			: {{ post.title | jsonify }},
-      "link"			: "{{ site.url }}{{ post.url }}",
-	  "date"		: {{ post.date | jsonify }},
-      "excerpt"	: "{{ post.excerpt | strip_html | strip_newlines }}",
-      "category"	: "{{ post.categories | array_to_sentence_string }}"	,
-	  "tags"		: "{{ post.tags  | array_to_sentence_string }}"
+      "title"         : {{ post.title | jsonify }},
+      "link"          : "{{ site.url }}{{ post.url }}",
+      "date"        : {{ post.date | date: "%B %d, %Y" }},
+      "excerpt"   : "{{ post.excerpt | strip_html | strip_newlines }}",
+      "category" : "{{ post.categories | array_to_sentence_string }}"	,
+      "tags"        : "{{ post.tags  | array_to_sentence_string }}"
     }
   {% endif %}
 {% endfor %}
