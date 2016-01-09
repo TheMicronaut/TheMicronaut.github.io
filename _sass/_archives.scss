@@ -21,10 +21,6 @@
       border-bottom-width: 0; /* remove underlines from items in post indexes */
     }
   }
-  li.tags-list {
-    border-bottom: none;
-	@include font-size(20,no);	
-  }  
   a > span {
     float: right;
   }
@@ -67,9 +63,10 @@
     background-color: lighten($black, 90);
     @include rounded(4px);
     text-decoration: none;
-	&:after, &:hover:after {
-		border-bottom: none;
-	}
+	border-bottom: none !important;
+	&:after {
+		  content: none;
+	}		  
     span {
       vertical-align: super;
       @include font-size(16);
