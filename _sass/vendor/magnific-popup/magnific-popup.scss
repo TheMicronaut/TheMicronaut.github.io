@@ -329,8 +329,7 @@ button {
   right: 0;
   color: $mfp-controls-text-color;
   font-family: $figcaption-font;
-  font-size: 12px;
-  line-height: 18px;
+  @include font-size(24,yes,36);
   white-space: nowrap;
 }
 
