@@ -25,7 +25,14 @@ sitemap: false
 
 <!-- Search result template -->
 <script type="text/x-template" id="search-result">
-  <li><article>
+  <!--<li><article>
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
-  </article></li>
+  </article></li> -->
+  <li><article><a href="##Url##">##Title##<span class="entry-date"><!--##date## : not implemented--></span></a></article></li>
+      <!--<footer class="entry-meta-small">
+      <span><i class="fa fa-angle-double-right"></i>&nbsp;##Category##&nbsp;&nbsp;</span>
+	  </footer>  -->
+  <span class="excerpt">##Excerpt##</span>
+	  <br>
+	  <br>  
 </script>
