@@ -45,7 +45,7 @@ body {
 }
 
 p {
-	@include font-size(24,yes,20);
+	@include font-size(24,yes,16);
 	-webkit-font-smoothing: antialiased;
 }
 
