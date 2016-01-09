@@ -166,7 +166,7 @@ svg:not(:root) {
 figcaption {
     padding-left: 2 * $gutter;
     padding-right: 2 * $gutter;
-    font-family: $alt-font;
+    font-family: $figcaption-font;
     font-style: italic;
     font-weight: 200;
     @include font-size(13,no,15);

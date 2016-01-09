@@ -328,7 +328,7 @@ button {
   top: 0;
   right: 0;
   color: $mfp-controls-text-color;
-  font-family: $alt-font;
+  font-family: $figcaption-font;
   font-size: 12px;
   line-height: 18px;
   white-space: nowrap;
@@ -534,7 +534,7 @@ button {
     color: $mfp-caption-title-color;
     word-wrap: break-word;
     padding-right: 36px; // leave some space for counter at right side
-    font-family: $alt-font;
+    font-family: $figcaption-font;
   }
 
   .mfp-image-holder {
