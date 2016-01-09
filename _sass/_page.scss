@@ -191,7 +191,7 @@ span + .entry-title {
 	li > a {
 		display: inline-block;
 		position: relative;
-		&:after, &:hover {
+		&:after {
 		  content: '';
 		  position: absolute;
 		  left: 0;
@@ -201,7 +201,7 @@ span + .entry-title {
 		  border-bottom: 1px dotted lighten($link-color, 50);
 		  margin-top: 5px;
 		}
-		&:hover {
+		&:hover:after {
 			border-bottom-style: solid;
 		}
 	}
