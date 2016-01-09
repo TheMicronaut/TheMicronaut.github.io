@@ -67,7 +67,9 @@
     background-color: lighten($black, 90);
     @include rounded(4px);
     text-decoration: none;
-	border-bottom: none;
+	&:after, &:hover:after {
+		border-bottom: none;
+	}
     span {
       vertical-align: super;
       @include font-size(16);
