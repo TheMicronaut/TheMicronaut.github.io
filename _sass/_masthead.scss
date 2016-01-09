@@ -55,6 +55,7 @@
 
 .site-title {
   font-family: $alt-font;
+  font-style: italic;
   margin-bottom: 0;
   @include animation-duration(1s);
     @include animation-delay(.75s);
