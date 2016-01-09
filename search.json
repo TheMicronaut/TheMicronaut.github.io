@@ -10,7 +10,8 @@ sitemap: false
       "link"			: "{{ site.url }}{{ post.url }}",
 	  "date"		: {{ post.date | jsonify }},
       "excerpt"	: "{{ post.excerpt | strip_html | strip_newlines }}",
-      "category"	: "{{ post.categories | array_to_sentence_string }}"	  
+      "category"	: "{{ post.categories | jsonify }}"
+	  "tags"		: "{{ post.tags  | jsonify }}"
     }
   {% endif %}
 {% endfor %}
