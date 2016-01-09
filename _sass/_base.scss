@@ -96,8 +96,6 @@ ins {
 a {
 	text-decoration: none;
 	color: $link-color;
-	display: inline-block;
-	position: relative;	
 	&:visited {
 		color: lighten($link-color, 30);
 	}
@@ -112,17 +110,6 @@ a {
 	&:active {
 		outline: 0;
 	}
-}
-
-a::after {
-  content: '';
-  position: absolute;
-  left: 0;
-  display: inline-block;
-  height: 1em;
-  width: 100%;
-  border-bottom: 1px solid;
-  margin-top: 5px;
 }
 
 /*
