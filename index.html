@@ -27,16 +27,16 @@ search_omit: true
 
   {% for page in (1..paginator.total_pages) %}
   {% if page == paginator.page %}
-    <span class="btn" style="font-size: 15pt; background-color: #fff; color: #000;">{{ page }}</span>
+    <span class="btn" style="background-color: #fff; color: #000;">{{ page }}</span>
   {% elsif page == 1 %}
-    <a href="{{ site.url }}" class="btn" style="font-size: 15pt">{{ page }}</a>
+    <a href="{{ site.url }}" class="btn">{{ page }}</a>
   {% else %}
-    <a href="{{ site.paginate_path | replace: ':num', page }}" class="btn" style="font-size: 15pt">{{ page }}</a>
+    <a href="{{ site.paginate_path | replace: ':num', page }}" class="btn">{{ page }}</a>
   {% endif %}
   {% endfor %}
   
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | replace: 'index.html', '/' | replace: '//', '/' }}" class="btn" style="font-size: 15pt">Page {{ paginator.next_page }}   <i class="fa fa-hand-o-right"></i></a>
+    <a href="{{ paginator.next_page_path | replace: 'index.html', '/' | replace: '//', '/' }}" class="btn">Page {{ paginator.next_page }}   <i class="fa fa-hand-o-right"></i></a>
   {% endif %}
 </div>
 {% endif %}
