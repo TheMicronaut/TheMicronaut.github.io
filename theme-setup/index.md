@@ -364,7 +364,7 @@ The only thing to look out for is the escaping of the backslash when using markd
 {:.notice}
 
 ##### Typography
-Since I needed content in both English and Greek, I had to find nice fonts that support both languages without geopardizing the layout. I finally came up with a combination of google's 'Philosopher' and 'Ubuntu' webfonts. These two seem to render well together, while Ubuntu supports Greek characters.
+Since I needed content in both English and Greek, I had to find nice fonts that support both languages without geopardizing the layout. I decided to adopt the EB Garamond fonts by designer [Georg Duffner](http://www.georgduffner.at/ebgaramond/index.html){:target="_blank"}. EB Garamond is free software under the terms of the SIL Open Fonts License (ofl). For the inital paragraph letters, I chose not the use EB Garamond style, due to the work-in-progress nature and the fact that only few letters are currently supported; therefore I went for another font series named "Zallmancaps". The webfonts are all installed on the repository, to decouple the dependencies with webfont platforms, such as google fonts or fonts squirrel. Last but not least, I make limited use the 'Philosopher' webfonts for the menus, buttons, some headers, and footer notes.
 
 ##### Capital Letter in paragraphs
 You can start a paragraph with a capital letter as in the example below. The capital letter shoud be nested inside a `<span class="dcap">T</span>` markup. 
