@@ -66,19 +66,6 @@ div .text-divider {
 	max-width: 40%;
 } 
 
-// Alternative Fonts
-// --------------------------------------------------
-.alt-font-normal {
-	font-family: $alt-font;
-	font-style: italic;
-	@include font-size(20,yes,20);
-	font-weight: 200;
-	a {
-		color: $black;
-		text-decoration: underline;
-	}
- }
- 
 // Images
 // --------------------------------------------------
 img.center {
