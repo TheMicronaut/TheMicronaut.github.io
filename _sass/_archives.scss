@@ -21,6 +21,10 @@
       border-bottom-width: 0; /* remove underlines from items in post indexes */
     }
   }
+  li.tags-list {
+    border-bottom: none;
+	@include font-size(20,no);	
+  }  
   a > span {
     float: right;
   }
