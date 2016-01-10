@@ -46,12 +46,18 @@ body {
 
 p {
 	@include font-size(24,yes,16);
+	@media print {
+		@include font-size(20,yes,12);
+	 }
 	-webkit-font-smoothing: antialiased;
 }
 
 li {
 	list-style-type: square;
-	@include font-size(24,12,32);
+	@include font-size(24,12,16);
+	@media print {
+		@include font-size(20,yes,12);
+	 }
 	-webkit-font-smoothing: antialiased;
 }
 
