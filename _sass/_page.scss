@@ -322,11 +322,11 @@ span + .entry-title {
 	th {
 		padding: (0px + $doc-line-height) / 2;
 		padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
-		font-family: $alt-font;
+		font-family: $quote-font;
 		font-weight: bold;
 		text-align: left;
 		background-color: $table-header-color;
-		border-bottom: 1px solid darken($border-color, 15%);
+		border-bottom: 1px solid darken($border-color, 35%);
 	}
 	td {
 		border-bottom: 1px solid $border-color;
