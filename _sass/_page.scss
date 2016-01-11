@@ -199,7 +199,7 @@ span + .entry-title {
 		  height: 1em;
 		  width: 100%;
 		  border-bottom: 1px dotted lighten($link-color, 50);
-		  margin-top: 5px;
+		  margin-top: 1px;
 		}
 		&:hover:after {
 			border-bottom-style: solid;
@@ -282,6 +282,9 @@ span + .entry-title {
     padding: (.25 * $gutter) (.5 * $gutter);
     border-left: 2px solid transparent;
     border-bottom: 0 solid transparent;
+	&:after {
+		  content: none !important;
+	}
     &:hover,
     &:focus {
       background: lighten($border-color,5);
