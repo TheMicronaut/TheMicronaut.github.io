@@ -52,8 +52,15 @@ p {
 	-webkit-font-smoothing: antialiased;
 }
 
+ul > li {
+	list-style-type: square;;
+}
+
+ol > li {
+	list-style-type: decimal;
+}
+
 li {
-	list-style-type: square;
 	@include font-size(24,12,16);
 	@media print {
 		@include font-size(20,yes,12);
