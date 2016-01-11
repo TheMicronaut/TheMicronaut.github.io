@@ -26,11 +26,10 @@ sitemap: false
 <!-- Search result template -->
 <script type="text/x-template" id="search-result">
   <li><article><a href="##Url##">##Title##<span class="entry-date"><time datetime="##Date##">##Date##</time></span></a></article></li>
-      <footer class="entry-meta-small">
+      <div class="entry-meta-small">
       <span><i class="fa fa-angle-double-right"></i>&nbsp;##Category##</span>
 	  <span><i class="fa fa-tags"></i>&nbsp;##Tags##</span>
-	  </footer>
+	  </div>
   <span class="excerpt">##Excerpt##</span>
-	  <br>
-	  <br>  
+	  <br><br>  
 </script>
