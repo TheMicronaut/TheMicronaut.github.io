@@ -34,6 +34,18 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 paginate: 20
 paginate_path: /posts/page:num
 
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
 # Site owner
 owner:
   name: Aleh &amp; the Micronaut
