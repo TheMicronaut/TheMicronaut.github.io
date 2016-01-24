@@ -3,7 +3,7 @@
 title: Micronaut's Blog
 locale: en_US
 description: The adventures of Aleh &amp; the Micronaut
-logo: site-logo.png
+logo: site-logo.svg
 search: true
 url: http://themicronaut.github.io
 # common url for images and other external data  
