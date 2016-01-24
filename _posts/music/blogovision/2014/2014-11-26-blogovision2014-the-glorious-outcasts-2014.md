@@ -13,7 +13,7 @@ author: Micronaut
 hidelogo: true
 ---
 <figure>
-	<a href="/images/posts/WeAreTheOutcasts.jpg"><img src="/images/posts/WeAreTheOutcasts.jpg" alt="We-Are-The-Outcasts-Image" class="center"/></a>
+	<a href="{{ site.external_data_url }}/images/posts/WeAreTheOutcasts.jpg"><img src="{{ site.external_data_url }}/images/posts/WeAreTheOutcasts.jpg" alt="We-Are-The-Outcasts-Image" class="center"/></a>
 </figure>
 
 Όσο μεγαλώνω τόσο βγάζω τα rock και τα punk και φοράω τα folk και τα minimal. Έχει να κάνει με τη βιολογική ηλικία του αυτιού μου άραγε; Ή μήπως γερνάει το σύμπαν τριγύρω; To άλλο αστείο είναι πως όταν ακούς ένα μουσικό κομμάτι πολλές φορές, ακόμη κι όταν δε σε εντυπωσίασε στην αρχή, στο τέλος γίνεται συνήθεια και το αγαπάς. Πάντα με εξαιρέσεις βέβαια.  Τούτα δω τα άλμπουμ δυσκολεύτηκα λίγο να τα βγάλω απ' την πενηντάδα. Ολόκληρη η λίστα με φετινά αγαπημένα άλμπουμ [εδώ](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"}.

@@ -13,7 +13,7 @@ author: Micronaut
 hidelogo: true
 ---
 <figure>
-	<a href="/images/posts/beauty-above-40.png"><img src="/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" class="center"/></a>
+	<a href="{{ site.external_data_url }}/images/posts/beauty-above-40.png"><img src="{{ site.external_data_url }}/images/posts/beauty-above-40.png" alt="Beauty-Above-40-Image" class="center"/></a>
 </figure>
 
 Υπάρχει ομορφιά μετά τα σαράντα; Ηλίθια ερώτηση θα σκεφτείς και θα συμφωνήσω. Θέλει [τέχνη να ρωτάς](http://www.ted.com/talks/amanda_palmer_the_art_of_asking?language=en){:target="_blank"} είναι η αλήθεια. Κι αν πάλι ρωτήσεις γιατί τα παρακάτω άλμπουμ είναι σ' αυτή τη θέση, και πάλι άτεχνη η ερώτηση θα σου απαντήσω. Αν ωστόσο με ρωτούσε κάποιος ποια φετινά άλμπουμ θα έπαιρνα στο ταξίδι μας, στο mp3-player που χωράει μόνο 50 albums, σίγουρα τα παρακάτω [διαμάντια](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"} θα ήταν μέσα σ' αυτά.  Τα παραθέτω με **σειρά προτεραιότητας**, μη τυχόν δε και χωρέσουν στον player! :)

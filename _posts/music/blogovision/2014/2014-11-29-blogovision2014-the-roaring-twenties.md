@@ -13,7 +13,7 @@ author: Micronaut
 hidelogo: true
 ---
 <figure>
-	<a href="/images/posts/the-roaring-twenties.jpg"><img src="/images/posts/the-roaring-twenties.jpg" alt="Roading-Twenties-Image" class="center"/></a>
+	<a href="{{ site.external_data_url }}/images/posts/the-roaring-twenties.jpg"><img src="{{ site.external_data_url }}/images/posts/the-roaring-twenties.jpg" alt="Roading-Twenties-Image" class="center"/></a>
 </figure>
 
 Σκέφτηκα να κάνω πρόλογο γι' αυτά, αλλά άλλαξα γνώμη. Πάω να γυαλίσω τους [πατατάρους](http://instagram.com/p/vajiSAtb0U){:target="_blank"} πριν αναλάβουν δουλειά.
@@ -34,7 +34,7 @@ hidelogo: true
 *Favorite tracks:*  Pressure / Shape / This is my hand
 
 <figure>
-	<a href="/images/posts/bands/my-brightest-diamond.jpg"><img src="/images/posts/bands/my-brightest-diamond.jpg" alt="Shara Worden-Image" class="center" height="480" width="360"/></a>
+	<a href="{{ site.external_data_url }}/images/posts/bands/my-brightest-diamond.jpg"><img src="{{ site.external_data_url }}/images/posts/bands/my-brightest-diamond.jpg" alt="Shara Worden-Image" class="center" height="480" width="360"/></a>
     <figcaption>Shara Worden of My Brightest Diamond, live @ Cross-linx festival Eindhoven, 7 Feb 2014. Photo credits: Aleh</figcaption>
 </figure>
 

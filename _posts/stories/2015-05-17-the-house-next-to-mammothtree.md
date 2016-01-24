@@ -17,7 +17,7 @@ redirect_from: "/blog/the-house-next-to-mammothtree/"
 {:.notice}
 
 <figure>
-    <a href="/images/posts/stories/mammothtree.jpg"><img src="/images/posts/stories/mammothtree.jpg" alt="mammothtree-Image" class="center"/></a>
+    <a href="{{ site.external_data_url }}/images/posts/stories/mammothtree.jpg"><img src="{{ site.external_data_url }}/images/posts/stories/mammothtree.jpg" alt="mammothtree-Image" class="center"/></a>
 </figure>
 
 Η μέρα ήταν δύσκολη για τη Σοράγια και τη Μίρνα κι έτσι έπεσαν νωρίς για ύπνο. Η ζωή, βλέπεις, στο μικρό προάστιο του Μπέρντ δεν είναι εύκολη υπόθεση.

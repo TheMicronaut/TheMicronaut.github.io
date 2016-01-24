@@ -13,7 +13,7 @@ hidelogo: true
 redirect_from: "/blog/day-two-three/"
 ---
 <figure>
-    <a href="/images/posts/diary/pasxalia.JPG"><img src="/images/posts/diary/pasxalia.JPG" alt="pasxalia-Image" class="center"/></a>
+    <a href="{{ site.external_data_url }}/images/posts/diary/pasxalia.JPG"><img src="{{ site.external_data_url }}/images/posts/diary/pasxalia.JPG" alt="pasxalia-Image" class="center"/></a>
     <figcaption>"Επτάμιση χρόνια σε κλάδευα, μωρέ, και δε μου βάσταξες. Θέλησες να πας να κάνεις παρέα με τους φίλου σου τα ελατάκια・ εκείνα που οι ανεγκέφαλοι γείτονες πέταξαν στα σκουπίδια."</figcaption>
 </figure>
 

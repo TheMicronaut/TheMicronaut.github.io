@@ -10,7 +10,7 @@ modified: '2014-11-16T20:39:00+01:00'
 tags: [politics]
 author: Aleh
 image:
-  feature: /posts/views/Gyzis_Krypho_sxolio.jpg
+  feature: /posts/Gyzis_Krypho_sxolio.jpg
   credit: Νικόλαος Γύζης, Το κρυφό σχολειό, ελαιογραφία, 1885/86. 
 redirect_from: "/blog/minister-for-a-day/" 
 ---

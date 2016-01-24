@@ -16,7 +16,7 @@ redirect_from: "/blog/three-easters/"
 *Αγαπητέ αναγνώστη, αν αυτό το κείμενο σου φαίνεται μακρόσυρτο, μπορείς να πατήσεις το κουμπί στο παρακάτω mix, για να κάνει το διάβασμα σου λιγότερο βαρετό. Αν πάλι δεν έχεις χρόνο για χάσιμο, μάλλον δε χρειάζεται να μπεις στο κόπο να διαβάσεις.*
 
 <figure>
-    <a href="/images/posts/diary/light.png"><img src="/images/posts/diary/light.png" alt="light-Image" class="center"/></a>
+    <a href="{{ site.external_data_url }}/images/posts/diary/light.png"><img src="{{ site.external_data_url }}/images/posts/diary/light.png" alt="light-Image" class="center"/></a>
     <figcaption>"καὶ εἶπεν ὁ Θεός· γενηθήτω φῶς· καὶ ἐγένετο φῶς. Γεν. 1.3"</figcaption>
 </figure>
 

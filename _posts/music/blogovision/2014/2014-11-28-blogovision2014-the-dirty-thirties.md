@@ -13,7 +13,7 @@ author: Micronaut
 hidelogo: true
 ---
 <figure>
-	<a href="/images/posts/dirty-thirty.jpg"><img src="/images/posts/dirty-thirty.jpg" alt="Dirty-Thirty-Image" class="center"/></a>
+	<a href="{{ site.external_data_url }}/images/posts/dirty-thirty.jpg"><img src="{{ site.external_data_url }}/images/posts/dirty-thirty.jpg" alt="Dirty-Thirty-Image" class="center"/></a>
 </figure>
 
 Τελικά, είτε φτιάχνεις λίστες για τη blogovision, είτε καθαρίζεις κρεμμύδια, το ίδιο και το αυτό. Κάθε άλμπουμ που αφαιρείς για να φτάσεις στην 20άδα, στη δεκάδα, στο No.1, δώστου κι ένα δάκρυ. Άραγε στο τέλος του καθαρίσματος τι θα μας μείνει; 

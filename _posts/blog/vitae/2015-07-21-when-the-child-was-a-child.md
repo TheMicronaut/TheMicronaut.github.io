@@ -14,7 +14,7 @@ redirect_from: "/blog/when-the-child-was-a-child/"
 ---
 
 <figure>
-    <a href="/images/posts/stories/MiniMarket-InCreta-by-John-Phillips-1947.png"><img src="/images/posts/stories/MiniMarket-InCreta-by-John-Phillips-1947.png" alt="mammothtree-Image" class="center"/></a>
+    <a href="{{ site.external_data_url }}/images/posts/stories/MiniMarket-InCreta-by-John-Phillips-1947.png"><img src="{{ site.external_data_url }}/images/posts/stories/MiniMarket-InCreta-by-John-Phillips-1947.png" alt="mammothtree-Image" class="center"/></a>
 	<figcaption>Παραδοσιακό παντοπωλείο στην Κρήτη, photo by John Phillips, 1947</figcaption>
 </figure>
 
