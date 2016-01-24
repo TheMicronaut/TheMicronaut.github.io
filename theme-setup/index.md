@@ -5,7 +5,6 @@ excerpt: "Instructions on how to install and customize the Jekyll theme So Simpl
 modified: 2015-11-14T11:30:41.231140-04:00
 image:
   feature: blue-splash.jpg
-  credit: Unknown
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
