@@ -6,6 +6,8 @@ description: The adventures of Aleh &amp; the Micronaut
 logo: site-logo.png
 search: true
 url: http://themicronaut.github.io
+# common url for images and other external data  
+external_data_url: https://raw.githubusercontent.com/TheMicronaut/blog-images-folder/master
 
 # Jekyll configuration
 
