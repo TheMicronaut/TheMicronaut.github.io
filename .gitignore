@@ -6,4 +6,3 @@ codekit-config.json
 node_modules
 .sass-cache
 .jekyll-metadata
-build.bat
