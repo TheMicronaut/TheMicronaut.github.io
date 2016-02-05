@@ -2,6 +2,7 @@
 
 title: Micronaut's Blog
 locale: en_US
+timezone: CET
 description: The adventures of Aleh &amp; the Micronaut
 logo: site-logo.svg
 search: true
