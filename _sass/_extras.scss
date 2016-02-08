@@ -108,8 +108,9 @@ img.center {
 // PREVIEWS-NEXT POST
 // --------------------------------------------------
 .next-prev a {
-	background: $navarrows-color;
-	color: $white;
+	background: $base-color;
+	color: $text-color;
+	border: 1px solid black;
 	padding: 10px;
 	font-size: 14px;
 	font-family:  $alt-font; 
@@ -122,6 +123,7 @@ img.center {
 }
 
 .next-prev a:hover {
+	color: $white;
 	background: $black;
 }
 
