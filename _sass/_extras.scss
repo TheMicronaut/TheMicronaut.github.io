@@ -78,6 +78,14 @@ img.center {
   margin-right: auto;
 }
 
+// iframe
+// --------------------------------------------------
+// always align centrally
+iframe {
+	display:block;
+	margin: 0 auto;
+}
+
 // Social share
 // --------------------------------------------------
 .social-share {
