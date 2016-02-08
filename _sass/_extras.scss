@@ -108,7 +108,7 @@ img.center {
 // PREVIEWS-NEXT POST
 // --------------------------------------------------
 .next-prev a {
-	background: $base-color;
+	background: $body-color;
 	color: $text-color;
 	border: 1px solid black;
 	padding: 10px;
@@ -149,7 +149,7 @@ img.center {
 }
 
 .next-post a:after {
-	color: $white;
+	/*color: $white;*/
 	position: absolute;
 	content: "\f054";
 	left: 6px;
@@ -181,7 +181,7 @@ img.center {
 }
 
 .prev-post a:after {
-	color: $white;
+	/*color: $white;*/
 	position: absolute;
 	content: "\f053";
 	right: 6px;
