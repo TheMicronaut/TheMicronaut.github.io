@@ -100,7 +100,7 @@ author: Aleh
 Πιστεύω πως η Hildegard Maria Rauchfuß στο ποίημα της ήθελε να μιλήσει στους συμπολίτες της για το καθεστώς της Ανατολικής Γερμανίας. Ήταν αδύνατο να γράψει κάτι τόσο εκκωφαντικό δίχως να βρει καταφύγιο μέσα στην ασάφεια του μινιμαλισμού. Και για να το καταλάβει κανείς αυτό, θα πρέπει να κάνει μια μικρή βουτιά στα χρόνια εκείνα...
 
 <figure class="center">
-	<a href="http://cdn.theatlantic.com/assets/media/img/photo/2014/11/the-berlin-wall-25-years-after-the-fall/w18_11251226/main_1200.jpg?1420490707"><img src="http://cdn.theatlantic.com/assets/media/img/photo/2014/11/the-berlin-wall-25-years-after-the-fall/w18_11251226/main_1200.jpg?1420490707" alt="Brandenburg Gate" /></a>
+	<a href="http://cdn.theatlantic.com/assets/media/img/photo/2014/11/the-berlin-wall-25-years-after-the-fall/w18_11251226/main_1200.jpg"><img src="http://cdn.theatlantic.com/assets/media/img/photo/2014/11/the-berlin-wall-25-years-after-the-fall/w18_11251226/main_1200.jpg" alt="Brandenburg Gate" /></a>
 	<figcaption>The Brandenburg Gate is shrouded in fog as a man looks from a watchtower over the Wall to the Eastern part of the divided city on November 25, 1961. The tower was erected by the West German police to observe the Inner-German border.<br/>Photo courtesy: AP Photo/Heinrich Sanden Sr. </figcaption>
 </figure>
 
