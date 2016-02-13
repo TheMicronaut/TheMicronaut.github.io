@@ -84,7 +84,7 @@ $( "#comments" ).click(function() {
   });
 });
 </script>
-{% if page.instafeed %}
+{% if page.instafeedTags %}
 <!-- Instafeed -->
 <script type="text/javascript">
     var feed = new Instafeed({
@@ -93,7 +93,7 @@ $( "#comments" ).click(function() {
         clientId: '{{ site.owner.instagram.clientId }}',
         accessToken: '6678174.467ede5.205a03ebc4b74d4082823781c3149575',
         filter: function(image) {
-            return image.tags.indexOf('house') >= 0;
+            return image.tags.indexOf('{{ page.instafeedTags  | array_to_sentence_string }}') >= 0;
         }
     });
     feed.run();
