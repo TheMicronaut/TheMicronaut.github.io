@@ -62,7 +62,9 @@ owner:
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: aleh.andro
+  instagram:
+    user: aleh.andro
+    userId: 612348438
   flickr: #username
   tumblr: themicronaut
   pinterest: #username

@@ -84,3 +84,16 @@ $( "#comments" ).click(function() {
   });
 });
 </script>
+{% if page.instafeed %}
+<!-- Instafeed -->
+<script type="text/javascript">
+    var feed = new Instafeed({
+        get: 'user',
+        userId: '{{ site.owner.instagram.userId }}'
+        //filter: function(image) {
+        //    return image.tags.indexOf('TAG_NAME') >= 0;
+        //}
+    });
+    feed.run();
+</script>
+{% endif %}
