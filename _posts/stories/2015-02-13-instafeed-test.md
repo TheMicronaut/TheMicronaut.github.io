@@ -13,4 +13,4 @@ hidelogo: true
 instafeed: true
 ---
 This is test page for testing the instafeed.
-<div id="instagram"></div>
+<div id="instafeed"></div>
