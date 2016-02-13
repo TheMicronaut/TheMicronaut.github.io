@@ -88,14 +88,13 @@ $( "#comments" ).click(function() {
 <!-- Instafeed -->
 <script type="text/javascript">
     var feed = new Instafeed({
-        //get: 'user',
-        //userId: '{{ site.owner.instagram.userId }}',
-		get: 'tagged',
-        tagName: 'house',
+        get: 'user',
+        userId: '{{ site.owner.instagram.userId }}',
         clientId: '{{ site.owner.instagram.clientId }}',
-        //filter: function(image) {
-        //    return image.tags.indexOf('house') >= 0;
-        //}
+        accessToken: '6678174.467ede5.205a03ebc4b74d4082823781c3149575',
+        filter: function(image) {
+            return image.tags.indexOf('house') >= 0;
+        }
     });
     feed.run();
 </script>
