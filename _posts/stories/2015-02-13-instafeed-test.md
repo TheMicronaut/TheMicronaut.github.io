@@ -3,14 +3,15 @@ layout: post
 categories: [stories]
 share: true
 comments: true
-title: 'Instafeed test page'
-excerpt: 'A story written in instagram'
-date: '2016-02-13T11:30:00+01:00'
-tags: [instagram, fantasy, story]
+title: 'A story's quest for a  title'
+excerpt: 'Storytelling via instagram is possible'
+date: '2016-02-13T18:30:00+01:00'
+tags: [instagram, story, fantasy]
 author: Aleh
 hidelogo: true
 instafeedTag: 'instory'
 ---
-This is test page for testing the instafeed.
+**Note 1:** Here is a fictional story I <s>wrote</s> am still writing through my own instagram photos. The story develops as I go through the year and I still have no clue what the ending will look like, or even its title. The photos are taken either from my daily life or while visiting places. Usually I feed the story realtime, but occasionally I need to add photos I shot previously, for the sake of coherence. The instagram feed has been ordered chronologically so that one can follow the storyline.
+{:.notice}
 
 <div id="instafeed"></div>

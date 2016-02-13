@@ -102,7 +102,7 @@ $( "#comments" ).click(function() {
         filter: function(image) {
             return image.tags.indexOf('{{ page.instafeedTag }}') >= 0;
         },
-        template: '<figure class="center"><a href="{{instafeedLink}}" target="_blank"><img src="{{instafeedImage}}" /></a><figcaption>{{instafeedLocation}}. Photo Courtesy: {{instafeedUserName}}</figcaption></figure><p>{{instafeedCaption}}</p>'
+        template: '<figure class="center"><a href="{{instafeedLink}}" target="_blank"><img src="{{instafeedImage}}" /></a><figcaption>{{instafeedLocation}}.<br/>Photo Courtesy: <a href="{{instafeedLink}}" target="_blank">{{instafeedUserName}}</a></figcaption></figure><p>{{instafeedCaption}}</p>'
     });
     feed.run();
 </script>
