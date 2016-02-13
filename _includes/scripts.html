@@ -97,15 +97,7 @@ $( "#comments" ).click(function() {
         filter: function(image) {
             return image.tags.indexOf('{{ page.instafeedTag }}') >= 0;
         },
-		template: '
-		<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div>
-		<div class="timeline-content">
-			<h2>Image</h2>
-			<h3><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;DateShouldGoHere</h3>
-			<p id="tags">{{location}}</p>
-			<a href="{{link}}"><img src="{{image}}" /></a>
-			<p>{{caption}}</p>
-		</div>'
+		template: '<div class="timeline-icon"><img src="/images/timeline/micronaut-white-transparent.png" alt=""></div><div class="timeline-content"><h2>Image</h2><h3><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;DateShouldGoHere</h3><p id="tags">{{location}}</p><a href="{{link}}"><img src="{{image}}" /></a><p>{{caption}}</p></div>'
     });
     feed.run();
 </script>
