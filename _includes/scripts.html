@@ -88,12 +88,14 @@ $( "#comments" ).click(function() {
 <!-- Instafeed -->
 <script type="text/javascript">
     var feed = new Instafeed({
-        get: 'user',
-        userId: '{{ site.owner.instagram.userId }}',
+        //get: 'user',
+        //userId: '{{ site.owner.instagram.userId }}',
+		get: 'tagged',
+        tagName: 'house',
         clientId: '{{ site.owner.instagram.clientId }}',
-        filter: function(image) {
-            return image.tags.indexOf('house') >= 0;
-        }
+        //filter: function(image) {
+        //    return image.tags.indexOf('house') >= 0;
+        //}
     });
     feed.run();
 </script>
