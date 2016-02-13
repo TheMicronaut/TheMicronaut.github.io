@@ -13,6 +13,4 @@ instafeedTag: 'instory'
 ---
 This is test page for testing the instafeed.
 
-<div id="timeline">
 <div id="instafeed"></div>
-</div>
