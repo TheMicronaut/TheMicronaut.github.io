@@ -10,7 +10,7 @@ date: '2016-02-13T11:30:00+01:00'
 tags: [fantasy]
 author: Aleh
 hidelogo: true
-instafeedTag: 'archer'
+instafeedTag: 'instory'
 ---
 This is test page for testing the instafeed.
 <div id="instafeed"></div>
