@@ -86,6 +86,8 @@ $( "#comments" ).click(function() {
 </script>
 {% if page.instafeedTag %}
 <!-- Instafeed -->
+{% assign instafeedImage = '{{image}}' %}
+{% assign instafeedCaption = '{{caption}}' %}
 <script type="text/javascript">
     var feed = new Instafeed({
         get: 'user',
@@ -97,7 +99,7 @@ $( "#comments" ).click(function() {
         filter: function(image) {
             return image.tags.indexOf('{{ page.instafeedTag }}') >= 0;
         },
-        template: '<a href="{{link}}" target="_blank"><img src="{{image}}" /></a><p>{{caption}}</p>'
+        template: '<a href="{{link}}" target="_blank"><img src="{{instafeedImage}}" /></a><p>{{instafeedCaption}}</p>'
     });
     feed.run();
 </script>
