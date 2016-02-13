@@ -90,9 +90,9 @@ $( "#comments" ).click(function() {
     var feed = new Instafeed({
         get: 'user',
         userId: '{{ site.owner.instagram.userId }}'
-        //filter: function(image) {
-        //    return image.tags.indexOf('TAG_NAME') >= 0;
-        //}
+        filter: function(image) {
+            return image.tags.indexOf('house') >= 0;
+        }
     });
     feed.run();
 </script>
