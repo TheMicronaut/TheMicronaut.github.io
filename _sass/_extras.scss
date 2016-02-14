@@ -298,6 +298,9 @@ iframe {
 	width: 400px;
 	height: 400px;
 	padding: 15px;
+	font-family: $quote-font;
+	font-style: italic;
+	@include font-size(16,no,15);
 }
 
 .boxed:hover figcaption {
