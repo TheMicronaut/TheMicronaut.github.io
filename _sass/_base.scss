@@ -162,9 +162,10 @@ figure {
   a {
     img {
 	  outline: none !important;
-	  border: 2px solid $body-color;
       &:hover {
-        border-color: $link-color;
+	    -webkit-filter: grayscale(100%);
+		filter: grayscale(100%);
+		filter: gray;
       }
     }
   }
