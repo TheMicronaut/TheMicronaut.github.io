@@ -16,8 +16,8 @@ redirect_from: "/blog/the-house-next-to-mammothtree/"
 *Το μικρό διήγημα που ακολουθεί γράφτηκε πριν 19 χρόνια, όταν ήμουν 20 ετών. Δεν θυμάμαι ακριβώς σε πια ψυχολογική κατάσταση ήμουν τις μέρες εκείνες, αλλά απ' το γκόθικ στιλ και το συμβουλευτικό ύφος της ιστορίας θαρρώ πως μια ήπια καταθλιψούλα πρέπει σίγουρα να είχε κάνει ξανά την επίσκεψη της. Ίσως το τέλος της να μην είναι αυτό που περιμένει κανείς, αλλά ούτως ή άλλως κάτι τέτοιο συμβαίνει μόνο στα παραμύθια. Το παρακάτω είναι λοιπόν μια ιστορία που δεν ήθελε να γίνει παραμύθι...*
 {:.notice}
 
-<figure>
-    <a href="{{ site.external_data_url }}/images/posts/stories/mammothtree.jpg"><img src="{{ site.external_data_url }}/images/posts/stories/mammothtree.jpg" alt="mammothtree-Image" class="center"/></a>
+<figure class="boxed center">
+    <a href="{{ site.external_data_url }}/images/posts/stories/mammothtree.jpg"><img src="{{ site.external_data_url }}/images/posts/stories/mammothtree.jpg" alt="mammothtree-Image"/></a>
 </figure>
 
 Η μέρα ήταν δύσκολη για τη Σοράγια και τη Μίρνα κι έτσι έπεσαν νωρίς για ύπνο. Η ζωή, βλέπεις, στο μικρό προάστιο του Μπέρντ δεν είναι εύκολη υπόθεση.

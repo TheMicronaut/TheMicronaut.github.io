@@ -35,6 +35,8 @@
 	line-height: 75px; 
 }
 
+// Central quote
+// --------------------------------------------------
 div .central-quote {
     background:
         url(/images/divider-top.png) top center no-repeat,
@@ -59,6 +61,8 @@ div .central-quote {
     }
 }
 
+// Text divider
+// --------------------------------------------------
 div .text-divider {
     background: url(/images/divider-text.png) center no-repeat;
     background-size: contain;
@@ -255,4 +259,48 @@ iframe {
 	-moz-transition: .07s ease-in;  
 	-o-transition: .07s ease-in;  
 	transition: .07s ease-in; 
+}
+
+// Boxed Figure
+// Captions appear when hovering mouse
+// --------------------------------------------------
+.boxed {
+	cursor: pointer;
+	//float: left;
+	position: relative;
+	overflow: hidden;
+	height: auto;
+	width: 200px;
+}
+.boxed img {
+	position: absolute;
+	left: 0;
+	-webkit-transition: all 300ms ease-out;
+	-moz-transition: all 300ms ease-out;
+    -o-transition: all 300ms ease-out;
+    -ms-transition: all 300ms ease-out;	
+	transition: all 300ms ease-out;
+}
+
+.boxed:hover img {
+	-moz-transform: scale(1.4);
+	-o-transform: scale(1.4);
+	-webkit-transform: scale(1.4);
+	transform: scale(1.4);
+}
+
+.boxed figcaption {
+	background-color: rgba(0,0,0,0.8);
+	position: absolute;
+	color: #fff;
+	z-index: 100;
+	left: 0;
+	opacity: 0;
+	width: 170px;
+	height: 170px;
+	padding: 15px;
+}
+
+.boxed:hover figcaption {
+	opacity: 1;
 }
