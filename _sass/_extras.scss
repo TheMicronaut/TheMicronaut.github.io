@@ -74,7 +74,7 @@ div .text-divider {
 	max-width: 40%;
 } 
 
-// Images
+// Center alignment
 // --------------------------------------------------
 img.center {
   display: block;
@@ -82,9 +82,6 @@ img.center {
   margin-right: auto;
 }
 
-// iframe
-// --------------------------------------------------
-// always align centrally
 iframe {
 	display:block;
 	margin: 0 auto;
@@ -269,12 +266,14 @@ iframe {
 	//float: left;
 	position: relative;
 	overflow: hidden;
-	height: 180px;
-	width: 200px;
+	height: 400px;
+	width: 400px;
 }
 .boxed img {
 	position: absolute;
 	left: 0;
+	border: none;
+	max-width: none;
 	-webkit-transition: all 300ms ease-out;
 	-moz-transition: all 300ms ease-out;
     -o-transition: all 300ms ease-out;
@@ -296,8 +295,8 @@ iframe {
 	z-index: 100;
 	left: 0;
 	opacity: 0;
-	width: 170px;
-	height: 170px;
+	width: 400px;
+	height: 400px;
 	padding: 15px;
 }
 
