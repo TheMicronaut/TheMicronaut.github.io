@@ -155,9 +155,11 @@ figure {
   }
   @include clearfix;
   img {
-    margin-bottom: 0px + $doc-line-height;
-    margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
-    outline: none !important;
+	outline: none !important;
+	margin-bottom: 1rem; // + ($doc-line-height / $doc-font-size);
+    @include media($large) {
+		margin-bottom: 0;
+	}
   }
   a {
     img {
