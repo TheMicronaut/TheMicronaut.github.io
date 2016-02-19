@@ -76,10 +76,12 @@ div .text-divider {
 
 // Center alignment
 // --------------------------------------------------
-img.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+// check also helpers.sass for pull-left, pull-right
+figure, img {
+    &.center {
+        display:block;
+        margin: 0 auto;
+    }
 }
 
 iframe {
@@ -304,6 +306,10 @@ iframe {
 	font-style: italic;
 	text-align: left;
 	@include font-size(16,no,15);
+}
+
+.boxed figcaption:before {
+    content: none;
 }
 
 .boxed:hover figcaption {
