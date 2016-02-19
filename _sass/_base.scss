@@ -154,7 +154,7 @@ figure {
     position: relative;
   }
   @include clearfix;
-  img {
+  img, iframe {
 	outline: none !important;
 	margin-bottom: 1rem; // + ($doc-line-height / $doc-font-size);
     @include media($large) {
