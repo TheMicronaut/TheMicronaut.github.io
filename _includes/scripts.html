@@ -104,6 +104,12 @@ $( "#comments" ).click(function() {
         filter: function(image) {
             return image.tags.indexOf('{{ page.instafeedTag }}') >= 0;
         },
+        after: function() {
+            // disable button if no more results to load
+            if (!this.hasNext()) {
+                loadButton.setAttribute('disabled', 'disabled');
+            }
+        },        
         template: '<figure class="center"><a href="{{instafeedLink}}" target="_blank"><img src="{{instafeedImage}}" /></a><figcaption>{{instafeedLocation}}.<br/>Photo Courtesy: <a href="{{instafeedLink}}" target="_blank">@{{instafeedUserName}}</a></figcaption></figure><p>{{instafeedCaption}}</p>'
     });
 	// bind the load more button
