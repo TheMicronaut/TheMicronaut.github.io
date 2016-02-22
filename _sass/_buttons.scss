@@ -24,6 +24,12 @@
   }
 }
 
+/* disabled link button
+a[disabled=disabled] {
+	background-color: $white;
+    color: $border-color;
+}
+
 /*
    Close button
    ========================================================================== */
