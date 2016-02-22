@@ -9,7 +9,7 @@ sitemap: false
       "title"         : {{ post.title | jsonify }},
       "link"          : "{{ site.url }}{{ post.url }}",
       "date"        : "{{ post.date | date: "%B %d, %Y" }}",
-      "excerpt"   : "{{ post.excerpt | strip_html | strip_newlines }}",
+      "excerpt"   : "{{ post.excerpt | markdownify | strip_html | strip_newlines | escape_once | remove: '\[' | remove: '\]' | remove: '\(' | remove: '\)' }}",
       "category" : "{{ post.categories | array_to_sentence_string }}"	,
       "tags"        : "{{ post.tags  | array_to_sentence_string }}"
     }
@@ -22,7 +22,7 @@ sitemap: false
       "title"			: {{ page.title | jsonify }},
       "link"			: "{{ site.url }}{{ page.url | replace: 'index.html', '' }}",
        "date"		: {{ page.date | jsonify }},
-      "excerpt"	: "{{ page.excerpt | strip_html | strip_newlines }}"
+      "excerpt"	: "{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}"
     }
   {%endif%}
 {% endfor %}
