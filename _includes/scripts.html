@@ -107,6 +107,7 @@ $( "#comments" ).click(function() {
         after: function() {
             // disable button if no more results to load
             if (!this.hasNext()) {
+				loadButton.classList.add("disabled-btn");
                 loadButton.setAttribute('disabled', 'disabled');
             }
         },        

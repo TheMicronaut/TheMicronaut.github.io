@@ -24,10 +24,9 @@
   }
 }
 
-/* disabled link button
-a[disabled=disabled] {
-	background-color: $white;
-    color: $border-color;
+.disabled-btn {
+  pointer-events: none;
+  @include opacity(0.7);
 }
 
 /*
