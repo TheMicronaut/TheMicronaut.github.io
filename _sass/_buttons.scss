@@ -26,6 +26,8 @@
 
 .disabled-btn {
   pointer-events: none;
+   background-color: $white;
+   color: $black;  
   @include opacity(0.7);
 }
 
