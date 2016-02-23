@@ -64,7 +64,6 @@ div .central-quote {
 // Box with header
 // --------------------------------------------------
 .header-box {
-  padding: 2em 2em !important;
   background-color: $body-color;
   border: 1px solid darken($border-color,20);
 }
@@ -72,17 +71,18 @@ div .central-quote {
 .header-box h1 { 
   margin : 0px 0px -10px 15px; 
   position: relative; 
-  top : -10px; 
+  top : -14px; 
   padding : 3px 7px;
   font-size : 20px;
   font-weight: bold;
   font-family: $quote-font;
   font-style: italic;
   display: inline; 
+  background-color: $body-color;
 }
 
-.headed-box ul {
-  padding: 2em 2em !important;
+.headed-box ul.post-list {
+  padding: 0 1.4em !important;
 }
 
 // Text divider
