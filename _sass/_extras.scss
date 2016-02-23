@@ -73,15 +73,14 @@ div .central-quote {
   position: relative; 
   top : -14px; 
   padding : 3px 7px;
-  font-size : 20px;
-  font-weight: bold;
+  font-size : 22px;
   font-family: $quote-font;
   font-style: italic;
   display: inline; 
   background-color: $body-color;
 }
 
-.headed-box ul.post-list {
+.headed-box-list {
   padding: 0 1.4em !important;
 }
 

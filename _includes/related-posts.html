@@ -1,7 +1,7 @@
 <!-- <div class="text-divider"></div> -->
 <div class="header-box">
 <h1>Related posts</h1> 
-<ul class="post-list">
+<ul class="post-list headed-box-list">
 {% for relatedpost in page.relatedposts %}
 	{% for post in site.posts %}
 		{% if post.url contains relatedpost.url %}
