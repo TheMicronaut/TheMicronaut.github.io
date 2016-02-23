@@ -64,13 +64,9 @@ div .central-quote {
 // related-posts
 // --------------------------------------------------
 .related-posts {
-  //margin-top: 1.5em;
-  padding: 2em 2em;
-  text-indent: 0;
-  @include font-size(16);
+  padding: 2em 2em !important;
   background-color: $body-color;
   border: 1px solid darken($border-color,20);
-  @include rounded($border-radius);
 }
 
 // Text divider
