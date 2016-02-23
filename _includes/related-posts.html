@@ -1,5 +1,7 @@
-<div class="text-divider"></div>
-<ul class="post-list related-posts">
+<!-- <div class="text-divider"></div> -->
+<div class="header-box">
+<h1>Related posts...</h1> 
+<ul class="post-list">
 {% for relatedpost in page.relatedposts %}
 	{% for post in site.posts %}
 		{% if post.url contains relatedpost.url %}
@@ -9,8 +11,10 @@
 				  <span>{% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:150.0 | append:'.' | split:'.' | first }}{% endcapture %}<i class="fa fa-clock-o"></i>&nbsp;{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. reading</span><br>
 				  </div>
 				  <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</span>
+				  <br>
 			{% break %}
 		{% endif %}
 	{% endfor %}
 {% endfor %}
 </ul>
+</div>

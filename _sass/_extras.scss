@@ -61,12 +61,25 @@ div .central-quote {
     }
 }
 
-// related-posts
+// Box with header
 // --------------------------------------------------
-.related-posts {
+.header-box {
   padding: 2em 2em !important;
   background-color: $body-color;
   border: 1px solid darken($border-color,20);
+}
+
+.header-box h1 { 
+  margin : 0px 0px -12px 5px; 
+  position: relative; 
+  top : -12px; 
+  border: #3c5a86 1px solid; 
+  padding : 3px, 5px;
+  font-size : 18px; 
+  font-weight: bold; 
+  //color : #000000; 
+  display: inline; 
+  //background-color: #99bbdd; 
 }
 
 // Text divider
