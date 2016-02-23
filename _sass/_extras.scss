@@ -70,16 +70,19 @@ div .central-quote {
 }
 
 .header-box h1 { 
-  margin : 0px 0px -12px 5px; 
+  margin : 0px 0px -10px 15px; 
   position: relative; 
-  top : -12px; 
-  border: #3c5a86 1px solid; 
-  padding : 3px, 5px;
-  font-size : 18px; 
-  font-weight: bold; 
-  //color : #000000; 
+  top : -10px; 
+  padding : 3px 7px;
+  font-size : 20px;
+  font-weight: bold;
+  font-family: $quote-font;
+  font-style: italic;
   display: inline; 
-  //background-color: #99bbdd; 
+}
+
+.headed-box ul {
+  padding: 2em 2em !important;
 }
 
 // Text divider
