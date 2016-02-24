@@ -56,8 +56,7 @@
       </footer>
       <div class="entry-content">
         {{ content }}
-		{% if page.pollid %} <div id="poll">{% include polls/poll-{{page.pollid}}.html %}</div> {% endif %}
-		{% if page.relatedposts %}{% include related-posts.html %}{% endif %}		
+		{% if page.pollid %} <div id="poll">{% include polls/poll-{{page.pollid}}.html %}</div> {% endif %}	
         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}
             <div id="comments">
                 <h2 id="comments-title" class="comment-toggle"><i class="fa fa-comments-o"></i>&nbsp;&nbsp;Leave your Message here...</h2>
@@ -67,6 +66,7 @@
                 </div>
             </div>
         {% endif %}
+		{% if page.relatedposts %}{% include related-posts.html %}{% endif %}	
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
   </article>
