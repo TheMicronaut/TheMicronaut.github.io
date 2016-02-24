@@ -108,7 +108,7 @@ span + .entry-title {
 	//	@include span-columns(2.5);
 	//}
 	& > span {
-		padding: 0 15px 10px 0;
+		padding: 0 12px 0 0;
 		display: inline-block;
 		//@include media($large) {
 		//	display: block;
@@ -123,7 +123,7 @@ span + .entry-title {
 	text-transform: uppercase;
 	font-family: $alt-font;
 	font-size: 0.85rem;
-	margin: 6px 0;
+	margin: 2px 0;
 	& > span {
 		padding: 0 4px 0 0;
 		display: inline-block;
