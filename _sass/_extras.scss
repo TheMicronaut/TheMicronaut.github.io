@@ -65,15 +65,16 @@ div .central-quote {
 // --------------------------------------------------
 .header-box {
   background-color: $body-color;
-  border: 1px solid lighten($black,80);
+  border-top: 1px solid $black;
+  margin-top: 2rem;
 }
 
 .header-box h1 { 
   margin : 0px 0px -10px 15px; 
   position: relative; 
-  top : -14px; 
+  top : -16px; 
   padding : 3px 7px;
-  font-size : 22px;
+  font-size : 24px;
   font-family: $quote-font;
   font-style: italic;
   display: inline; 
