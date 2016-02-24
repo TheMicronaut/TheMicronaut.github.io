@@ -65,7 +65,7 @@ div .central-quote {
 // --------------------------------------------------
 .header-box {
   background-color: $body-color;
-  border: 1px solid darken($border-color,20);
+  border: 1px solid lighten($black,80);
 }
 
 .header-box h1 { 
@@ -78,6 +78,7 @@ div .central-quote {
   font-style: italic;
   display: inline; 
   background-color: $body-color;
+  font-weight: normal;
 }
 
 .headed-box-list {
