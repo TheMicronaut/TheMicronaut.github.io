@@ -3,11 +3,6 @@ layout: page
 title: What's going on here?
 excerpt: "About Aleh and the Micronaut"
 date: '2015-08-09T00:30:00+01:00'
-#modified: 2014-08-08T19:44:38.564948-04:00
-#image:
-# feature: so-simple-sample-image-4.jpg
-#  credit: WeGraphics
-#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Dearest visitor, welcome and thanks for being one,
@@ -59,4 +54,3 @@ Don't let them try<br/>
 To crush your brain<br/>
 Let you go far ...my son</figcaption>
 </figure>
-<br/>
