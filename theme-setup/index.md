@@ -469,7 +469,7 @@ In this way, a list of recommended posts will appear at the bottom of your post.
 There is a lot to be said about images and figcaptions, but better have a look around this site to see how images and figcaptions are rendered compared to the original theme.
 
 ##### Instafeed.js
-We have successfully integrated  [instafeed.js](http://instafeedjs.com/){:target="_blank"} scripts to fetch images from instagram. We are working towards a nice YAML front-matter API in which the script can easily be used in the posts.
+We have successfully integrated  [instafeed.js](http://instafeedjs.com/){:target="_blank"} to fetch images from Instagram. We are working towards a nice YAML front-matter API in which the script can easily be used in the posts.
 
 ---
 
