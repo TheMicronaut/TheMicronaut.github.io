@@ -454,6 +454,17 @@ This is the official rendering of a `blockquote`  by the so-simple theme:
  
  <div class="text-divider"></div>
 
+##### Recommended Posts
+ Jekyll's related posts mechanism is not convenient. I decided to choose myself what the recommended posts would be, when and if necessary. To display a list of recommended posts, you have to add the following entry in the YAML front matter (beware of the spaces and all...) :
+
+{% highlight yaml %}
+ relatedposts:
+ - url: <link-1-to-your-internal-post, e.g. : /blog/vitae/when-the-child-was-a-child/>
+ - url: <link-2-to-your-internal-post>
+{% endhighlight %}
+ 
+ In this way, a list of recommended posts will appear at the bottom of your post. The recommended posts are applicable for posts only, not for pages.
+ 
 ##### Images & Figcaptions
 There is a lot to be said about images and figcaptions, but better have a look around this site to see how images and figcaptions are rendered compared to the original theme.
 
