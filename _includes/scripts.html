@@ -84,7 +84,7 @@ $( "#comments" ).click(function() {
   });
 });
 </script>
-{% if page.instafeedTag %}
+{% if page.instafeed %}
 <!-- Instafeed -->
 {% assign instafeedImage = '{{image}}' %}
 {% assign instafeedCaption = '{{caption}}' %}
@@ -98,17 +98,18 @@ $( "#comments" ).click(function() {
         userId: '{{ site.owner.instagram.userId }}',
         clientId: '{{ site.owner.instagram.clientId }}',
         accessToken: '6678174.467ede5.205a03ebc4b74d4082823781c3149575',
-		sortBy: 'most-recent',
-		limit: 60,
-		resolution: 'standard_resolution',
+        sortBy: '{{ page.instafeed.sortBy }}',
+        limit: 60,
+        resolution: '{{ page.instafeed.resolution }}',
         filter: function(image) {
-            return image.tags.indexOf('{{ page.instafeedTag }}') >= 0;
+            return image.tags.indexOf('{{ page.instafeed.tag }}') >= 0;
         },
         after: function() {
             // disable button if no more results to load
             if (!this.hasNext()) {
 				loadButton.className += " disabled-btn";
                 loadButton.setAttribute('disabled', 'disabled');
+				loadButton.style.visibility='hidden';
             }
         },        
         template: '<figure class="center"><a href="{{instafeedLink}}" target="_blank"><img src="{{instafeedImage}}" /></a><figcaption>{{instafeedLocation}}.<br/>Photo Courtesy: <a href="{{instafeedLink}}" target="_blank">@{{instafeedUserName}}</a></figcaption></figure><p>{{instafeedCaption}}</p>'

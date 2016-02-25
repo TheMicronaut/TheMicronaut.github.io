@@ -363,7 +363,7 @@ The only thing to look out for is the escaping of the backslash when using markd
 {:.notice}
 
 ##### Typography
-Since I needed content in both English and Greek, I had to find nice fonts that support both languages without geopardizing the layout. I decided to adopt the EB Garamond fonts by designer [Georg Duffner](http://www.georgduffner.at/ebgaramond/index.html){:target="_blank"}. EB Garamond is free software under the terms of the SIL Open Fonts License (ofl). For the inital paragraph letters, I chose not the use EB Garamond style, due to the work-in-progress nature and the fact that only few letters are currently supported; therefore I went for another font series named "Zallmancaps". The webfonts are all installed on the repository, to decouple the dependencies with webfont platforms, such as google fonts or fonts squirrel. Last but not least, I make limited use the 'Philosopher' webfonts for the menus, buttons, some headers, and footer notes.
+Since I needed content in both English and Greek, we had to choose nice fonts that support both languages without jeopardizing the layout. I decided to adopt the EB Garamond fonts by designer [Georg Duffner](http://www.georgduffner.at/ebgaramond/index.html){:target="_blank"}. EB Garamond is free software under the terms of the SIL Open Fonts License (ofl). For the inital paragraph letters, I chose not the use EB Garamond style, due to the work-in-progress nature and the fact that only few letters are currently supported; therefore I went for another font series named "Zallmancaps". The webfonts are all installed on the repository, to decouple the dependencies with webfont platforms, such as google fonts or fonts squirrel. Last but not least, I make limited use the 'Philosopher' webfonts for the menus, buttons, some headers, and footer notes.
 
 ##### Capital Letter in paragraphs
 You can start a paragraph with a capital letter as in the example below. The capital letter shoud be nested inside a `<span class="dcap">T</span>` markup. 
@@ -455,18 +455,21 @@ This is the official rendering of a `blockquote`  by the so-simple theme:
  <div class="text-divider"></div>
 
 ##### Recommended Posts
- Jekyll's related posts mechanism is not convenient. I decided to choose myself what the recommended posts would be, when and if necessary. To display a list of recommended posts, you have to add the following entry in the YAML front matter (beware of the spaces and all...) :
+ Jekyll's related posts mechanism is not convenient. Ale decided himself to choose what the recommended posts would be, when and if necessary. To display a list of recommended posts, you have to add the following entry in the YAML front matter (beware of the spaces and all...) :
 
 {% highlight yaml %}
  relatedposts:
- - url: <link-1-to-your-internal-post, e.g. : /blog/vitae/when-the-child-was-a-child/>
- - url: <link-2-to-your-internal-post>
+ - url: link-1-to-your-internal-post, e.g. : /blog/vitae/when-the-child-was-a-child/
+ - url: link-2-to-your-internal-post
 {% endhighlight %}
  
- In this way, a list of recommended posts will appear at the bottom of your post. The recommended posts are applicable for posts only, not for pages.
+In this way, a list of recommended posts will appear at the bottom of your post. The recommended posts are applicable for posts only, not for pages.
  
 ##### Images & Figcaptions
 There is a lot to be said about images and figcaptions, but better have a look around this site to see how images and figcaptions are rendered compared to the original theme.
+
+##### Instafeed.js
+We have successfully integrated  [instafeed.js](http://instafeedjs.com/){:target="_blank"} scripts to fetch images from instagram. We are working towards a nice YAML front-matter API in which the script can easily be used in the posts.
 
 ---
 
