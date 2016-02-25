@@ -10,7 +10,7 @@ date: '2015-08-09T00:30:00+01:00'
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-<div class="italics">Dearest visitor, welcome and thanks for being one,
+Dearest visitor, welcome and thanks for being one,
 
 I'm a Micronaut and together with my buddy Aleh we are hereby sharing things about [music](/music){:target="_blank"},  [fiction](/stories){:target="_blank"} and sometimes about our [views and daily life](/blog){:target="_blank"}.  You will find content either in English or Greek, depending pretty much on our mood. You will not find much of photos or other sparkling visual pleasures (perhaps only some live concert photoshooting, or a picture if and when needed); the focus here is, therefore, mainly on thoughts and sounds. 
 
@@ -26,7 +26,6 @@ If you wish to contact us, feel free to use one of the links at the bottom (foot
 
 Welcome to our adventures. Have fun and respect others,<br/>
 Aleh & the Micronaut
-</div>
 
 <figure>
     <iframe width="530" height="335" src="//www.youtube.com/embed/xTysF1E4Ft0?rel=0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
