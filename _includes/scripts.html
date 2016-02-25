@@ -105,13 +105,13 @@ $( "#comments" ).click(function() {
             return image.tags.indexOf('{{ page.instafeed.tag }}') >= 0;
         },
         after: function() {
-            // disable button if no more results to load
             if (!this.hasNext()) {
+			    // disable load-more button if no more results to load
 				loadButton.className += " disabled-btn";
                 loadButton.setAttribute('disabled', 'disabled');
-				loadButton.style.visibility='hidden';
+				$("#instafeed-load-more").hide();
             }
-        },        
+        },
         template: '<figure class="center"><a href="{{instafeedLink}}" target="_blank"><img src="{{instafeedImage}}" /></a><figcaption>{{instafeedLocation}}.<br/>Photo Courtesy: <a href="{{instafeedLink}}" target="_blank">@{{instafeedUserName}}</a></figcaption></figure><p>{{instafeedCaption}}</p>'
     });
 	// bind the load more button
