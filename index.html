@@ -13,7 +13,6 @@ search_omit: true
 	  <span title="{{ post.content | number_of_words }} words">{% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:150.0 | append:'.' | split:'.' | first }}{% endcapture %}<i class="fa fa-clock-o"></i>&nbsp;{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. reading</span><br>
 	  </div>
 	  <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</span>
-	  <br><br>
 {% endfor %}
 
 <!-- Pagination links -->
