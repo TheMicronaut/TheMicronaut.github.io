@@ -5,7 +5,6 @@ excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true
 ---
-<br>
 <ul class="post-list">
 {% for post in site.categories.blog %}
   <li><article><a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>

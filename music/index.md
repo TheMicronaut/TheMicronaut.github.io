@@ -5,7 +5,6 @@ excerpt: "An archive of posts related to music sorted by date."
 hidelogo: true
 search_omit: true
 ---
-<br>
 <ul class="post-list">
 {% for post in site.categories.music %}
   <li><article><a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
