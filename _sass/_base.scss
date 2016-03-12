@@ -45,7 +45,7 @@ body {
 }
 
 p {
-	@include font-size(20,yes,16);
+	@include font-size(22,yes,16);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
@@ -61,7 +61,7 @@ ol > li {
 }
 
 li {
-	@include font-size(20,12,16);
+	@include font-size(22,12,16);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
