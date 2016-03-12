@@ -26,6 +26,7 @@
 	font-size: 1rem;
     font-family: $alt-font;
     text-transform: uppercase;
+	margin-bottom: 0;
     color: $white;
     //@include media($medium) {
     //  font-size: 0.85rem;
@@ -38,6 +39,7 @@
     display: block;
     margin-bottom: 10px;
     padding: 12px 20px;
+	font-family: $alt-font;
     @include media($medium) {
       margin-bottom: 0;
       padding: 6px 10px;
