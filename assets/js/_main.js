@@ -27,7 +27,7 @@ $('#site-nav').click(function(event){
 
 // FitVids options
 $(function() {
-	$("article").fitVids();
+	$("article").fitVids({ customSelector: "iframe[src^='http://bandcamp.com'], iframe[src^='http://soundcloud.com.com']"});
 });
 
 // Add lightbox class to all image links

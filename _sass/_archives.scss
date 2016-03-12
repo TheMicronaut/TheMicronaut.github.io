@@ -55,7 +55,7 @@
   @include clearfix;
   &.inline li {
     float: left;
-    @include font-size(16, no);
+    @include font-size(16, yes, 12);
     line-height: 1;
 	list-style-type: none;
   }
@@ -66,7 +66,7 @@
     @include rounded(4px);
     text-decoration: none;
 	&:hover {
-		background-color: lighten($black, 70);
+		background-color: lighten($black, 80);
 	}	
 	&:after {
 		  content: none !important;
