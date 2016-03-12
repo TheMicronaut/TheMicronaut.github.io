@@ -45,7 +45,7 @@ body {
 }
 
 p {
-	@include font-size(24,yes,16);
+	@include font-size(20,yes,16);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
@@ -61,7 +61,7 @@ ol > li {
 }
 
 li {
-	@include font-size(24,12,16);
+	@include font-size(20,12,16);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
@@ -255,7 +255,6 @@ blockquote > p:last-child:after {
 //* html blockquote * {text-indent:-6px;} 
 /* fix IE6 */
 
-
 // Code
 // --------------------------------------------------
 
@@ -279,10 +278,6 @@ pre {
 	@include font-size(16);
 	overflow-x: auto;
 }
-
-
-
-
 
 // Global Transition
 // ---------------------------------------------------
