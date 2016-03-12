@@ -49,7 +49,6 @@ p {
 	@media print {
 		@include font-size(20,yes,12);
 	 }
-	-webkit-font-smoothing: antialiased;
 }
 
 ul > li {
@@ -61,11 +60,10 @@ ol > li {
 }
 
 li {
-	@include font-size(22,12,16);
+	@include font-size(22,8,16);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
-	-webkit-font-smoothing: antialiased;
 }
 
 /* headings */
@@ -73,7 +71,6 @@ li {
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
 	text-rendering: optimizeLegibility; // Fix the character spacing for headings
-	-webkit-font-smoothing: antialiased;
 }
 h1 {
 	@include font-size(40);

@@ -56,13 +56,15 @@ div .central-quote {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    @include font-size(22,yes,22);
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+    @include font-size(22,no,22);
     @include media($medium) {
-	    @include font-size(24,yes,24);
+	    @include font-size(24,no,24);
 		max-width: 80%;
     }
     @include media($large) {
-        @include font-size(26,yes,26);
+        @include font-size(26,no,26);
 		max-width: 70%;
     }
 }
