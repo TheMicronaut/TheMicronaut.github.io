@@ -115,11 +115,7 @@ hidelogo: true
 
 *«Η φωτιά ξεκίνησε απ' το διαμέρισμα σας, κυρία Σταμούλη, όπως φαίνεται από την ηλεκτρική σόμπα που αφήσατε αναμμένη. Θα σας παρακαλέσω να με ακολουθήσετε στο τμήμα για λεπτομερή κατάθεση»*. 
 
- <div class="invisible no-print">
-<figure class="center">
-<iframe width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/AQKlRGFmP0Y" frameborder="0" allowfullscreen>&nbsp;</iframe>
-</figure>
-</div>
+ <iframe class="invisible center no-print" width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/AQKlRGFmP0Y" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 <figure class="center">
 	<img src="/images/TheEnd.gif" alt="The End" class="center"/>

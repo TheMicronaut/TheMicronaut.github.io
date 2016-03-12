@@ -14,11 +14,8 @@ Following yesterday's terror attacks in Paris, Facebook, currently one of the bi
 
  >No facebook, I'm not going to change my avatar to any flag, either. National flags only fill me with misery and deception. I respect all people whatever their nationality is, but personally I never felt proud of any nationality, and never I will. Terrorism and violence are ineffably abominable human reactions and reflections of a perpetual global decadence that is orchestrated by archons and politicians, bankers, corporates, media, and religious institutions. I'm neither going to use the hashtag # not_in_my_name, because inevitably we are all part of this terrible vice; disclaiming responsibilities is easy, fighting for a better world is where the true battlefield is. I'll continue advocating for a society that derives and perpetually adapts its moral values from the symbiotic and emergent aspects of natural law. I'll continue fighting for a society that respects the ecosystem, diversity, and educates all its members on the three fundamental pillars of art, science, and technology. All the rest is nothing but feelings. Until then, I can only hope for less pain in this world.
 
- <div class="invisible">
-<figure class="center">
-<iframe width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/09IRZrL8ZBQ" frameborder="0" allowfullscreen>&nbsp;</iframe>
-</figure>
-</div>
+<iframe class="invisible center" width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/09IRZrL8ZBQ" frameborder="0" allowfullscreen>&nbsp;</iframe>
+
 <div class="central-quote">
 Dream among the hearts<br/>
 of those who have no nation<br/>
