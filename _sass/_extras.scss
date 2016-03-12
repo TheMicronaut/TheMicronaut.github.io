@@ -276,9 +276,9 @@ iframe {
 	background: #F1F1F1;
 	padding: 3% 0;
 	margin: 0rem !important;
-	font-family: $alt-font;
+	font-family: $heading-font;
 	@include font-size(30,yes,30);	
-	font-weight: 500px;
+	font-weight: 400px;
 	text-align: center;
 	-webkit-transition: .07s ease-in;
 	-moz-transition: .07s ease-in;
