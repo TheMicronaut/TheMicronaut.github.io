@@ -32,24 +32,32 @@ $(document).ready(function() {
 		/* Check the location of each 'invisible' element */
         $('.invisible').each( function(i) {
             
-            /*var bottom_of_object = $(this).offset().top + $(this).outerHeight();*/
 			var middle_of_object = $(this).offset().top + ($(this).outerHeight()  * 0.5);
             var bottom_of_window = $(window).scrollTop() + $(window).height();
             
             /* If the object is half visible in the window... */
             if( bottom_of_window > middle_of_object ) { 
-				/* 1. load any lazy sources inside the object */
-				var $iframe=$(this).find('iframe');
-				if ($iframe.data('src')) { // only do it once per iframe
-					$iframe.prop('src', $iframe.data('src')).data('src', false);
-				}
-				var $img=$(this).find('img').each(function (index, element) { // do it for each nested image
-					if ($(this).data('src')) { // only do it once per image
+				var thisIsIframe = $(this).is("iframe");
+				var thisIsImg = $(this).is("img");
+				if (thisIsIframe || thisIsImg) {
+					/* 1.a  object is a lazy source, load it*/
+					if ($(this).data('src')) {
 						$(this).prop('src', $(this).data('src')).data('src', false);
+					}				
+				} else {
+					/* 1.b load any lazy sources inside the object */
+					var $iframe=$(this).find('iframe');
+					if ($iframe.data('src')) { // only do it once per iframe
+						$iframe.prop('src', $iframe.data('src')).data('src', false);
 					}
-				});
+					var $img=$(this).find('img').each(function (index, element) { // do it for each nested image
+						if ($(this).data('src')) { // only do it once per image
+							$(this).prop('src', $(this).data('src')).data('src', false);
+						}
+					});
+				}
 				/* 2. fade-in the object */
-                $(this).animate({'opacity':'1'}, 500);
+                $(this).animate({'opacity':'1'}, 700);
             }
             
         });

@@ -151,6 +151,4 @@ relatedposts:
 >I can feel it...<br/>
 >Feel my soul...﻿<br/>
 
-<div class="invisible">
-    <iframe class="center" width="95%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/JvJkg1ch09o" frameborder="0">&nbsp;</iframe>
-</div>
+<iframe class="invisible center" width="95%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/JvJkg1ch09o" frameborder="0">&nbsp;</iframe>
