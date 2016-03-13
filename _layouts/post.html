@@ -6,16 +6,8 @@
 <head>
 {% include head.html %}
 </head>
-<div class="next-prev">
-{% if page.previous %}
-<div class="prev-post no-print"> <a href="{{ site.url }}{{ page.previous.url }}"  title="{{ page.previous.title }}" rel="prev">Previous Post</a></div>
-{% endif %}
-{% if page.next %}
-<div class="next-post no-print"> <a href="{{ site.url }}{{ page.next.url }}"  title="{{ page.next.title }}" rel="next">Next Post</a></div>
-{% endif %}
-</div>
-
 <body id="post">
+{% include next-previous-post.html %}
 
 {% include navigation.html %}
 
