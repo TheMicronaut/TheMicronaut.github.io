@@ -13,7 +13,7 @@
   margin: 0;
   padding: 0;
   li  {
-    margin-top: 2em;
+    margin-bottom: 2rem;
     @include clearfix;
 	list-style-type: none;
 	> article {
@@ -24,7 +24,7 @@
 		text-transform: uppercase;
 		font-family: $alt-font;
 		font-size: 0.85rem;
-		margin: 2px 0;
+		margin: 5px 0;
 		& > span {
 			padding: 0 4px 0 0;
 			display: inline-block;

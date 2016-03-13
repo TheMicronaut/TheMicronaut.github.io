@@ -27,7 +27,6 @@ search_omit: true
 		</article>
 	</li>
   {% endif %}
-  <br>
   {% endfor %}
   </ul>
 {% endunless %}{% endfor %}
