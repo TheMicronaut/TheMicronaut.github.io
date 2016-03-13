@@ -371,7 +371,7 @@ You can start a paragraph with a capital letter as in the example below. The cap
 <span class="dcap">L</span>orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
 
 ##### The Bio-photo
-Aleh and the Micronaut are the only editors of this blog. You don't need to see their photo on every post. Since we need a single column for the text, the bio-photo which shows the author's avatar has been disabled. In this blog we mainly focus on the sounds, and text rather than on visual appearances. It would be great though, if the original theme had a configuration point for single, double column support. The truth is that we do need support for double columns, for displaying relative or suggested posts rather than displaying bio-photos. 
+Aleh and the Micronaut are the only editors of this blog. Since we need a single column for the text, the bio-photo which shows the author's avatar has been disabled. The author's bio photo is displayed on the top of the post or page, in place of the site's logo. If the author is not specified, the site-logo is displayed. Furthermore, it is possible to completely disable the author's bio photo, or logo on a post (see below YAML Front-Matter extensions). It would be great though, if the original theme had a configuration point for single, double column support. The truth is that we do need support for double columns, for displaying relative or suggested posts rather than displaying bio-photos. 
 
 ##### The Timeline
 A timeline can be declared either inside an html page or a markdown page/post. The timelines is declared within a `<div id="timeline">...</div>` section. The left-right alignment needs to be done manually, via the  `<div class="timeline-content right">`. Timeline icon should be 110x110px, otherwise does not render in the center; if you have a tip to fix that I would be happy. Credits for the timeline styles go to Bruno Rodrigues' [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"}.  Check [here](/music/new-albums-2015/){:target="_blank"} for an example; check also how this timeline unfolds as you scroll down. 
@@ -470,6 +470,12 @@ There is a lot to be said about images and figcaptions, but better have a look a
 
 ##### Instafeed.js
 We have successfully integrated  [instafeed.js](http://instafeedjs.com/){:target="_blank"} to fetch images from Instagram. We are working towards a nice YAML front-matter API in which the script can easily be used in the posts.
+
+##### YAML Front-Matter extensions
+It is possible to hide the logo on a certain post, by setting:
+{% highlight yaml %}
+hidelogo: true
+{% endhighlight %}
 
 ---
 
