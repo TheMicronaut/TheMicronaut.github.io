@@ -119,19 +119,7 @@ span + .entry-title {
 	}
 }
 
-.entry-meta-small {
-	text-transform: uppercase;
-	font-family: $alt-font;
-	font-size: 0.85rem;
-	margin: 2px 0;
-	& > span {
-		padding: 0 4px 0 0;
-		display: inline-block;
-	}
-}
-
 /* author avatar (circular) */
-
 .bio-photo {
 	display: none;
 	//@include media($large) {
