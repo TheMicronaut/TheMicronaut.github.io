@@ -12,12 +12,24 @@
 .post-list {
   margin: 0;
   padding: 0;
-  li {
+  li  {
     margin-top: 2em;
-    border-bottom: 1px solid lighten($black,80);
-    @include font-size(22,no);
     @include clearfix;
 	list-style-type: none;
+	> article {
+		@include font-size(22,no);
+		border-bottom: 1px solid lighten($black,80);
+	}
+	> footer {
+		text-transform: uppercase;
+		font-family: $alt-font;
+		font-size: 0.85rem;
+		margin: 2px 0;
+		& > span {
+			padding: 0 4px 0 0;
+			display: inline-block;
+		}		
+	}
     > a {
       border-bottom-width: 0; /* remove underlines from items in post indexes */
     }
@@ -28,7 +40,6 @@
   .entry-date {
     @include font-size(18,no);
 	font-family: $quote-font;
-    //text-transform: uppercase;
     display: none;
     @include media($medium) {
       display: inline;
@@ -39,6 +50,7 @@
     display: block;
     float: none;
 	font-family: $quote-font;
+	text-transform: none;
     @include font-size(16, no, 20);
   }
 }
