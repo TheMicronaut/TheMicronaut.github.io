@@ -305,8 +305,8 @@ iframe {
 	//float: left;
 	position: relative;
 	overflow: hidden;
-	height: 500px;
-	width: 500px;
+	height: 300px;
+	width: 300px;
 	margin: auto;
 }
 .boxed img {
@@ -336,13 +336,14 @@ iframe {
 	top: 0;
 	left: 0;
 	opacity: 0;
-	width: 500px;
-	height: 500px;
+	width: 300px;
+	height: 300px;
 	padding: 15px;
 	font-family: $quote-font;
 	font-style: italic;
 	text-align: left;
 	@include font-size(16,no,15);
+	margin-top: 0;
 }
 
 .boxed figcaption:before {
