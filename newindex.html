@@ -7,27 +7,28 @@ search_omit: true
 <ul>
 {% for post in site.posts%} 
 	{% assign images = post.content | split:"<img " %}
-	{% for image in images %}
-	  {% if image contains 'src=' %}
-		{% assign imageMarkup = image | split:">" | first %}
-			{% if imageMarkup contains 'src=' %}
-				<li style="display: inline-block;">
-					<figure class="boxed">
-						<a href="{{ post.url }}"><img height="350" width="350" {{ imageMarkup }} ></a>
-						<figcaption><h6>{{ post.title }}</h6>{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</figcaption>
-					</figure>
-				</li>
-				{% assign imageFound = true %}{% break %}
-			{% endif %}
-	  {% endif %}
-	{% endfor %}
-	{% if imageFound == false %}
+	{% if images.size <= 1 %}
 		<li style="display: inline-block;">
 			<figure class="boxed">
-				<a href="{{ post.url }}"><img height="300" width="300" {{ site.logo }} ></a>
-				<figcaption><h5>{{ post.title }}</h5>&nbsp;{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</figcaption>
+				<img height="300" width="300" src="{{ site.url }}/images/{{ site.logo }}" >
+				<figcaption><a href="{{ post.url }}"><h6>{{ post.title }}</h6></a>&nbsp;{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</figcaption>
 			</figure>
-		</li>	
+		</li>
+	{% else %}
+		{% for image in images %}
+		  {% if image contains 'src=' %}
+			{% assign imageMarkup = image | split:">" | first %}
+				{% if imageMarkup contains 'src=' %}
+					<li style="display: inline-block;">
+						<figure class="boxed">
+							<img height="350" width="350" {{ imageMarkup }} >
+							<figcaption><a href="{{ post.url }}"><h6>{{ post.title }}</h6></a>&nbsp;{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</figcaption>
+						</figure>
+					</li>
+					{% break %}
+				{% endif %}
+		  {% endif %}
+		{% endfor %}
 	{% endif %}
 {% endfor %}
 </ul>

@@ -32,8 +32,6 @@
         {% if page.author %}
           {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
         {% endif %}
-        {% if author.avatar contains 'http' %}<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
-        {% elsif author.avatar %}<img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">{% endif %}
         <span class="author vcard">By <span class="fn">{{ author.name }}</span></span>
         <span class="entry-date date published" title="Published on {{ page.date | date_to_rfc822 }}"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;{{ page.date | date: "%B %d, %Y" }}</time></span>
         {% if page.modified %}<span class="entry-date date modified" title="Modified on {{ page.modified | date_to_rfc822 }}"><time datetime="{{ page.modified }}"><i class="fa fa-pencil"></i>&nbsp;&nbsp;{{ page.modified | date: "%B %d, %Y" }}</time></span>{% endif %}
