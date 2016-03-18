@@ -6,8 +6,8 @@ $title-secondary-font: $heading-font;
 $screen-sm:                  768px !default;
 $screen-sm-min:              $screen-sm !default;
 $screen-xs-max:              ($screen-sm-min - 1) !default;
-$font-XS: 0.85rem;
-$font-S: 1rem;
+$font-XS: 1rem;
+$font-S: 1.5rem;
 $gray-lighter:          lighten(#000, 93.5%) !default; // #eee
 
 // Blocks
@@ -28,7 +28,7 @@ $gray-lighter:          lighten(#000, 93.5%) !default; // #eee
 .blockGroup-list {
   list-style: none;
   padding: 0;
-  margin-top: -3*$leading;
+  //margin-top: -3*$leading;
   margin-left: -10px;
   margin-right: -10px;
   display: -webkit-box;
@@ -161,7 +161,6 @@ $gray-lighter:          lighten(#000, 93.5%) !default; // #eee
     padding-bottom: 10px;
     color: #ccc;
     font-size: 16px;
-    //text-transform: uppercase;
   }
 
   .postArticle-title,
