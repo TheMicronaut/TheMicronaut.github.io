@@ -9,6 +9,8 @@ date: '2016-02-10T00:31:00+01:00'
 modified: '2016-02-26T01:15:00+01:00'
 tags: [City, Am Fenster, Poetry, ]
 author: Aleh
+image:
+  thumbnail: /images/posts/stories/Conrad_Schumann.png
 relatedposts:
  - url: /blog/vitae/when-the-child-was-a-child/
 ---

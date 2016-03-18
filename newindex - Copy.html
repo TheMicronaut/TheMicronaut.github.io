@@ -1,0 +1,63 @@
+---
+layout: page
+title: Latest Posts
+excerpt: "The main page."
+search_omit: true
+---
+<section class="section--postsWrapper">
+  <div class="container">
+    <div class="blockGroup">
+      <ul class="blockGroup-list">
+        {% for post in site.posts %}
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                {% if post.image.feature %}
+                  <a href="{{ post.url }}">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    </div>
+                  </a>
+                {% else %}
+                <a href="{{ post.url }}">
+                  <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
+                  </div>
+                </a>
+                {% endif %}
+                <a class="postArticle-title" href="{{ post.url }}">{{ post.title }}</a>
+              </article>
+              <div class="block-postMeta">{{ post.date | date_to_string }}</div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+<!-- <ul>
+{% for post in site.posts%} 
+	{% assign images = post.content | split:"<img " %}
+	{% if images.size <= 1 %}
+		<li style="display: inline-block;">
+			<figure class="boxed">
+				<img height="300" width="300" src="{{ site.url }}/images/{{ site.logo }}" >
+				<figcaption><a href="{{ post.url }}"><h6>{{ post.title }}</h6></a>&nbsp;{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</figcaption>
+			</figure>
+		</li>
+	{% else %}
+		{% for image in images %}
+		  {% if image contains 'src=' %}
+			{% assign imageMarkup = image | split:">" | first %}
+				{% if imageMarkup contains 'src=' %}
+					<li style="display: inline-block;">
+						<figure class="boxed">
+							<img height="350" width="350" {{ imageMarkup }} >
+							<figcaption><a href="{{ post.url }}"><h6>{{ post.title }}</h6></a>&nbsp;{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once | truncatewords:125 }}</figcaption>
+						</figure>
+					</li>
+					{% break %}
+				{% endif %}
+		  {% endif %}
+		{% endfor %}
+	{% endif %}
+{% endfor %}
+</ul> -->

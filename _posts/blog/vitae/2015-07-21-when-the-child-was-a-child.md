@@ -10,6 +10,8 @@ date: '2015-07-21T00:30:00+01:00'
 tags: [stories, poetry, bio]
 author: Aleh
 hidelogo: true
+image:
+  thumbnail: /images/posts/stories/MiniMarket-InCreta-by-John-Phillips-1947.png
 redirect_from: "/blog/when-the-child-was-a-child/"
 ---
 

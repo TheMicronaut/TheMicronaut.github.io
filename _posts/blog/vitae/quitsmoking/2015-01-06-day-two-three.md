@@ -10,6 +10,8 @@ date: '2015-01-06T23:45:00+01:00'
 tags: [smoking, bio]
 author: Aleh
 hidelogo: true
+image:
+  thumbnail: /images/posts/diary/pasxalia.JPG
 redirect_from: "/blog/day-two-three/"
 ---
 <figure>

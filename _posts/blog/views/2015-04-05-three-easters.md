@@ -10,6 +10,8 @@ date: '2015-04-05T18:50:00+01:00'
 tags: [relegion, paganism, science]
 author: Aleh
 hidelogo: true
+image:
+  thumbnail: /images/posts/diary/light.png
 redirect_from: "/blog/three-easters/"
 ---
 
