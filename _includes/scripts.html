@@ -21,11 +21,15 @@
 {% endif %}
 <!-- Scroll effect for invisible & lazy elements -->
 <script type="text/javascript">
+$(document).ajaxStart(function() {
+    Pace.restart();
+});
+
 $(document).ready(function() {
 
 	/* Hide the 'back-top' element */
 	$("#back-top").hide();
-    
+   
     /* Every time the window is scrolled ... */
     $(window).scroll( function() {
         
@@ -45,7 +49,7 @@ $(document).ready(function() {
 						$(this).prop('src', $(this).data('src')).data('src', false);
 					}				
 				} else {
-					/* 1.b load any lazy sources inside the object */
+					/* 1.b object contains lazy sources, find them and load them*/
 					var $iframe=$(this).find('iframe');
 					if ($iframe.data('src')) { // only do it once per iframe
 						$iframe.prop('src', $iframe.data('src')).data('src', false);
@@ -56,9 +60,10 @@ $(document).ready(function() {
 						}
 					});
 				}
-				/* 2. fade-in the object */
+				/* 2. fade-in the object  and remove the invisible class*/
                 $(this).animate({'opacity':'1'}, 700);
-				Pace.restart();
+				/* 3. remove the invisible class*/
+				$(this).removeClass("invisible");
             }
             
         });
