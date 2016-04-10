@@ -1,0 +1,16 @@
+<script id="timelinetemplate" type="x-jquery-tmpl">
+ 	<div class="invisible timeline-item">
+		<div class="timeline-icon">
+			<img src="/images/timeline/micronaut-white-transparent.png" alt="">
+		</div>
+		<div class="timeline-content ${alignment}">
+			<h2>${title}</h2>
+			<h3><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;${subtitle}</h3>
+			<p id="tags">${tags}</p>
+			<img src="${header}" alt="image">
+			<p>${body}</p>
+			<p>${invisible}</p>
+			<iframe style="border: 0; width: 100%; height: ${height};" src="about:blank" data-src="${footer}" seamless></iframe>
+		</div>
+	</div>
+</script>

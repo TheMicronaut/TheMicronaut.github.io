@@ -94,6 +94,44 @@ $( "#comments" ).click(function() {
   });
 });
 </script>
+<!-- xml data load -->
+{% if page.xmldata %}
+<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
+{% include templates/xmltemplates.xml %}
+<script type="text/javascript" language="javascript">
+    $(document).ready(function() {
+        $.ajax({
+            type: "GET",
+            url: "{{ page.xmldata.data }}",
+            dataType: "xml",
+            success: function(xml){
+				var counter = 0;
+                $(xml).find('item').each(function() {
+                    // create item
+					var footer = $(this).find('footer').text();
+					// TODO: temp hack to cope with different height on various iframe media
+					var  mediaHeight = ( footer.indexOf("bandcamp") > -1 ) ?  "42px" : "70%";
+                    var theItem = {
+                      title: $(this).find('title').text(),
+                      subtitle: $(this).find('subtitle').text(),
+					  tags: $(this).find('tags').text(),
+					  header: $(this).find('header').text(),
+					  body: $(this).find('body').text(),
+					  footer: footer,
+					  alignment: (counter % 2 === 0) ? 'right' : '',
+					  height: mediaHeight
+                    };
+                   $( "#{{ page.xmldata.template }}" ).tmpl(theItem).appendTo( "#timeline" );
+				   counter++;
+            });
+            },
+            error: function() {
+                alert("An error occurred while processing XML file.");
+            }
+        });
+    });    
+</script>
+{% endif %}
 {% if page.instafeed %}
 <!-- Instafeed -->
 {% assign instafeedImage = '{{image}}' %}
