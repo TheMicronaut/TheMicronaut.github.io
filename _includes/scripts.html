@@ -103,7 +103,7 @@ $( "#comments" ).click(function() {
             type: "GET",
             url: "{{ page.xmldata.data }}",
             dataType: "xml",
-            success: function(xml){
+            success: function(xml) {
 				var counter = 0;
                 $(xml).find('item').each(function() {
                     // create item
@@ -124,7 +124,8 @@ $( "#comments" ).click(function() {
                     };
                    $( "#{{ page.xmldata.template }}" ).tmpl(theItem).appendTo( "#timeline" );
 				   counter++;
-            });
+                });
+				$("#amountxmldata").text(counter);
             },
             error: function() {
                 alert("An error occurred while processing XML file.");
