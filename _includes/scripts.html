@@ -96,7 +96,6 @@ $( "#comments" ).click(function() {
 </script>
 <!-- xml data load -->
 {% if page.xmldata %}
-<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.js"></script>
 {% include templates/xmltemplates.xml %}
 <script type="text/javascript" language="javascript">
     $(document).ready(function() {
@@ -117,6 +116,8 @@ $( "#comments" ).click(function() {
 					  tags: $(this).find('tags').text(),
 					  header: $(this).find('header').text(),
 					  body: $(this).find('body').text(),
+					  source: $(this).find('source').text(),
+					  sourcelink: $(this).find('sourcelink').text(),
 					  footer: footer,
 					  alignment: (counter % 2 === 0) ? 'right' : '',
 					  height: mediaHeight
