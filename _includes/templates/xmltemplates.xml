@@ -7,7 +7,7 @@
 			<h2>${title}</h2>
 			<h3><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;${subtitle}</h3>
 			<p id="tags">${tags}</p>
-			<img src="${header}" alt="image">
+			<img class="center" src="${header}" alt="image">
 			<p>${body}{{if source}}<br/><i>source: <a href="${sourcelink}" target="_blank">${source}</a></i>{{/if}}</p>
 			<iframe style="border: 0; width: 100%; height: ${height};" src="about:blank" data-src="${footer}" seamless></iframe>
 		</div>
