@@ -106,23 +106,21 @@ $( "#comments" ).click(function() {
             success: function(xml) {
 				var counter = 0;
                 $(xml).find('item').each(function() {
-                    // create item
+				   // create item
+					var dataitem =xml2jsobj(this);
+					dataitem['alignment'] = (counter % 2 === 0) ? 'right' : '';
+					// TODO:  This hack assumes that iframe is placed in xml's footer tag.
+					var iframetype = "other";
 					var footer = $(this).find('footer').text();
-					// TODO: temp hack to cope with different height on various iframe media
-					var  mediaHeight = ( footer.indexOf("bandcamp") > -1 ) ?  "42px" : "70%";
-                    var theItem = {
-                      title: $(this).find('title').text(),
-                      subtitle: $(this).find('subtitle').text(),
-					  tags: $(this).find('tags').text(),
-					  header: $(this).find('header').text(),
-					  body: $(this).find('body').text(),
-					  source: $(this).find('source').text(),
-					  sourcelink: $(this).find('sourcelink').text(),
-					  footer: footer,
-					  alignment: (counter % 2 === 0) ? 'right' : '',
-					  height: mediaHeight
-                    };
-                   $( "#{{ page.xmldata.template }}" ).tmpl(theItem).appendTo( "#timeline" );
+					if (footer) {
+						if ( footer.indexOf("bandcamp") > -1 ) {
+							iframetype = "bandcamp";
+						} else if (footer.indexOf("soundcloud") > -1) {
+							iframetype = "soundcloud";
+						}
+					}
+					dataitem['iframetype'] = iframetype;
+                   $( "#{{ page.xmldata.template }}" ).tmpl(dataitem).appendTo( "#timeline" );
 				   counter++;
                 });
 				$("#amountxmldata").text(counter);
@@ -131,7 +129,53 @@ $( "#comments" ).click(function() {
                 alert("An error occurred while processing XML file.");
             }
         });
-    });    
+    });
+	
+function xml2jsobj(node) {
+	var	data = {};
+	// append a value
+	function Add(name, value) {
+		if (data[name]) {
+			if (data[name].constructor != Array) {
+				data[name] = [data[name]];
+			}
+			data[name][data[name].length] = value;
+		}
+		else {
+			data[name] = value;
+		}
+	};
+	
+	// element attributes
+	var c, cn;
+	for (c = 0; cn = node.attributes[c]; c++) {
+		Add(cn.name, cn.value);
+	}
+	
+	// child elements
+	for (c = 0; cn = node.childNodes[c]; c++) {
+		if (cn.nodeType == 1) {
+			if (cn.childNodes.length == 1 && cn.firstChild.nodeType == 3) {
+				// text value
+				if (cn.nodeName) {
+					Add(cn.nodeName, cn.firstChild.nodeValue);
+				}
+			} else {
+				// sub-object
+				if (cn.nodeName) {
+					// if added by aleh, to support cases when node is empty
+					if (cn.childNodes.lenght > 0) {
+						Add(cn.nodeName, xml2jsobj(cn));
+					} else {
+						Add(cn.nodeName, null);
+					}
+				}
+			}
+		}
+	}
+	
+	return data;
+}	
 </script>
 {% endif %}
 {% if page.instafeed %}

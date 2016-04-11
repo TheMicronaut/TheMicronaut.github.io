@@ -10,7 +10,11 @@
 			{{if tags}}<p id="tags">${tags}</p>{{/if}}
 			{{if header}}<img class="center" src="${header}" alt="image">{{/if}}
 			<p>${body}<br/>{{if source}}source: <a href="${sourcelink}" target="_blank">${source}</a>{{/if}}</p>
-			{{if footer}}<iframe style="border: 0; width: 100%; height: ${height};" src="about:blank" data-src="${footer}" seamless></iframe>{{/if}}
+			{{if footer}}
+			{{if iframetype == "other"}}<iframe width="100%" height="250" frameborder="0" src="about:blank" data-src="${footer}"></iframe>{{/if}}
+			{{if iframetype == "bandcamp"}}<iframe style="border: 0; width: 100%; height: 42px;" src="about:blank" data-src="${footer}" seamless></iframe>{{/if}}
+			{{if iframetype == "soundcloud"}}<iframe width="100%" height="166" frameborder="0" src="about:blank" data-src="${footer}"></iframe>{{/if}}
+			{{/if}}
 		</div>
 	</div>
 {% endraw %}	
