@@ -1,15 +1,17 @@
 <script id="timelinetemplate" type="x-jquery-tmpl">
+{% raw %}
  	<div class="invisible timeline-item">
 		<div class="timeline-icon">
 			<img src="/images/timeline/micronaut-white-transparent.png" alt="">
 		</div>
 		<div class="timeline-content ${alignment}">
 			<h2>${title}</h2>
-			<h3><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;${subtitle}</h3>
-			<p id="tags">${tags}</p>
-			<img class="center" src="${header}" alt="image">
-			<p>${body}<br/>source: <a href="${sourcelink}" target="_blank">${source}</a></p>
-			<iframe style="border: 0; width: 100%; height: ${height};" src="about:blank" data-src="${footer}" seamless></iframe>
+			{{if subtitle}}<h3><i class="fa fa-calendar-o"></i>&nbsp;&nbsp;${subtitle}</h3>{{/if}}
+			{{if tags}}<p id="tags">${tags}</p>{{/if}}
+			{{if header}}<img class="center" src="${header}" alt="image">{{/if}}
+			<p>${body}<br/>{{if source}}source: <a href="${sourcelink}" target="_blank">${source}</a>{{/if}}</p>
+			{{if footer}}<iframe style="border: 0; width: 100%; height: ${height};" src="about:blank" data-src="${footer}" seamless></iframe>{{/if}}
 		</div>
 	</div>
+{% endraw %}	
 </script>
