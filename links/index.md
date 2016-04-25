@@ -7,26 +7,11 @@ modified: 2014-08-08T19:44:38.564948-04:00
 
 Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
 
-### <i class="fa fa-link"></i> Stories
-
-##### <i class="fa fa-hand-o-right"></i> Blogs / storytelling
-
-* [Ad Astra](http://aylwens.blogspot.gr/){:target="_blank"}  [GR] <br/>
-* [Passenger](http://www.aggelosspyrou.net/){:target="_blank"}  [GR]
-
-
-### <i class="fa fa-link"></i> Music Resources
-
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 
 * [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [GR/EN]
-* [The Roots of the Groove](http://grooveroots.wordpress.com/){:target="_blank"}  [GR]
 * [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.nl/){:target="_blank"}  [GR/EN]
-
-##### <i class="fa fa-hand-o-right"></i> Web Radio
-
-* [Innersound Radio](http://innersound-radio.com/){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> Tumblr
 
@@ -58,7 +43,6 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [Latenighter](http://www.mixcloud.com/athinakis/){:target="_blank"}
 * [Aggelos Spyrou](http://www.mixcloud.com/aggelosspyrou/){:target="_blank"}
 * [Sokrates Called](http://www.mixcloud.com/anartcalled/){:target="_blank"}
-
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
 
