@@ -3,7 +3,7 @@ layout: post
 categories: [blog, vitae]
 share: true
 comments: true
-title: 'Ένα πουλί μετράει τα πούπουλα'
+title: 'Της ρότας τα θυμητάρια'
 excerpt: 'Always the hours...'
 date: '2015-07-21T00:30:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
