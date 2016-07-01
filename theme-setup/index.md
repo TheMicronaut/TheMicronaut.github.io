@@ -48,11 +48,11 @@ The preferred method for running Jekyll is with `bundle exec`, but if you're wil
 >
 >However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
 
-{% highlight text %}
+```liquid
 bundle exec jekyll build
 
 bundle exec jekyll serve
-{% endhighlight %}
+```
 
 ---
 
@@ -60,7 +60,7 @@ bundle exec jekyll serve
 
 How So Simple is organized and what the various files are. All posts, layouts, includes, stylesheets, assets, and whatever else is grouped nicely under the root folder. The compiled Jekyll site outputs to `_site/`.
 
-{% highlight text %}
+```bash
 so-simple-theme/
 ├── _includes/
 |    ├── browser-upgrade.html   # prompt to install a modern browser for < IE9
@@ -92,7 +92,7 @@ so-simple-theme/
 ├── feed.xml                     # Atom feed template
 ├── index.md                     # sample homepage. lists 5 latest posts 
 └── theme-setup/                 # theme setup page. safe to remove
-{% endhighlight %}
+```
 
 ---
 
@@ -120,13 +120,13 @@ Used to generate absolute URLs for sitemaps, feeds and for generating canonical 
 
 Examples:
 
-{% highlight yaml %}
+```yaml
 url: http://mmistakes.github.io/so-simple-theme
 url: http://localhost:4000
 url: http://mademistakes.com
 url: //mademistakes.com
 url: 
-{% endhighlight %}
+```
 
 [^protocol]: If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I'd suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`.
 
@@ -138,13 +138,13 @@ Google Analytics UA and Webmaster Tool verification tags can be entered under `o
 
 To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
 
-{% highlight yaml %}
+```yaml
 - title: Portfolio
   url: /portfolio/
 
 - title: Made Mistakes
   url: http://mademistakes.com  
-{% endhighlight %}
+```
 
 ---
 
@@ -186,20 +186,20 @@ A good rule of thumb is to keep feature images nice and wide so you don't push t
 
 The post and page layouts make the assumption that the feature images live in the `images/` folder. To add a feature image to a post or page just include the filename in the front matter like so.
 
-{% highlight yaml %}
+```yaml
 image:
   feature: feature-image-filename.jpg
   thumb: thumbnail-image.jpg #keep it square 200x200 px is good
-{% endhighlight %}
+```
 
 To add attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source if supplied.
 
-{% highlight yaml %}
+```yaml
 image:
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
   creditlink: http://mademistakes.com #url to their site or licensing
-{% endhighlight %}
+```
 
 ### Videos
 
@@ -207,9 +207,9 @@ Video embeds are responsive and scale with the width of the main content block w
 
 Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
 
-{% highlight html %}
+```html
 <iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-{% endhighlight %}
+```
 
 ### Link Post Type
 
@@ -256,9 +256,9 @@ author: billy_rick
 
 To add Facebook, Twitter, and Google+ share links to a post add the following YAML front matter.
 
-{% highlight yaml %}
+```yaml
 share: true
-{% endhighlight %}
+```
 
 Share links appear below author details in the sidebar.
 
@@ -347,9 +347,12 @@ You can start a paragraph with a capital letter as in the example below. The cap
 Aleh and the Micronaut are the only editors of this blog. Since we need a single column for the text, the bio-photo which shows the author's avatar has been disabled. The author's bio photo is displayed on the top of the post or page, in place of the site's logo. If the author is not specified, the site-logo is displayed.  
 
 Furthermore, it is possible to completely disable the author's bio photo or site-logo on a certain post via the following YAML Front-Matter extension:
-{% highlight yaml %}
+
+```yaml
+---
 hidelogo: true
-{% endhighlight %}
+---
+```
 
 It would be great though, if the original theme had a configuration point for single, double column support. The truth is that we do need support for double columns, for displaying relative or suggested posts rather than displaying bio-photos. 
 
@@ -357,7 +360,8 @@ It would be great though, if the original theme had a configuration point for si
 A timeline can be declared either inside an html page or a markdown page/post. The timelines is declared within a `<div id="timeline">...</div>` section. The left-right alignment needs to be done manually, via the  `<div class="timeline-content right">`. Timeline icon should be 110x110px, otherwise does not render in the center; if you have a tip to fix that I would be happy. Credits for the timeline styles go to Bruno Rodrigues' [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"}.  Check [here](/music/new-albums-2015/){:target="_blank"} for an example; check also how this timeline unfolds as you scroll down. 
 
 Example:
-{% highlight html %}
+
+```html
 <div id="timeline">
 
    <!-- First item - left aligned -->
@@ -383,7 +387,7 @@ Example:
   </div>
 
 </div>
-{% endhighlight %}
+```
  
  This html code should render into something like:
  
@@ -419,29 +423,29 @@ This is the official rendering of a `blockquote`  by the so-simple theme:
  
  Note that one has to manually add the quotation characters. There is a reasoning behind this, and I assume this is because of the `cite` mess (should be outside the quotations). The current implementation is satisfactory and thus no modifications are done for blockquotes. Next to the blockquotes, Aleh has added the central-quote element which can be used as following:
 
-{% highlight html %}
+```html
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
-{% endhighlight %}
+```
 
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
 
 ##### Text divider
  You can divide pieces of text by means of the text divider. The following html syntax can be used within markdown, similar to the central quote and other html markups:
  
- {% highlight html %}
+```html
  <div class="text-divider"></div>
- {% endhighlight %}
+```
  
  <div class="text-divider"></div>
 
 ##### Recommended Posts
  Jekyll's related posts mechanism is not convenient. Ale decided himself to choose what the recommended posts would be, when and if necessary. To display a list of recommended posts, you have to add the following entry in the YAML front matter (beware of the spaces and all...) :
 
-{% highlight yaml %}
+```yaml
  relatedposts:
  - url: link-1-to-your-internal-post, e.g. : /blog/vitae/when-the-child-was-a-child/
  - url: link-2-to-your-internal-post
-{% endhighlight %}
+```
  
 In this way, a list of recommended posts will appear at the bottom of your post. The recommended posts are applicable for posts only, not for pages.
  
@@ -461,9 +465,9 @@ For example if you wanted a red background instead of white you'd change `$body-
 
 To modify the site's JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into `scripts.min.js`. [Install Node.js](http://nodejs.org/), then [install Grunt](http://gruntjs.com/getting-started), and then finally install the dependencies for the theme contained in `package.json`:
 
-{% highlight bash %}
+```bash
 npm install
-{% endhighlight %}
+```
 
 From the theme's root, run `grunt` to concatenate JavaScript files, and optimize all .jpg, .png, and .svg files in the `images/` folder. You can also use `grunt dev` in combination with `jekyll build --watch` to watch for updates JS files that Grunt will then automatically re-build as you write your code which will in turn auto-generate your Jekyll site when developing locally.
 
