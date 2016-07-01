@@ -20,8 +20,9 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-  - jekyll-redirect-from
   - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from  
   - jekyll-paginate
 
 kramdown:
