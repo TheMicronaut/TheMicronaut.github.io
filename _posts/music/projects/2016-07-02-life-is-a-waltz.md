@@ -5,7 +5,7 @@ share: true
 comments: true
 title: 'Life is a Waltz'
 #excerpt: 'xxx'
-date: '2016-07-02T13:58:00+00:00'
+date: '2016-07-02T12:58:00+01:00'
 #modified: '2016-06-15T23:50:00+01:00'
 tags: [mixcloud, playlist, waltz]
 author: Micronaut
