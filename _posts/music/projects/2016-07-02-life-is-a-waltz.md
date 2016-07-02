@@ -9,7 +9,10 @@ date: '2016-07-02T12:58:00+01:00'
 #modified: '2016-06-15T23:50:00+01:00'
 tags: [mixcloud, playlist, waltz]
 author: Micronaut
-hidelogo: true
+hidelogo: false
+image:
+  feature: posts/RobertCapa-WomenDancingInTheStreetsOfMoscow-1947.jpg
+  credit: Women dancing in the streets of Moscow in 1947, by Robert Capa. 
 ---
 For every moment in life, there is a waltz; and every waltz incarnates an entire life. The odd numbered 3/4 (and its compound 6/8) rhythm is more suited for dance rather than marching, and perhaps there hides its magic.
 
