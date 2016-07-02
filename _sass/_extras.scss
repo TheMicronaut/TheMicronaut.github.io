@@ -69,6 +69,20 @@ div .central-quote {
     }
 }
 
+// Quote text
+// --------------------------------------------------
+.quote-text {
+	font-family: $quote-font;
+    font-style: italic;
+    @include font-size(14);
+    @include media($medium) {
+	    @include font-size(16);
+    }
+    @include media($large) {
+        @include font-size(18);
+    }	
+}
+
 // Box with header
 // --------------------------------------------------
 .header-box {
