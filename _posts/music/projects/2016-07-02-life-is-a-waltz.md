@@ -22,6 +22,13 @@ Longing for a cinematic outcome equivalent to motion pictures, the principal inc
 
 While listening to these mixes, one will come across popular and delightful ballads only to realize they are actually waltzes. 
 
+<div class="invisible">
+<figure>
+	<iframe width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/4pyFvguXQV0" frameborder="0">&nbsp;</iframe>
+	<figcaption>Dance in the squares, there is no other way.</figcaption>
+</figure>
+</div>
+
 Here is the complete list so far. Enjoy!
 
 #### Life is a Waltz 
