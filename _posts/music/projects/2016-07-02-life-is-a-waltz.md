@@ -5,7 +5,7 @@ share: true
 comments: true
 title: 'Life is a Waltz'
 #excerpt: 'xxx'
-date: '2016-07-02T12:58:00+01:00'
+date: '2016-07-02T13:58:00+00:00'
 #modified: '2016-06-15T23:50:00+01:00'
 tags: [mixcloud, playlist, waltz]
 author: Micronaut
@@ -36,7 +36,7 @@ Here is the complete list so far. Enjoy!
 <div class="text-divider"></div>
 
 #### Life is a Waltz - Vol.3
-<span class="quote-text">**Tracklist:  **Antonín Dvořák - Tempo di Valse | Led Zeppelin - Since I've Been Loving You | Eleni Karaindrou - To Vals tis vrochis | Elliott Smith - Going Nowhere | Dusty Springfield - "Guess who?" | Detektiv rån - E18 | The Godfather Music - Waltz | Pink Martini - Que Sera, Sera | Stavros Lantsias - To Vals ton mation | Yann Tiersen - La Valse D'Amelie | Creedence Clearwater Revival - I put a spell on you | Etta James - At Last | Eleni Karaindrou - To Vals tou Gamou | Beirut - Cliquot | Cat Steven - Morning Has Broken | Gilbert o Sullivan - Nothing Rymed | Jim Croce - Time In A Bottle | Yann Tiersen - La Valse des Monstres | Stamatis Spanoudakis - Vals gia tin A' thesi | Spyros Samoilis - To Vals tis nostalgias | Manos Hadjidakis - To Vals ton xamenon oneiron | Johann Strauss Jr. - Voices Of Spring Waltz</span>
+<span class="quote-text"><strong>Tracklist:  </strong>Antonín Dvořák - Tempo di Valse | Led Zeppelin - Since I've Been Loving You | Eleni Karaindrou - To Vals tis vrochis | Elliott Smith - Going Nowhere | Dusty Springfield - "Guess who?" | Detektiv rån - E18 | The Godfather Music - Waltz | Pink Martini - Que Sera, Sera | Stavros Lantsias - To Vals ton mation | Yann Tiersen - La Valse D'Amelie | Creedence Clearwater Revival - I put a spell on you | Etta James - At Last | Eleni Karaindrou - To Vals tou Gamou | Beirut - Cliquot | Cat Steven - Morning Has Broken | Gilbert o Sullivan - Nothing Rymed | Jim Croce - Time In A Bottle | Yann Tiersen - La Valse des Monstres | Stamatis Spanoudakis - Vals gia tin A' thesi | Spyros Samoilis - To Vals tis nostalgias | Manos Hadjidakis - To Vals ton xamenon oneiron | Johann Strauss Jr. - Voices Of Spring Waltz</span>
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FMoonlightFairyTales%2Flife-is-a-waltz-vol3%2F&hide_cover=1&light=1" frameborder="0"></iframe>
 
