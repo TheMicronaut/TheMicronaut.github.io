@@ -2,7 +2,7 @@
 layout: page
 title: I visit frequently...
 excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
-modified: 2014-08-08T19:44:38.564948-04:00
+modified: 2016-07-16T19:44:38.564948-04:00
 ---
 
 Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
@@ -10,8 +10,11 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 
 * [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
-* [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [GR/EN]
-* [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.nl/){:target="_blank"}  [GR/EN]
+* [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
+* [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
+* [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
+* [Stenography of Emotion](http://bppremiera.blogspot.com/){:target="_blank"}  [EN]
+
 
 ##### <i class="fa fa-hand-o-right"></i> Tumblr
 
