@@ -12,6 +12,7 @@ See a [live version of the original So Simple Theme](http://mmistakes.github.io/
 
 ## Notable Extensions of the So Simple Theme:
 * Timeline
+* XML data loading and rendering
 * Central quotes
 * Text divider
 * Capital Letter in paragraphs
@@ -25,6 +26,7 @@ For details on theme extensions, visit [theme-setup](http://themicronaut.github.
 * Typography
 * Author's bio-photo adaptation
 * Images & Figcaptions
+* Footer content
 
 For details on theme modifications, visit [theme-setup](http://themicronaut.github.io/theme-setup/#alehs-customizations)
 
