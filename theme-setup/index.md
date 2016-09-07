@@ -421,7 +421,7 @@ For the XML data to be accessed and rendered, the location of the XML data file 
 
 The XML data file can be placed anywhere in the folder hierarchy of your repository. 
 
-The template describes (in html language) how the XML data should be rendered on your page; the template can be specified in the file: `_includes\templates\xmltemplates.xml`.  In this file,  you may define multiple rendering templates. Each template should be declared as a separate script with a unique identified (template id).  The template needs to be defined within `{% raw %}...{% endraw %}` tags, in order to be properly parsed by Liquid.
+The template describes (in html language) how the XML data should be rendered on your page; the template can be specified in the file: `_includes\templates\xmltemplates.xml`.  In this file,  you may define multiple rendering templates. Each template should be declared as a separate script with a unique identified (template id).  The template needs to be defined within `raw ... endraw`  Liquid tags (as in the example), in order to be properly parsed by Liquid.
  
 Here is an example of a YAML front-matter:
  
@@ -435,7 +435,7 @@ Here is an example of a YAML front-matter:
 
 where, *data* is the local path for the xml data and *template* is the id of the template (defined in file: `_includes\templates\xmltemplates.xml`).
  
-See a [live demo](/music/new-albums-2016/){:target="_blank"} of this feature. In this demo, the XML data are rendered as [timeline](#the-timeline) items.
+See a [live demo](/music/new-albums-2016/){:target="_blank"} of this feature. In this demo, the XML data is rendered as [timeline](#the-timeline) items.
  
 Since I haven't tested this feature for other templates other than my own, I would be very delighted to receive your suggestions for improvements.
  
