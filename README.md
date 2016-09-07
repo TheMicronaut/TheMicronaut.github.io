@@ -1,32 +1,36 @@
 # The Micronaut's modified So Simple Theme 
 
-Micronaut's modified So Simple Theme is a minimalistic theme that emphasizes on simple and clean layout and typography. 
+The theme of Micronaut's blog is based upon the  **So Simple Theme**  by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
-The theme of Micronaut's blog is based upon the  **So Simple Theme**  by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}.
-See a [live version of Micronaut's Modified So Simple Theme](http://themicronaut.github.io/){:target="_blank"} hosted on GitHub.
-See a [live version of the original So Simple Theme](http://mmistakes.github.io/so-simple-theme/){:target="_blank"} hosted on GitHub.
+Micronaut's modified So Simple Theme is a minimalistic theme (across the same lines of the So Simple Theme) that offers simple and clean layout while emphasizing typography. Thus, the theme is ideal for sites and blogs that focus on content rather than on visual elements and delights.
+
+See a [live version of Micronaut's Modified So Simple Theme](http://themicronaut.github.io/) hosted on GitHub.
+
+See a [live version of the original So Simple Theme](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
 ![screenshot of So Simple Theme](/images/so-simple-theme-preview.jpg)
 
-## Notable Modifications & Extensions:
-* Typography
-* Capital Letter in paragraphs
-* Author's bio-photo adaptation
+## Notable Extensions of the So Simple Theme:
 * Timeline
 * Central quotes
 * Text divider
+* Capital Letter in paragraphs
 * Recommended Posts
-* Images & Figcaptions
-* Integration of Instafeed.js
+* Instafeed.js Integration
 * Alternative list of posts
 
-For details, visit [theme-setup](http://themicronaut.github.io/theme-setup/#alehs-customizations){:target="_blank"}
+For details on theme extensions, visit [theme-setup](http://themicronaut.github.io/theme-setup/#alehs-customizations)
 
----
+## Notable Modifications of the So Simple Theme:
+* Typography
+* Author's bio-photo adaptation
+* Images & Figcaptions
+
+For details on theme modifications, visit [theme-setup](http://themicronaut.github.io/theme-setup/#alehs-customizations)
 
 ## Getting Started
 So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x
 
-To learn how to install and use this theme check out the [Setup Guide](http://themicronaut.github.io/theme-setup/){:target="_blank"} for more information.
+To learn how to install and use this theme check out the [Setup Guide](http://themicronaut.github.io/theme-setup/) for more information.
 
 
