@@ -415,13 +415,13 @@ Example:
 </div>
  
 ##### XML data loading and rendering
-It is possible to load and render data via XML files that are located on the same repository as your blog or site. I believe the same design should work for remote XML data as well (let me know if you tried this option).
+It is possible to load and render data via XML files that are located on the same repository as your blog or site. I believe the same design should work for remote XML data as well (let me know if you have tried this option).
  
-For the XML data to be accessed and rendered, the location of the XML data file and its template need to be specified in the YAML front-matter section of your page. 
+For the XML data to be accessed and rendered, the location of the XML data file and its html rendering template need to be specified in the YAML front-matter section of your page. 
 
 The XML data file can be placed anywhere in the folder hierarchy of your repository. 
 
-The template describes (in html language) how the XML data should be rendered on your page; the template can be specified in the file: `_includes\templates\xmltemplates.xml`.  In this file,  you may define multiple rendering templates. Each template should be declared as a separate script with a unique identified (template id).  The template needs to be defined within `raw ... endraw`  Liquid tags (as in the example), in order to be properly parsed by Liquid.
+The template describes (in html language) how the XML data should be rendered on a certain page; multiple rendering templates can all be specified in file: `_includes\templates\xmltemplates.xml`. Each template should be declared as a separate script with a unique identified (template id).  The template needs to be defined within `raw ... endraw`  Liquid tags (as in the example), in order to be properly parsed by Liquid. Without specifying a template, it is impossible to render the XML data even when it is successfully loaded.
  
 Here is an example of a YAML front-matter:
  
