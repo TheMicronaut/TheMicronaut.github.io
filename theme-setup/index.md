@@ -455,6 +455,9 @@ There is a lot to be said about images and figcaptions, but better have a look a
 ##### Instafeed.js
 We have successfully integrated  [instafeed.js](http://instafeedjs.com/){:target="_blank"} to fetch images from Instagram. We are working towards a nice YAML front-matter API in which the script can easily be used in the posts.
 
+##### Alternative post list
+This modified theme supports an alternative layout for displaying post lists. Here is a live [demo](/newindex){:target="_blank"}. At the moment of writing, this feature is under development.
+
 ---
 
 ## Further Customization
