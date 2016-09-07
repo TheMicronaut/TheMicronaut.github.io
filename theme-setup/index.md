@@ -417,7 +417,11 @@ Example:
 ##### XML data loading and rendering
 It is possible to load and render data via XML files that are located on the same repository as your blog or site. I believe the same design should work for remote XML data as well (let me know if you tried this option).
  
-For the XML data to be accessed and rendered, the location of the XML data file and its template need to be specified in the YAML front-matter section of your page. The XML data file can be placed anywhere in the folder hierarchy of your repository. The template describes how the XML data should be rendered on your page and is specified in the file: `_includes\templates\xmltemplates.xml`.  You may specify as many templates as you need. Each template should be specified as a separate script with a unique identified (template id). 
+For the XML data to be accessed and rendered, the location of the XML data file and its template need to be specified in the YAML front-matter section of your page. 
+
+The XML data file can be placed anywhere in the folder hierarchy of your repository. 
+
+The template describes (in html language) how the XML data should be rendered on your page; the template can be specified in the file: `_includes\templates\xmltemplates.xml`.  In this file,  you may define multiple rendering templates. Each template should be declared as a separate script with a unique identified (template id).  The template needs to be defined within `{% raw %}...{% endraw %}` tags, in order to be properly parsed by Liquid.
  
 Here is an example of a YAML front-matter:
  
@@ -431,7 +435,7 @@ Here is an example of a YAML front-matter:
 
 where, *data* is the local path for the xml data and *template* is the id of the template (defined in file: `_includes\templates\xmltemplates.xml`).
  
-See here a [live demo](/music/new-albums-2016/){:target="_blank"} of this feature.
+See a [live demo](/music/new-albums-2016/){:target="_blank"} of this feature. In this demo, the XML data are rendered as [timeline](#the-timeline) items.
  
 Since I haven't tested this feature for other templates other than my own, I would be very delighted to receive your suggestions for improvements.
  
