@@ -414,20 +414,21 @@ Example:
 	</div>
 </div>
  
- ##### XML data loading and rendering
- It is possible to load and render data via XML files that are located on the same host as your posts. Although I haven't test it yet, I believe the same design should work for remote XML data as well (let me know if you tried this option).
+##### XML data loading and rendering
+It is possible to load and render data via XML files that are located on the same repository as your blog or site. I believe the same design should work for remote XML data as well (let me know if you tried this option), although I haven't test it option yet.
  
- For the XML data to be accessed and rendered, the location of the XML data file and its template need to be specified in the YAML front-matter section of your page. The XML data file can be placed anywhere in the folder hierarchy of your repository. The template describes how the XML data should be rendered on your page and is specified in the file: `_includes\templates\xmltemplates.xml`.  You may specify as many templates as you need. Each template should be specified as a separate script with a unique identified (template id). 
+For the XML data to be accessed and rendered, the location of the XML data file and its template need to be specified in the YAML front-matter section of your page. The XML data file can be placed anywhere in the folder hierarchy of your repository. The template describes how the XML data should be rendered on your page and is specified in the file: `_includes\templates\xmltemplates.xml`.  You may specify as many templates as you need. Each template should be specified as a separate script with a unique identified (template id). 
  
  Here is an example of a YAML front-matter:
  
- ```yaml
+```yaml
 ---
  xmldata: 
   data: /xmldata/albums2016.xml
   template: timelinetemplate
 ---
 ```
+
 where, *data* is the local path for the xml data and *template* is the id of the templated as defined in file: `_includes\templates\xmltemplates.xml`.
  
 See here a [live demo](/music/new-albums-2016/){:target="_blank"} of this feature.
