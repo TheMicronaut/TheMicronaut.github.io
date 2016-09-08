@@ -175,6 +175,8 @@ The Afghan Whigs - Night by Candlelight | Orcas - Until Then (Broadcast cover)</
 <span class="quote-text">Jun 19, 2016</span>
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2FMoonlightFairyTales%2Flife-is-a-waltz-vol18-an-ode-to-love%2F&hide_cover=1&light=1" frameborder="0"></iframe>
 
+<div class="text-divider"></div>
+
 #### Life is a Waltz - Vol.19 (Ode to Seafarers & Dreamfarers)
 <span class="quote-text"><strong>Tracklist:  </strong>Constantine Y. - Ναοί Στο σχήμα του Ουρανού (ποίηση - απαγγελία Οδ. Ελύτη) | David Lynch & Lykke Li - I'm Waiting Here | Corrie Folk Trio and Paddy Bell - Fear a Bhata | Erica Buettner - Time Travelling | Jacob Faurholt - Floating In Space | Fleet Foxes - Tiger Mountain Peasant Song | Sam Moore & The Bad Palace - The Hedgehog | Migala - Dear Fear | Carol Anne McGowan - Sycamore Trees | The White Birch - The Hours | Sorgfyllt Avsked - Saknad | Beth Hart - Caught Out In The Rain | Rachel's - A Warm Body | Adrian Crowley - The Hatchet Song | Tasseomancy - Anubis (from The Crypt Sessions) | William Ryan Fritch - You Remain | The Illusion Of Silence - The Old Seaman</span>
 
