@@ -275,21 +275,20 @@ iframe {
 // Comments section
 // --------------------------------------------------
 #comments {
-	background: #F1F1F1;
-	border-top: solid 1px #eee;
+	background: #FCFCFC;
+	border: solid 1px #EBEEF2;
     float: left;
 	width: 100%;
 	margin-top: 12px;
 }
 
 #comments-wrap {
-	width: 90%;
+	width: 95%;
 	margin: 0 auto;
-	/*padding: 1% 0;*/
 }
 
 #comments-title {
-	background: #F1F1F1;
+	background: #FCFCFC;
 	padding: 3% 0;
 	margin: 0rem !important;
 	font-family: $heading-font;
@@ -303,7 +302,7 @@ iframe {
 }
 
 #comments .comment-toggle:hover {
-	background: #EBEBEB;
+	background: #EBEEF2;
 	cursor: pointer;
 	 -webkit-transition: .07s ease-in;  
 	-moz-transition: .07s ease-in;  
