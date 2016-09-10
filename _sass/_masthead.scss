@@ -55,7 +55,7 @@
    ========================================================================== */
 
 .site-title {
-  font-family: $alt-font;
+  font-family: $heading-font;
   font-style: italic;
   margin-bottom: 0;
   @include animation-duration(1s);
@@ -71,7 +71,7 @@
 
 .site-description {
   margin-top: 0;
-  font-family: $alt-font;
+  font-family: $heading-font;
   @include font-size(16);
   font-weight: 400;
   font-style: italic;
