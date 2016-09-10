@@ -96,8 +96,10 @@ $( "#comments" ).click(function() {
 </script>
 <!-- Replace missing images -->
 <script type="text/javascript">
-$('img').error(function(){
-        $(this).attr('src', '/images/Image_Not_Found.png');
+    $('img').error(function(){
+    $(this).attr('src', '/images/Image_Not_Found.png');
+    var image_alt = $(this).attr("alt");
+    $(this).setAttribute("title","Image [" + image_alt + "] Not Available.");
 });
 </script>
 <!-- xml data load -->
