@@ -15,6 +15,10 @@ search_omit: true
   {% endunless %}{% endfor %}
 </ul>
 
+<figure>
+    <img src="/images/tags.png" alt="tags-Image" class="center"/>
+</figure>
+
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
   <h2 id="{{ this_word }}">{{ this_word }}</h2>
