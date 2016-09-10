@@ -94,6 +94,12 @@ $( "#comments" ).click(function() {
   });
 });
 </script>
+<!-- Replace missing images -->
+<script type="text/javascript">
+$('img').error(function(){
+        $(this).attr('src', '/images/Image_Not_Found.png');
+});
+</script>
 <!-- xml data load -->
 {% if page.xmldata %}
 {% include templates/xmltemplates.xml %}
