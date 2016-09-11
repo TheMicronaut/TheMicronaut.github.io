@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Micronaut's Blog
+title: Micronaut's BlogBook
 locale: en_US
 timezone: CET
-description: The adventures of Aleh &amp; the Micronaut
+description: The chronicles of Aleh &amp; the Micronaut
 logo: site-logo.svg
 search: true
 url: http://themicronaut.github.io
