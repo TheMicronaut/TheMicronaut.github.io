@@ -5,6 +5,10 @@ excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true
 ---
+<figure>
+    <img src="/images/quill.png" alt="quill-image" class="center"/>
+</figure>
+
 <ul class="post-list">
 {% for post in site.categories.blog %}
   <li>

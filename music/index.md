@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Music Posts
+title: Music
 excerpt: "An archive of posts related to music sorted by date."
 hidelogo: true
 search_omit: true
 ---
+<figure>
+    <img src="/images/music-notes.png" alt="music-notes-image" class="center"/>
+</figure>
+
 <ul class="post-list">
 {% for post in site.categories.music %}
   <li>

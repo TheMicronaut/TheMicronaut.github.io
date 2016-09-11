@@ -1,9 +1,13 @@
 ---
 layout: page
-title: I visit frequently...
+title: Places I visit frequently...
 excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
+hidelogo: true
 modified: 2016-07-16T19:44:38.564948-04:00
 ---
+<figure>
+    <img src="/images/connected.gif" alt="connected-image" class="center"/>
+</figure>
 
 Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
 

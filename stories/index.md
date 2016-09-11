@@ -5,6 +5,10 @@ excerpt: "An archive of fictional stories sorted by date."
 hidelogo: true
 search_omit: true
 ---
+<figure>
+    <img src="/images/book.png" alt="book-image" class="center"/>
+</figure>
+
 <ul class="post-list">
 {% for post in site.categories.stories %}
   <li>

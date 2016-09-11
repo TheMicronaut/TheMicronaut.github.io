@@ -1,9 +1,13 @@
 ---
 layout: page
 title: Tag Index
-excerpt: "An archive of posts sorted by tag."
+excerpt: "An list of posts sorted by tag."
+hidelogo: true
 search_omit: true
 ---
+<figure>
+    <img src="/images/tags.png" alt="tags-Image" class="center"/>
+</figure>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
@@ -14,10 +18,6 @@ search_omit: true
     <li><a href="#{{ this_word }}">{{ this_word }} <span>{{ site.tags[this_word].size }}</span></a></li>
   {% endunless %}{% endfor %}
 </ul>
-
-<figure>
-    <img src="/images/tags.png" alt="tags-Image" class="center"/>
-</figure>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
