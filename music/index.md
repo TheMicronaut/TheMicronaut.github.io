@@ -6,8 +6,9 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="/images/music-notes.png" alt="music-notes-image" class="center"/>
+    <img src="/images/dancing-man.gif" alt="dancing-man-image" class="center"/>
 </figure>
+<div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.music.xml" target="_blank">music feed</a></div><br/>
 
 <ul class="post-list">
 {% for post in site.categories.music %}

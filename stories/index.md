@@ -6,8 +6,9 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="/images/book.png" alt="book-image" class="center"/>
+    <img src="/images/reading-man.gif" alt="reading-man-image" class="center"/>
 </figure>
+<div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.stories.xml" target="_blank">stories feed</a></div><br/>
 
 <ul class="post-list">
 {% for post in site.categories.stories %}

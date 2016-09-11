@@ -8,6 +8,7 @@ search_omit: true
 <figure>
     <img src="/images/quill.png" alt="quill-image" class="center"/>
 </figure>
+<div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.blog.xml" target="_blank">blog feed</a></div><br/>
 
 <ul class="post-list">
 {% for post in site.categories.blog %}
