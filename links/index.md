@@ -6,7 +6,7 @@ hidelogo: true
 modified: 2016-07-16T19:44:38.564948-04:00
 ---
 <figure>
-    <img src="/images/connected.gif" alt="connected-image" class="center"/>
+    <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
 Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...

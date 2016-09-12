@@ -6,7 +6,7 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="/images/quill.png" alt="quill-image" class="center"/>
+    <img src="/images/pen-hand.gif" alt="pen-hand-image" class="center non-selectable"/>
 </figure>
 <div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.blog.xml" target="_blank">blog feed</a></div><br/>
 

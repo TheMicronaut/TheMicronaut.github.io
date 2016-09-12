@@ -6,7 +6,7 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="/images/tags.png" alt="tags-Image" class="center"/>
+    <img src="/images/tags.png" alt="tags-Image" class="center non-selectable"/>
 </figure>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
