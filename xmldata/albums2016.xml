@@ -12,13 +12,23 @@
     <footer></footer>
   </item>
 -->
+ <item>
+    <title>Agnes Obel - Citizen Of Glass</title>
+    <subtitle>October 21, 2016</subtitle>
+    <tags>alternative · folk</tags>
+    <header>http://www.indierockmag.com/IMG/arton27817.jpg</header>
+    <body>upcoming</body>
+    <source></source>
+    <sourcelink></sourcelink>
+    <footer>https://www.youtube.com/embed/32kYH6XZrIo</footer>
+  </item>
   <item>
     <title>The Soonest - Doors to the City</title>
     <subtitle>September 30, 2016</subtitle>
 	<tags>indie rock · alternative rock · ambient rock</tags>
 	<header>http://f4.bcbits.com/img/a3593868060_16.jpg</header>
-	<body></body>
-	<source>not released yet</source>
+	<body>upcoming</body>
+	<source></source>
 	<sourcelink></sourcelink>
 	<footer>http://bandcamp.com/EmbeddedPlayer/album=719738364/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=3687998486/transparent=true/</footer>
   </item>
@@ -27,7 +37,7 @@
     <subtitle>September 30, 2016</subtitle>
 	<tags>alternative · art pop · electronic · experimental folk</tags>
 	<header>https://f4.bcbits.com/img/a3923298497_16.jpg</header>
-	<body>not released yet</body>
+	<body>upcoming</body>
 	<source></source>
 	<sourcelink></sourcelink>
 	<footer>https://bandcamp.com/EmbeddedPlayer/album=3814644699/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1536814754/transparent=true/</footer>
@@ -47,7 +57,7 @@
     <subtitle>September 16, 2016</subtitle>
 	<tags>alt-americana</tags>
 	<header></header>
-	<body>not released yet</body>
+	<body>upcoming</body>
 	<source></source>
 	<sourcelink></sourcelink>
 	<footer>https://www.youtube.com/embed/w1cOH8n1wkI</footer>
@@ -91,6 +101,18 @@
     <source></source>
     <sourcelink></sourcelink>
     <footer>https://bandcamp.com/EmbeddedPlayer/album=1678364406/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1871728494/transparent=true/</footer>
+  </item>
+  <item>
+    <title>Sam Moore &amp; The Bad Palace - The Devil's Fire</title>
+    <subtitle>August 14, 2016</subtitle>
+    <tags>alt-country · acoustic · alternative · folk</tags>
+    <header>http://www.thebadpalace.com/wp-content/uploads/2016/03/front-cover3-300x300.jpg</header>
+    <body>"His inability to sit still and disobedience at being pigeonholed have continued to push Sam's creativity.
+	
+	The challenge for him is to create a unique sound without disregarding any inspirational heritage. To produce music that people can relate to, tap their foot to and be inspired to take a walk in the woods from."</body>
+    <source>thebadpalace.com/bio</source>
+    <sourcelink>http://www.thebadpalace.com/bio/</sourcelink>
+    <footer>https://bandcamp.com/EmbeddedPlayer/album=494534471/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=1206347840/transparent=true/</footer>
   </item>  
   <item>
     <title>Octopus Syng - Hollow Ghost​/​Rochelle Salt</title>
@@ -223,7 +245,7 @@
 	<footer>https://bandcamp.com/EmbeddedPlayer/album=1179748458/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/track=3026356538/transparent=true/</footer>
   </item>
   <item>
-    <title>Tom Rosenthal - The Pleasant Trees (Volumes 1, 2 amp; 3)</title>
+    <title>Tom Rosenthal - The Pleasant Trees (Volumes 1, 2 &amp; 3)</title>
     <subtitle>May 13, 2016</subtitle>
     <tags>alternative · folk</tags>
     <header>https://f4.bcbits.com/img/a3823247448_16.jpg</header>
