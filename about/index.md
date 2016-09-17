@@ -3,6 +3,7 @@ layout: page
 title: What's going on here?
 excerpt: "About Aleh and the Micronaut"
 date: '2015-08-09T00:30:00+01:00'
+enable_chat: true
 ---
 
 Dearest visitor, welcome and thanks for being one,
