@@ -7,7 +7,7 @@ title: 'Life is a Waltz'
 #excerpt: 'xxx'
 date: '2016-07-02T12:58:00+01:00'
 modified: '2016-09-08T19:14:00+02:00'
-tags: [mixcloud, playlist, tracklist, soundscape, waltz]
+tags: [mixcloud, playlist, soundscape, waltz]
 author: Micronaut
 hidelogo: false
 image:
@@ -16,13 +16,13 @@ image:
 ---
 For every moment in life, there is a waltz; and every waltz incarnates an entire life. The odd numbered 3/4 (and its compound 6/8) rhythm is more suited for dance rather than marching, and perhaps there hides its magic.
 
-"Life is a Waltz" is a series of mixtapes, featuring songs written in 3/4 or 6/8 rhythms. There is no restriction on the genre of the songs, although there is a fine bias towards folk and acoustic sounds. The first few volumes are simply raw mixtapes. Through the course of time we realized the potential of mixing sounds (e.g.  vol.7), speech excerpts (e.g. vol.9, vol.12), and poetry (e.g. vol.11, vol.13, vol.14) together with other tracks. Sounds from nature, cities, human activities, or even devices are seamlessly blended with poetry, inspiring speeches, and songs. Thus, these mixtapes have been rendered into something one may call 'soundscapes'. 
+"Life is a Waltz" is a series of mixtapes, featuring songs written in 3/4 or 6/8 rhythms. There is no restriction on the genre of the songs, although there is a fine bias towards folk and acoustic sounds. The first few volumes are just raw mixtapes. Through the course of time we realized the potential of mixing sounds (e.g.  vol.7), speech excerpts (e.g. vol.9, vol.12), and poetry (e.g. vol.11, vol.13, vol.14) together with other tracks. Sounds from nature, cities, human activities, or even devices are seamlessly blended with poetry, inspiring speeches, and songs. Thus, these mixtapes have been rendered into something one may call 'soundscapes'. 
 
 Longing for a cinematic outcome equivalent to motion pictures, the principal incentive is to go against a spirit which is driven and concurred by visual stimuli; to walk, instead, across a path that offers food to the brain by means of auditory stimuli.  Alas, few people will tolerate such a path since in our times the human mind is addicted to visual information, a natural human torque that was boosted with the sovereignty of television over the radio, and matured with the help of the Internet and new technologies.
 
 While listening to these mixes, one will come across popular and delightful ballads only to realize they are actually waltzes. 
 
-<div class="invisible">
+<div class="invisible no-print">
 <figure>
 	<iframe width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/4pyFvguXQV0" frameborder="0">&nbsp;</iframe>
 	<figcaption>Dance in the squares, there is no other way.</figcaption>
