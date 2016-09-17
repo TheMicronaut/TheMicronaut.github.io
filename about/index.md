@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What's going on here?
+title: About this blogbook
 excerpt: "About Aleh and the Micronaut"
 date: '2015-08-09T00:30:00+01:00'
 enable_chat: true
