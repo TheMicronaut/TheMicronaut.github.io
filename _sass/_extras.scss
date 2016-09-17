@@ -265,11 +265,28 @@ iframe {
 // --------------------------------------------------
 #back-top {
     position: fixed;
-    bottom: 0px;
-    right: 0px;
-    margin-bottom: 0px;
-    margin-right: 8px;
     outline: none !important;
+}
+
+#back-top.left { 
+    left: 0px;
+    margin-left: 8px;
+    bottom: 0px;
+    margin-bottom: 0px;	
+}
+
+#back-top.right { 
+    right: 0px;
+    margin-right: 12px;
+    bottom: 0px;
+    margin-bottom: 0px;	
+}
+
+#back-top.right-higher { 
+    right: 0px;
+    margin-right: 12px;
+    bottom: 100px;
+    margin-bottom: 0px;	
 }
 
 #back-top a {
