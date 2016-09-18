@@ -22,9 +22,11 @@
 .entry-feature-image {
 	margin: 20px 0 0;
 	width: 100%;
+
 	@include media($medium) {
 		margin-top: -75px; /* move up to be overlapped by site logo */
 	}
+
 	@include media($large) {
 		margin-top: -145px; /* move up further to be overlapped by site logo */
 	}
@@ -73,9 +75,11 @@ span + .entry-title {
 		color: $black;
 		text-decoration: underline;
 	}
+
 	@include media($medium) {
 		@include font-size(36,yes,36);
 	}
+
 	@include media($large) {
 		@include font-size(46,yes,46);
 	}
@@ -120,6 +124,7 @@ span + .entry-title {
 }
 
 /* author avatar (circular) */
+
 .bio-photo {
 	display: none;
 	//@include media($large) {
@@ -175,6 +180,7 @@ span + .entry-title {
 
 .entry-content {
 	@include span-columns(12);
+
 	p:first-child {
 		margin-top: 0;
 	}
@@ -234,13 +240,16 @@ span + .entry-title {
 
 #home,
 #page {
+
 	.entry-wrapper {
 		max-width: em(760);
 	}
+
 	.entry-title {
 		text-align: center;
 		max-width: 100%;
 	}
+
 	.entry-content {
 		@include span-columns(12);
 	}
@@ -257,20 +266,24 @@ span + .entry-title {
 	padding-left: 0;
 	border: 1px solid $border-color;
 	border-radius: $border-radius;
+
   ul {
   	list-style-type: none;
   	padding-left: 0;
   }
+
   li {
     @include font-size(16,no,18);
     border-bottom: 1px solid $border-color;
     list-style-type: none;
   }
+
   h6 {
     margin: 0;
     padding: (.25 * $gutter) (.5 * $gutter);
     background: $table-stripe-color;
   }
+
   a {
     display: block;
     padding: (.25 * $gutter) (.5 * $gutter);
@@ -306,16 +319,21 @@ span + .entry-title {
 	margin: ((0px + $doc-line-height) / 2) 0;
 	margin: ((0rem + ($doc-line-height / $doc-font-size)) / 2) 0;
 	width: 100%;
+
 	tbody {
+
 		tr:hover > td, tr:hover > th {
 			background-color: $table-hover-color;
 		}
 	}
+
 	thead {
+
 		tr:first-child td {
 			border-bottom: 2px solid $table-border-color;
 		}
 	}
+
 	th {
 		padding: (0px + $doc-line-height) / 2;
 		padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
@@ -325,12 +343,14 @@ span + .entry-title {
 		background-color: $table-header-color;
 		border-bottom: 1px solid darken($border-color, 35%);
 	}
+
 	td {
 		border-bottom: 1px solid $border-color;
 		padding: (0px + $doc-line-height) / 2;
 		padding: (0rem + ($doc-line-height / $doc-font-size)) / 2;
 		@include font-size(18);
 	}
+
 	tr, td, th {
 		vertical-align: middle;
 	}

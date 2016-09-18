@@ -36,17 +36,21 @@
       border-bottom-width: 0; /* remove underlines from items in post indexes */
     }
   }
+
   a > span {
     float: right;
   }
+
   .entry-date {
     @include font-size(18,no);
 	font-family: $quote-font;
     display: none;
+
     @include media($medium) {
       display: inline;
     }
   }
+
   /* post excerpt */
   .excerpt {
     display: block;
@@ -68,12 +72,14 @@
   padding: 4px 0;
   overflow: hidden;
   @include clearfix;
+
   &.inline li {
     float: left;
     @include font-size(16, yes, 12);
     line-height: 1;
 	list-style-type: none;
   }
+
   a {
     padding: 4px 6px;
     margin: 2px;
