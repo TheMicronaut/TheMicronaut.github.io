@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Web radio
-excerpt: "web radio broadcasting"
+title: Web Radio
+excerpt: "live web radio broadcasting"
 hidelogo: true
 #enable_chat: true
 ---
