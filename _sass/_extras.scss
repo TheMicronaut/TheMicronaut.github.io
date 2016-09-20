@@ -142,6 +142,12 @@ iframe, img {
     }
 }
 
+div.center {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 // TODO: for the moment force all iframes to center. 
 //  Later, update all posts to use .center class.
 iframe {
