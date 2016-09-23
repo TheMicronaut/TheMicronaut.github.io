@@ -8,10 +8,12 @@ hidelogo: true
 <figure>
 <img src="/images/dancing-particles.gif" alt="dancing-particles-image" class="center non-selectable"/>
 </figure>
-<script type="text/javascript">var cstrpuid = 397415;var cstrpwidth = "450";var cstrpheight = "300";</script>
+<!-- <script type="text/javascript">var cstrpuid = 397415;var cstrpwidth = "450";var cstrpheight = "300";</script>
 <script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/player.js"></script><a id="cstrplb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrplb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
-<div id="cstrpdiv" class="center"></div>
-
+<div id="cstrpdiv" class="center"></div> -->
+<figure class="center">
+<audio controls autoplay name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn8a90238553c5d55f44829c5edebb269e" type="audio/mpeg"></audio>
+</figure>
 From time to time, Aleh tunes in and  streams his favorite music tracks via the "Glimmer of Sounds" live stream. More info to come soon...
 
 Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-23T19:30:00+02:00"></span>
