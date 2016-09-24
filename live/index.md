@@ -91,7 +91,7 @@ Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-25
 </script>
 
 <script type="text/javascript">
-	var jsmediatags = window.jsmediatags;
+	/*var jsmediatags = window.jsmediatags;
 	//jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
 	jsmediatags.Config.EXPERIMENTAL_avoidHeadRequests();
 	jsmediatags.read("http://web.ist.utl.pt/antonio.afonso/www.aadsm.net/libraries/id3/music/Advent_Chamber_Orchestra_-_05_-_Dvorak_-_Serenade_for_Strings_Op22_in_E_Major_larghetto.mp3", {
@@ -101,5 +101,5 @@ Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-25
 	  onError: function(error) {
 		console.log(error);
 	  }
-	});
+	});*/
 </script>
