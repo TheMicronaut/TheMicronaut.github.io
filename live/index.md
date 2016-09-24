@@ -16,7 +16,7 @@ hidelogo: true
 </figure>
 From time to time, Aleh tunes in and  streams his favorite music tracks via the "Glimmer of Sounds" live stream. More info to come soon...
 
-Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-23T19:30:00+02:00"></span>
+Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-25T19:30:00+02:00"></span>
 
 <div id="clockdiv" class="center non-selectable">
   <div>
@@ -91,19 +91,8 @@ Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-23
 </script>
 
 <script type="text/javascript">
-    //
-	// my stuff
-	//
-	//var myAudio = document.getElementById('my-radio');
-	//console.log(myAudio);
-	//console.log(myAudio.textTracks);
-	//
-	//
-	//
-	var jsmediatags = window.jsmediatags;
-	//jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
-	//jsmediatags.Config.EXPERIMENTAL_avoidHeadRequests();
-	//jsmediatags.Config.setXhrTimeoutInSec(2);
+	/* var jsmediatags = window.jsmediatags;
+	jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
 	jsmediatags.read("http://web.ist.utl.pt/antonio.afonso/www.aadsm.net/libraries/id3/music/Advent_Chamber_Orchestra_-_05_-_Dvorak_-_Serenade_for_Strings_Op22_in_E_Major_larghetto.mp3", {
 	  onSuccess: function(tag) {
 		console.log(tag);
@@ -111,5 +100,5 @@ Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-23
 	  onError: function(error) {
 		console.log(error);
 	  }
-	});	
+	});	*/
 </script>
