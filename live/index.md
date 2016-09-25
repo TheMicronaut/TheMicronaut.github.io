@@ -3,7 +3,7 @@ layout: page
 title: Live Streaming
 excerpt: "live music streaming"
 hidelogo: true
-#enable_chat: true
+enable_chat: true
 ---
 <figure>
 <img src="/images/dancing-particles.gif" alt="dancing-particles-image" class="center non-selectable"/>
