@@ -14,7 +14,12 @@ enable_chat: true
 <figure class="center">
 <audio id="my-radio" controls autoplay name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn8a90238553c5d55f44829c5edebb269e" type="audio/mpeg">Your browser does not support the audio element.</audio>
 </figure>
-From time to time, Aleh tunes in and  streams his favorite music tracks via the "Glimmer of Sounds" live stream. More info to come soon...
+<script type="text/javascript">var cstruid = 397415;var cstrdark = "FALSE";</script>
+<script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/status.js"></script>
+<a id="cstrlb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrlb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
+<div id="cstrdiv"></div>
+
+I hereby share my favorite music moments. "Glimmer of Sounds" is the name of my live stream via caster.fm. You are welcome to tune in, and enoy.
 
 Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-25T19:30:00+02:00"></span>
 
@@ -92,9 +97,9 @@ Next  streaming : <span id="next-streaming" class="quote-text" title="2016-09-25
 
 <script type="text/javascript">
 	/*var jsmediatags = window.jsmediatags;
-	//jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
+	jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
 	jsmediatags.Config.EXPERIMENTAL_avoidHeadRequests();
-	jsmediatags.read("http://web.ist.utl.pt/antonio.afonso/www.aadsm.net/libraries/id3/music/Advent_Chamber_Orchestra_-_05_-_Dvorak_-_Serenade_for_Strings_Op22_in_E_Major_larghetto.mp3", {
+	jsmediatags.read("URL_TO_MP3_STREAM", {
 	  onSuccess: function(tag) {
 		console.log(tag);
 	  },
