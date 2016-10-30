@@ -1,0 +1,36 @@
+// TYPOGRAPHY ================================================
+@font-face {
+    font-family: 'gfs-artemisia_regular';
+    src: url('../fonts/gfs-artemisia/gfsartemisia.eot');
+    src: url('../fonts/gfs-artemisia/gfsartemisia.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/gfs-artemisia/gfsartemisia.woff2') format('woff2'),
+         url('../fonts/gfs-artemisia/gfsartemisia.woff') format('woff'),
+         url('../fonts/gfs-artemisia/gfsartemisia.ttf') format('truetype'),
+         url('../fonts/gfs-artemisia/gfsartemisiasvg#gfs_artemisiaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gfs-artemisia_italic';
+    src: url('../fonts/gfs-artemisia/gfsartemisia-italic.eot');
+    src: url('../fonts/gfs-artemisia/gfsartemisia-italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/gfs-artemisia/gfsartemisia-italic.woff2') format('woff2'),
+         url('../fonts/gfs-artemisia/gfsartemisia-italic.woff') format('woff'),
+         url('../fonts/gfs-artemisia/gfsartemisia-italic.ttf') format('truetype'),
+         url('../fonts/gfs-artemisia/gfsartemisia-italic.svg#gfs_artemisiaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'zallman_capsregular';
+    src: url('../fonts/eb-garamond-0016/zallmancaps-webfont.eot');
+    src: url('../fonts/eb-garamond-0016/zallmancaps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.woff2') format('woff2'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.woff') format('woff'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.ttf') format('truetype'),
+         url('../fonts/eb-garamond-0016/zallmancaps-webfont.svg#zallman_capsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

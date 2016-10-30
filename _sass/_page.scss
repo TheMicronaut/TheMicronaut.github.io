@@ -54,8 +54,8 @@
       padding: 0px 5px;
       &:hover {
         background-color: #f1f1f1;
-      }  
-    }	
+    }
+  }
 }
 
 /* page title */
@@ -190,19 +190,9 @@ span + .entry-title {
 	/* nice link underlines */
   p > a,
 	li > a {
-		//display: inline-block;
-		position: relative;
-		&:after {
-		  content: '';
-		  position: absolute;
-		  left: 0;
-		  display: inline-block;
-		  height: 1em;
-		  width: 100%;
-		  border-bottom: 1px dotted lighten($link-color, 50);
-		  margin-top: 3px;
-		}
-		&:hover:after {
+		border-bottom: 1px dotted lighten($link-color, 50);
+
+		&:hover {
 			border-bottom-style: solid;
 		}
 	}
@@ -289,9 +279,7 @@ span + .entry-title {
     padding: (.25 * $gutter) (.5 * $gutter);
     border-left: 2px solid transparent;
     border-bottom: 0 solid transparent;
-	&:after {
-		  content: none !important;
-	}
+
     &:hover,
     &:focus {
       background: lighten($border-color,5);

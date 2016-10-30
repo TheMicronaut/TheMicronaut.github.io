@@ -1,48 +1,11 @@
+@import "font-face";
+
 // TYPOGRAPHY ================================================
-/* This is the default font face used for all browsers. */
-@font-face {
-    font-family: 'eb_garamond12_regular';
-    src: url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.eot');
-    src: url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.woff2') format('woff2'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.woff') format('woff'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.ttf') format('truetype'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-regular-webfont.svg#eb_garamond12_regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* This is the default font face used for all browsers. */
-@font-face {
-    font-family: 'eb_garamond12_italic';
-    src: url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.eot');
-    src: url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.woff2') format('woff2'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.woff') format('woff'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.ttf') format('truetype'),
-         url('../fonts/eb-garamond-0016/ebgaramond12-italic-webfont.svg#eb_garamond12_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* This is the default font face used for all browsers. */
-@font-face {
-    font-family: 'zallman_capsregular';
-    src: url('../fonts/eb-garamond-0016/zallmancaps-webfont.eot');
-    src: url('../fonts/eb-garamond-0016/zallmancaps-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/eb-garamond-0016/zallmancaps-webfont.woff2') format('woff2'),
-         url('../fonts/eb-garamond-0016/zallmancaps-webfont.woff') format('woff'),
-         url('../fonts/eb-garamond-0016/zallmancaps-webfont.ttf') format('truetype'),
-         url('../fonts/eb-garamond-0016/zallmancaps-webfont.svg#zallman_capsregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-$base-font                : 'eb_garamond12_regular', 'eb_garamond12_italic', sans-serif;
-$alt-font                 : 'Philosopher', 'eb_garamond12_regular', sans-serif;
-$heading-font             : 'eb_garamond12_italic', 'eb_garamond12_regular', sans-serif;
-$figcaption-font          : 'eb_garamond12_regular', sans-serif;
-$cap-font                 : 'zallman_capsregular', 'eb_garamond12_regular', sans-serif;
+$base-font                : 'gfs-artemisia_regular', 'gfs-artemisia_italic', sans-serif;
+$alt-font                 : 'Philosopher', 'gfs-artemisia_regular', sans-serif;
+$heading-font             : 'gfs-artemisia_italic', 'gfs-artemisia_regular', sans-serif;
+$figcaption-font          : 'gfs-artemisia_regular', sans-serif;
+$cap-font                 : 'zallman_capsregular', 'gfs-artemisia_regular', sans-serif;
 $imagecredit-font         : $heading-font;
 $quote-font               : $heading-font;
 $code-font                : $alt-font;
