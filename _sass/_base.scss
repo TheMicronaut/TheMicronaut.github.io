@@ -236,7 +236,7 @@ table {
 // --------------------------------------------------
 
 blockquote {
-	font-family: $quote-font;
+	font-family: $blockquote-font;
 	font-style: italic;
 	@include font-size(16);
 	padding-left: 15px;
