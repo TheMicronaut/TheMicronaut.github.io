@@ -45,7 +45,7 @@ body {
 }
 
 p {
-	@include font-size(22,yes,16);
+	@include font-size(18,yes,28);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
@@ -60,7 +60,7 @@ ol > li {
 }
 
 li {
-	@include font-size(22,8,16);
+	@include font-size(18,12,24);
 	@media print {
 		@include font-size(20,yes,12);
 	 }
@@ -74,27 +74,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	@include font-size(40);
-}
-
-h2 {
 	@include font-size(36);
 }
 
-h3 {
+h2 {
 	@include font-size(32);
 }
 
-h4 {
+h3 {
 	@include font-size(28);
 }
 
-h5 {
+h4 {
 	@include font-size(24);
 }
 
-h6 {
+h5 {
 	@include font-size(20);
+}
+
+h6 {
+	@include font-size(18);
 }
 
 /* underlined text */
@@ -192,8 +192,8 @@ figcaption {
     padding-right: 2 * $gutter;
     font-family: $figcaption-font;
     font-style: italic;
-    font-weight: 200;
-    @include font-size(13,no,15);
+    font-weight: 300;
+    @include font-size(15,no,15);
     color: $text-color;
     text-align: center;
     clear: both;
