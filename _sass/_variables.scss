@@ -4,7 +4,7 @@
 $base-font                : 'gfs-artemisia_regular', 'gfs-artemisia_italic', sans-serif;
 $alt-font                 : 'Philosopher', 'gfs-artemisia_regular', sans-serif;
 $heading-font             : 'gfs-artemisia_italic', 'gfs-artemisia_regular', sans-serif;
-$figcaption-font          : 'gfs-artemisia_regular', sans-serif;
+$figcaption-font          : $base-font;
 $cap-font                 : 'zallman_capsregular', 'gfs-artemisia_regular', sans-serif;
 $imagecredit-font         : $heading-font;
 $blockquote-font          : 'gfs-artemisia_bolditalic', 'gfs-artemisia_regular', sans-serif;
