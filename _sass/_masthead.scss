@@ -63,7 +63,6 @@
 
 .site-title {
   font-family: $heading-font;
-  font-style: italic;
   margin-bottom: 0;
   @include animation-duration(1s);
   @include animation-delay(.75s);

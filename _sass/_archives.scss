@@ -41,8 +41,8 @@
   }
 
   .entry-date {
-    @include font-size(18,no);
-    font-family: $heading-font;
+    @include font-size(14,no);
+    text-transform: uppercase;
     display: none;
 
     @include media($medium) {
