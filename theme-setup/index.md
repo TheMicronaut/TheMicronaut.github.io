@@ -333,7 +333,8 @@ The only thing to look out for is the escaping of the backslash when using markd
 {:.notice}
 
 ##### Typography
-Since I needed content in both English and Greek, we had to choose nice fonts that support both languages without jeopardizing the layout. I decided to adopt the EB Garamond fonts by designer [Georg Duffner](http://www.georgduffner.at/ebgaramond/index.html){:target="_blank"}. EB Garamond is free software under the terms of the SIL Open Fonts License (ofl). For the inital paragraph letters, I chose not the use EB Garamond style, due to the work-in-progress nature and the fact that only few letters are currently supported; therefore I went for another font series named "Zallmancaps". The webfonts are all installed on the repository, to decouple the dependencies with webfont platforms, such as google fonts or fonts squirrel. Last but not least, I make limited use the 'Philosopher' webfonts for the menus, buttons, some headers, and footer notes.
+Since I needed content in both English and Greek, we had to choose nice fonts that support both languages without jeopardizing the layout. I decided to adopt the [GFS Artemisia](https://www.ctan.org/pkg/gfsartemisia){:target="_blank"} fonts. GFS Artemisia is a relatively modern font, designed as a general purpose font in the same sense as Times is nowadays treated. The present version has been provided by the Greek Font Society and is under the terms of a free License. For the inital paragraph letters, I chose another font series named "Zallmancaps". The webfonts are all available on the github repository, so as to decouple the dependencies with webfont platforms, such as google fonts or fonts squirrel. Last but not least, I make limited use the 'Philosopher' webfonts for the menus, buttons, some headers, and footer notes.
+
 
 ##### Capital Letter in paragraphs
 You can start a paragraph with a capital letter as in the example below. The capital letter shoud be nested inside a `<span class="dcap">T</span>` markup. 
@@ -436,20 +437,28 @@ See a [live demo](/music/new-albums-2016/){:target="_blank"} of this feature. In
  
 Since I haven't tested this feature for other templates other than my own, I would be very delighted to receive your suggestions for improvements.
  
-##### Central quotes
+##### Central and inline quotes
 This is the official rendering of a `blockquote`  by the so-simple theme:
 
 > &ldquo; This is a blockquote &rdquo;
 >
 > -- <cite>Aleh</cite>
  
- Note that one has to manually add the quotation characters. There is a reasoning behind this, and I assume this is because of the `cite` mess (should be outside the quotations). The current implementation is satisfactory and thus no modifications are done for blockquotes. Next to the blockquotes, Aleh has added the central-quote element which can be used as following:
+ Note that one has to manually add the quotation characters. There is a reasoning behind this, and I assume this is because of the `cite` mess (should be outside the quotations). The current implementation is satisfactory and thus no modifications are done for blockquotes. Next to the blockquotes, this modified theme supports the central-quote element which can be used as following:
 
 ```html
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
 ```
-
 <div class="central-quote">You should see two dividers on top and the bottom of this central-quote.</div>
+
+Moreover, you may use inline quotes as following:
+
+```html
+This quote is an <span class="inline-quote">inline quote</span>, and thus should be displayed inline with the paragraph.
+```
+which renders into something like:
+
+This quote is an <span class="inline-quote">inline quote</span>, and thus should be displayed inline with the paragraph.
 
 ##### Text divider
  You can divide pieces of text by means of the text divider. The following html syntax can be used within markdown, similar to the central quote and other html markups:

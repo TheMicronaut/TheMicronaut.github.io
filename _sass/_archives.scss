@@ -42,7 +42,7 @@
 
   .entry-date {
     @include font-size(18,no);
-    font-family: $quote-font;
+    font-family: $heading-font;
     display: none;
 
     @include media($medium) {
@@ -66,7 +66,7 @@
    ========================================================================== */
 
 .tag-box {
-  font-family: $quote-font;
+  font-family: $heading-font;
   list-style: none;
   margin: 0;
   padding: 4px 0;

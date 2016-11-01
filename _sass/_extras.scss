@@ -34,7 +34,7 @@
 	color: #000; 
 	display: block; 
 	float: left; 
-	font-family:  $cap-font;
+	font-family:  $capital-font;
 	font-size: 95px; 
 	font-weight: 400;
 	height: 75px; 
@@ -49,7 +49,7 @@ div .central-quote {
         url(/images/divider-bottom.png) bottom center no-repeat;
     background-size: contain;
     color: #222;
-    font-family:  $blockquote-font;
+    font-family:  $quote-font;
     font-style: italic;	
     line-height: 1.2em; 
 	padding: 30px 30px 40px;
@@ -69,9 +69,9 @@ div .central-quote {
     }
 }
 
-// Quote text
+// Inline quote
 // --------------------------------------------------
-.quote-text {
+.inline-quote {
 	font-family: $quote-font;
     font-style: italic;
     @include font-size(14);
@@ -107,7 +107,7 @@ div .central-quote {
   top : -18px;
   padding : 0 6px;
   font-size : 24px;
-  font-family: $quote-font;
+  font-family: $heading-font;
   font-style: italic;
   display: inline; 
   background-color: $body-color;
@@ -385,7 +385,7 @@ iframe {
 	width: 300px;
 	height: 300px;
 	padding: 15px;
-	font-family: $quote-font;
+	font-family: $heading-font;
 	font-style: italic;
 	text-align: left;
 	@include font-size(16,no,15);
