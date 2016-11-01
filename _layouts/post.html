@@ -21,7 +21,9 @@
     {% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
-        <span class="entry-tags">{% if page.tags %}<i class="fa fa-tags"></i>{% endif %}{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a>{% unless forloop.last %}&bull;{% endunless %}{% endfor %}</span>
+        <ul class="entry-tags">
+         {% if page.tags %}<i class="fa fa-tags"></i>&nbsp;{% endif %}{% for tag in page.tags %}<li><a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}">{{ tag }}</a></li>{% endfor %}
+        </ul>
         {% if page.link %}
           <h1 class="entry-title"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %} <span class="link-arrow">&rarr;</span></a></h1>
         {% else %}
@@ -43,8 +45,8 @@
       </footer>
       <div class="entry-content">
         {{ content }}
-		{% if page.pollid %} <div id="poll">{% include polls/poll-{{page.pollid}}.html %}</div> {% endif %}
-		{% if page.relatedposts %}{% include related-posts.html %}{% endif %}	
+        {% if page.pollid %} <div id="poll">{% include polls/poll-{{page.pollid}}.html %}</div> {% endif %}
+        {% if page.relatedposts %}{% include related-posts.html %}{% endif %}	
         {% if site.owner.disqus-shortname and page.comments or site.comments %}
             <div id="comments">
                 <h2 id="comments-title" class="comment-toggle"><i class="fa fa-comments-o"></i>&nbsp;&nbsp;Leave your Message here...</h2>
