@@ -44,11 +44,12 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; 
-  //text-shadow: 0 0 0 rgba(0, 0, 0, 1);
-  @media screen {
-    -webkit-text-stroke: 0.1px #000;
-  }
+  transform: translate3d(0, 0, 0);
+  //@media screen {
+     //-moz-osx-font-smoothing: grayscale;
+     //-webkit-text-stroke: 0.1px #000;
+     //text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+  //}
 }
 
 // Apply focus state
