@@ -76,11 +76,11 @@ $timeline-color: #222;
 				padding: 8px;
 				background: $timeline-color;
 				color: #fff;
-				margin: -20px -20px 0 -20px;
+				margin: -20px -20px 10px -20px;
 				font-family: $heading-font;
 				font-weight: 400;
-				font-size: 1.5rem;
-				line-height: 1.2;
+				font-size: 1.4rem;
+				line-height: 1;
 				@include prefix(border-radius, 3px 3px 0 0);
 			}
 			h3 {
@@ -90,10 +90,10 @@ $timeline-color: #222;
 				font-size: 0.87rem;
 			}
 			p { 
-				font-size: 1.1rem;
+				font-size: 1rem;
 				margin-top: 0.5rem;
 				margin-bottom: 0.5rem;
-				font-family: $heading-font;
+				font-style: italic;
 			} 
 			p#tags { 
 				display: block;
