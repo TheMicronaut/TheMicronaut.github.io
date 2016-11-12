@@ -272,27 +272,26 @@ iframe {
 #back-top {
     position: fixed;
     outline: none !important;
+	font-size: 1.5rem;
+	margin-bottom: 0px;
 }
 
 #back-top.left { 
     left: 0px;
     margin-left: 8px;
     bottom: 0px;
-    margin-bottom: 0px;	
 }
 
 #back-top.right { 
     right: 0px;
     margin-right: 12px;
     bottom: 0px;
-    margin-bottom: 0px;	
 }
 
 #back-top.right-higher { 
     right: 0px;
     margin-right: 12px;
     bottom: 100px;
-    margin-bottom: 0px;	
 }
 
 #back-top a {
