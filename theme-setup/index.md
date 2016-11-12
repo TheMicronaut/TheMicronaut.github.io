@@ -498,7 +498,7 @@ enable_chat: true
 ---
 ```
 
-Needless to say that in order to use the plugin, you need to specify your Tawkto siteID in the `_config.yml` file; the latter implies that you need a Tawkto account (which, by the way is free of change). 
+Needless to say that in order to use the plugin, you need to specify your Tawkto siteID in the `_config.yml` file; the latter implies that you need a Tawkto account (which, by the way is free of charge). 
 
 ---
 
