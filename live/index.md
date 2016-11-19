@@ -14,7 +14,7 @@ enable_chat: true
 <div id="cstrpdiv" class="center"></div>
 <!-- default html5 audio player, alas does not provide streaming metadata; yet runs on android-->
 <figure id="my-radio-player" class="center">
-<audio controls autoplay name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn8a90238553c5d55f44829c5edebb269e" type="audio/mpeg">Your browser does not support the audio element.</audio>
+<audio controls autoplay name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn15da03834676e88b4364762862dcbbd7" type="audio/mpeg">Your browser does not support the audio element.</audio>
 </figure>
 <!-- keep one of the players, depending on os-->
 <script type="text/javascript">
