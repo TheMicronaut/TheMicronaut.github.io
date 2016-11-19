@@ -46,11 +46,9 @@ Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-
 	var playerToRemove;
 	if(isAndroid) {
         playerToRemove = document.getElementById('cstrpdiv');
-        var msg = "Unfortunately caster.fm does not provide an audio plugin for android... So, you may only listen to this live stream via my caster.fm page (click on the link).";
+        var msg = "Unfortunately caster.fm does not provide a free audio plugin for Android... So, you may only listen to this live stream via my caster.fm page (click on the link).";
 	    document.getElementById('android-msg').innerHTML = msg;
-	} else {
-		document.getElementById('android-msg').innerHTML = "You are not an android user.";
-	} 
+	}
 	if (playerToRemove != null) {
 	playerToRemove.parentNode.removeChild(playerToRemove);
 	}
