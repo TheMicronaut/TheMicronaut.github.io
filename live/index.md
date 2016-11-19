@@ -17,7 +17,7 @@ enable_chat: true
 <audio controls name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn15da03834676e88b4364762862dcbbd7" type="audio/mpeg">Your browser does not support the audio element.</audio>
 </figure> -->
 <!-- keep one of the players, depending on os-->
-I hereby share my favorite music moments. "Glimmers of Sounds" is the name of my live stream hosted by [caster.fm](http://moonlight.caster.fm/){:target="_blank"}. You are welcome to tune in, and enjoy. <span id="android-msg"></span>
+I hereby share my favorite music moments. "Glimmer of Sounds" is the name of my live stream hosted by [caster.fm](http://moonlight.caster.fm/){:target="_blank"}. You are welcome to tune in, and enjoy. <span id="android-msg"></span>
 
 Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-25T19:30:00+02:00"></span>
 
