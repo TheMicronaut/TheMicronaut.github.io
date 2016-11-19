@@ -13,24 +13,11 @@ enable_chat: true
 <script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/player.js"></script><a id="cstrplb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrplb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
 <div id="cstrpdiv" class="center"></div>
 <!-- default html5 audio player, alas does not provide streaming metadata; yet runs on android-->
-<figure id="my-radio-player" class="center">
+<!-- <figure id="my-radio-player" class="center">
 <audio controls name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn15da03834676e88b4364762862dcbbd7" type="audio/mpeg">Your browser does not support the audio element.</audio>
-</figure>
+</figure> -->
 <!-- keep one of the players, depending on os-->
-<script type="text/javascript">
-	var ua = navigator.userAgent.toLowerCase();
-	var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
-	var playerToRemove;
-	if(isAndroid) {
-	  playerToRemove = document.getElementById('cstrpdiv');
-	} else {
-	  playerToRemove = document.getElementById('my-radio-player');
-	}
-	if (playerToRemove != null) {
-	playerToRemove.parentNode.removeChild(playerToRemove);
-	}
-</script>
-I hereby share my favorite music moments. "Glimmers of Sounds" is the name of my live stream hosted by [caster.fm](http://moonlight.caster.fm/){:target="_blank"}. You are welcome to tune in, and enjoy.
+I hereby share my favorite music moments. "Glimmers of Sounds" is the name of my live stream hosted by [caster.fm](http://moonlight.caster.fm/){:target="_blank"}. You are welcome to tune in, and enjoy. <span id="android-msg"></span>
 
 Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-25T19:30:00+02:00"></span>
 
@@ -52,6 +39,22 @@ Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-
     <div class="smalltext">Seconds</div>
   </div>
 </div>
+
+<script type="text/javascript">
+	var ua = navigator.userAgent.toLowerCase();
+	var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+	var playerToRemove;
+	if(isAndroid) {
+        playerToRemove = document.getElementById('cstrpdiv');
+        var msg = "Unfortunately caster.fm does not provide an audio plugin for android... So, you may only listen to this live stream via my caster.fm page (click on the link).";
+	    document.getElementById('android-msg').innerHTML = msg;
+	} else {
+		document.getElementById('android-msg').innerHTML = "You are not an android user.";
+	} 
+	if (playerToRemove != null) {
+	playerToRemove.parentNode.removeChild(playerToRemove);
+	}
+</script>
 
 <script type="text/javascript">
     var streamdate = document.getElementById('next-streaming');
