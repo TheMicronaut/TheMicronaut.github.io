@@ -8,14 +8,29 @@ enable_chat: true
 <figure>
 <img src="/images/dancing-particles.gif" alt="dancing-particles-image" class="center non-selectable"/>
 </figure>
+<!-- casterfm audio player, alas does not run on android-->
 <script type="text/javascript">var cstrpuid = 397415;var cstrpwidth = "450";var cstrpheight = "300";</script>
 <script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/player.js"></script><a id="cstrplb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrplb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
 <div id="cstrpdiv" class="center"></div>
-<!-- default html5 audio player, alas does not provide streaming metadata -->
-<!--<figure class="center">
-<audio id="my-radio" controls autoplay name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn8a90238553c5d55f44829c5edebb269e" type="audio/mpeg">Your browser does not support the audio element.</audio>
-</figure> -->
-I hereby share my favorite music moments. "Glimmers of Sounds" is the name of my live stream hosted by caster.fm. You are welcome to tune in, and enjoy.
+<!-- default html5 audio player, alas does not provide streaming metadata; yet runs on android-->
+<figure id="my-radio-player" class="center">
+<audio controls autoplay name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn8a90238553c5d55f44829c5edebb269e" type="audio/mpeg">Your browser does not support the audio element.</audio>
+</figure>
+<!-- keep one of the players, depending on os-->
+<script type="text/javascript">
+	var ua = navigator.userAgent.toLowerCase();
+	var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
+	var playerToRemove;
+	if(isAndroid) {
+	  playerToRemove = document.getElementById('cstrpdiv');
+	} else {
+	  playerToRemove = document.getElementById('my-radio-player');
+	}
+	if (playerToRemove != null) {
+	playerToRemove.parentNode.removeChild(playerToRemove);
+	}
+</script>
+I hereby share my favorite music moments. "Glimmers of Sounds" is the name of my live stream hosted by [caster.fm](http://moonlight.caster.fm/){:target="_blank"}. You are welcome to tune in, and enjoy.
 
 Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-25T19:30:00+02:00"></span>
 
@@ -91,6 +106,7 @@ Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-
 	initializeClock('clockdiv', deadline);
 </script>
 
+<!-- This has CORS issues
 <script type="text/javascript">
 	/*var jsmediatags = window.jsmediatags;
 	jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
@@ -104,3 +120,4 @@ Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-
 	  }
 	});*/
 </script>
+-->
