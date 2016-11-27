@@ -8,19 +8,18 @@ enable_chat: true
 <figure>
 <img src="/images/dancing-particles.gif" alt="dancing-particles-image" class="center non-selectable"/>
 </figure>
-<div class="radionomy-player"></div>
-Through "Glimmer of Sounds", our music radio stream hosted by [radionomy.com](http://glimmerofsounds.playtheradio.com/){:target="_blank"}, we share our favourite music. You are most welcome to tune in. This stream is mainly scheduled playlists, but every now and then, I do make some time for a live broadcast.
-
-Next live broadcast: <span id="next-streaming" class="inline-quote" title="2016-09-25T19:30:00+02:00"></span>
-
 <script>(function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
 radplayer('url', 'glimmerofsounds');
-radplayer('type', 'horizontal');
+radplayer('type', 'mobile');
 radplayer('autoplay', '1');
 radplayer('volume', '50');
 radplayer('color1', '#ffffff');
 radplayer('color2', '#000000');
 </script>
+<div class="radionomy-player"></div>
+Through "Glimmer of Sounds", our music radio stream hosted by [radionomy.com](http://glimmerofsounds.playtheradio.com/){:target="_blank"}, we share our favourite music. You are most welcome to tune in. This stream is mainly scheduled playlists, but every now and then, I do make some time for a live broadcast.
+
+Next live broadcast: <span id="next-streaming" title="2016-09-25T19:30:00+02:00"></span>
 
 <div id="clockdiv" class="center non-selectable">
   <div>
