@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Live Streaming
+title: Micronaut On Air
 excerpt: "live music streaming"
 hidelogo: true
 enable_chat: true
@@ -8,18 +8,19 @@ enable_chat: true
 <figure>
 <img src="/images/dancing-particles.gif" alt="dancing-particles-image" class="center non-selectable"/>
 </figure>
-<!-- casterfm audio player, alas does not run on android-->
-<script type="text/javascript">var cstrpuid = 397415;var cstrpwidth = "450";var cstrpheight = "300";</script>
-<script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/player.js"></script><a id="cstrplb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrplb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
-<div id="cstrpdiv" class="center"></div>
-<!-- default html5 audio player, alas does not provide streaming metadata; yet runs on android-->
-<!-- <figure id="my-radio-player" class="center">
-<audio controls name="media" preload="metadata"><source src="http://shaincast.caster.fm:30567/listen.mp3?authn15da03834676e88b4364762862dcbbd7" type="audio/mpeg">Your browser does not support the audio element.</audio>
-</figure> -->
-<!-- keep one of the players, depending on os-->
-I hereby share my favorite music moments. "Glimmer of Sounds" is the name of my live stream hosted by [caster.fm](http://moonlight.caster.fm/){:target="_blank"}. You are welcome to tune in, and enjoy. <span id="android-msg"></span>
+<div class="radionomy-player"></div>
+Through "Glimmer of Sounds", our music radio stream hosted by [radionomy.com](http://glimmerofsounds.playtheradio.com/){:target="_blank"}, we share our favourite music. You are most welcome to tune in. This stream is mainly scheduled playlists, but every now and then, I do make some time for a live broadcast.
 
-Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-25T19:30:00+02:00"></span>
+Next live broadcast: <span id="next-streaming" class="inline-quote" title="2016-09-25T19:30:00+02:00"></span>
+
+<script>(function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
+radplayer('url', 'glimmerofsounds');
+radplayer('type', 'horizontal');
+radplayer('autoplay', '1');
+radplayer('volume', '50');
+radplayer('color1', '#ffffff');
+radplayer('color2', '#000000');
+</script>
 
 <div id="clockdiv" class="center non-selectable">
   <div>
@@ -40,19 +41,10 @@ Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-
   </div>
 </div>
 
-<script type="text/javascript">
-	var ua = navigator.userAgent.toLowerCase();
-	var isAndroid = ua.indexOf("android") > -1; //&& ua.indexOf("mobile");
-	var playerToRemove;
-	if(isAndroid) {
-        playerToRemove = document.getElementById('cstrpdiv');
-        var msg = "Unfortunately caster.fm does not provide a free audio plugin for Android... So, you may only listen to this live stream via my caster.fm page (click on the link).";
-	    document.getElementById('android-msg').innerHTML = msg;
-	}
-	if (playerToRemove != null) {
-	playerToRemove.parentNode.removeChild(playerToRemove);
-	}
-</script>
+<figure class="center">
+	<a href="{{ site.external_data_url }}/images/posts/stories/Man-In-Water-Stephen-Sheffield.png"><img src="{{ site.external_data_url }}/images/posts/stories/Man-In-Water-Stephen-Sheffield.png" alt="Man In Water, by Stephen Sheffield" /></a>
+	<figcaption>Photo courtesy: Stephen Sheffield</figcaption>
+</figure>
 
 <script type="text/javascript">
     var streamdate = document.getElementById('next-streaming');
@@ -106,19 +98,3 @@ Next  streaming : <span id="next-streaming" class="inline-quote" title="2016-09-
 	}
 	initializeClock('clockdiv', deadline);
 </script>
-
-<!-- This has CORS issues
-<script type="text/javascript">
-	/*var jsmediatags = window.jsmediatags;
-	jsmediatags.Config.setDisallowedXhrHeaders(['If-Modified-Since', 'Content-Length', 'Content-Range', 'Range']);
-	jsmediatags.Config.EXPERIMENTAL_avoidHeadRequests();
-	jsmediatags.read("URL_TO_MP3_STREAM", {
-	  onSuccess: function(tag) {
-		console.log(tag);
-	  },
-	  onError: function(error) {
-		console.log(error);
-	  }
-	});*/
-</script>
--->
