@@ -118,32 +118,36 @@ $( "#comments" ).click(function() {
             url: "{{ page.xmldata.data }}",
             dataType: "xml",
             success: function(xml) {
-				var counter = 0;
-                $(xml).find('item').each(function() {
-				   // create item
-					var dataitem =xml2jsobj(this);
-					dataitem['alignment'] = (counter % 2 === 0) ? 'right' : '';
-					// TODO:  This hack assumes that iframe is placed in xml's footer tag.
-					var iframetype = "other";
-					var footer = $(this).find('footer').text();
-					if (footer) {
-						if ( footer.indexOf("bandcamp") > -1 ) {
-							iframetype = "bandcamp";
-						} else if (footer.indexOf("soundcloud") > -1) {
-							iframetype = "soundcloud";
-						}
-					}
-					dataitem['iframetype'] = iframetype;
-                   $( "#{{ page.xmldata.template }}" ).tmpl(dataitem).appendTo( "#timeline" );
-				   counter++;
-                });
-				$("#amountxmldata").text(counter);
+                RenderNativeTimeline(xml);
             },
             error: function() {
                 alert("An error occurred while processing XML file.");
             }
         });
     });
+ 
+function RenderNativeTimeline(xml) {
+    var counter = 0;
+	$(xml).find('item').each(function() {
+	   // create item
+		var dataitem =xml2jsobj(this);
+		dataitem['alignment'] = (counter % 2 === 0) ? 'right' : '';
+		// TODO:  This hack assumes that iframe is placed in xml's footer tag.
+		var iframetype = "other";
+		var footer = $(this).find('footer').text();
+		if (footer) {
+			if ( footer.indexOf("bandcamp") > -1 ) {
+				iframetype = "bandcamp";
+			} else if (footer.indexOf("soundcloud") > -1) {
+				iframetype = "soundcloud";
+			}
+		}
+		dataitem['iframetype'] = iframetype;
+	   $( "#{{ page.xmldata.template }}" ).tmpl(dataitem).appendTo( "#timeline" );
+	   counter++;
+	});
+	$("#amountxmldata").text(counter);
+}
 	
 function xml2jsobj(node) {
 	var	data = {};
