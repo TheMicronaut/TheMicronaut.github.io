@@ -209,7 +209,7 @@ function jsObj2TimelineEvent(dataitem) {
         }
         event.media.url = mediaUrl; 
         event.media.caption = (dataitem.tags == null) ? "" : dataitem.tags;
-        event.media.thumbnail = event.background.url;
+        //event.media.thumbnail = event.background.url;
         // 3. event date
         var date = new Date(dataitem.subtitle);
         event.start_date.year = date.getFullYear();
