@@ -200,17 +200,16 @@ function jsObj2TimelineEvent(dataitem) {
         event.background.url =  (dataitem.header == null) ?  "" : dataitem.header;
         // 2. event media
         var mediaUrl = (dataitem.footer == null) ? "" : dataitem.footer;
-        //var footer = $(this).find('footer').text();
         if (GetFrameType(dataitem.footer) ==  "bandcamp") {
-            //if (isMobile.any()) {
-            //    mediaUrl = '<iframe style="border: 0; width: 100%; height: 42px;" src="'+ dataitem.footer+'/size=small/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=false/" seamless></iframe>';
-            //} else {
-                mediaUrl = '<iframe style="border: 0; width: 100%; height: 470px;" src="'+ dataitem.footer+'/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=false/" seamless></iframe>';
+           // if (isMobile.any()) {
+           //     mediaUrl = '<iframe style="border: 0; width: 100%; height: 120px;" src="'+ dataitem.footer+'/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=false/artwork=small/" seamless></iframe>';
+           // } else {
+                mediaUrl = '<iframe style="border: 0; width: 100%; height: 100%" src="'+ dataitem.footer+'/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=false/" seamless></iframe>';
             //}
         }
         event.media.url = mediaUrl; 
         event.media.caption = (dataitem.tags == null) ? "" : dataitem.tags;
-        event.media.thumbnail = mediaUrl;
+        event.media.thumbnail = event.background.url;
         // 3. event date
         var date = new Date(dataitem.subtitle);
         event.start_date.year = date.getFullYear();
