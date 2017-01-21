@@ -155,9 +155,19 @@ tl-timeline .tl-text {
     text-decoration: none !important;
 }
 
-.tl-menubar { visibility: hidden; }
-.tl-timeline:hover .tl-menubar { visibility: visible; }
+.tl-menubar { 
+    //visibility: hidden;
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius:  0 !important;
+}
+//.tl-timeline:hover .tl-menubar { visibility: visible; }
+.tl-menubar-button {
+    padding: 6px !important;
+}
 
-/*.tl-timenav .tl-timenav-line {
-    background-color: #0088cc;
-}*/
+.tl-timenav .tl-timenav-line {
+    display: block !important;
+    &:after {
+        color: #d9d9d9 !important;
+    }
+}
