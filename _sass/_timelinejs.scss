@@ -179,3 +179,9 @@ tl-timeline .tl-text {
         left: -15px !important;
     }
 }
+
+.tl-timemarker .tl-timemarker-content-container {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
