@@ -27,7 +27,7 @@
 .tl-timeline h6 {
     font-family: $heading-font;
     text-transform: none;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 46px;
     line-height: 46px
 }
@@ -47,7 +47,7 @@
 .tl-timeline .tl-media h4,
 .tl-timeline .tl-media h4 a {
     font-family: $base-font;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 24px;
     line-height: 24px
 }
@@ -65,7 +65,7 @@
 .tl-timeline .tl-message,
 .tl-timeline .tl-timegroup-message {
     font-family: $alt-font;
-    font-weight: 700;
+    font-weight: 600;
     text-transform: none
 }
 .tl-timeline .tl-slidenav-next .tl-slidenav-title,
@@ -86,7 +86,7 @@
 }
 .tl-timeline .tl-timenav-slider {
     font-family: $alt-font;
-    font-weight: 700
+    font-weight: 600
 }
 .tl-text-content {
     font-family: $base-font;    
