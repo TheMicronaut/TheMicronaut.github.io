@@ -20,3 +20,13 @@ Micronaut:
   twitter: aleh_tunes
   google:
     plus: AlehMicronaut
+    
+Sorj:
+  name: Sorj the Snail
+  web: http://themicronaut.github.com
+  email: 
+  bio: 
+  avatar: authors/sorj.jpg
+  twitter: aleh_tunes
+  google:
+    plus:
