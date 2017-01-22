@@ -25,7 +25,7 @@
 .tl-timeline h4,
 .tl-timeline h5,
 .tl-timeline h6 {
-    font-family: $heading-font;
+    font-family: $base-font;
     text-transform: none;
     font-weight: 500;
     font-size: 46px;
@@ -37,8 +37,8 @@
 }
 .tl-timeline p {
     font-family: $base-font;
-    font-size: 16px;
-    line-height: 1.3em
+    //font-size: 16px;
+    //line-height: 1.3em
 }
 .tl-timeline ul {
     font-family: $base-font;
@@ -94,7 +94,7 @@
 
 .tl-timeline .tl-timenav-slider h2.tl-headline {
     font-family: $alt-font;
-    font-weight: 800;
+    font-weight: 600 !important;
     text-transform: none;
 }
 .tl-timeline .tl-timenav-slider .tl-timeaxis {
