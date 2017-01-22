@@ -8,11 +8,7 @@
 			{% assign imageUrl = site.external_data_url | append: image %}
 		{% endif %}
 {% else %}
-    {% if page.content contains "<img" %}
-        {% assign imageUrl = page.content | split: ' src="' | last | split:'"' | first %}
-    {% else %}
-        {% assign imageUrl = site.url | append:'/images/' | append: site.logo %}
-    {% endif %}
+	{% assign imageUrl = site.url | append:'/images/' | append: site.logo %}
 {% endif %}
 <!-- Twitter Cards -->
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
