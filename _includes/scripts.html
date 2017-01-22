@@ -134,14 +134,14 @@ $( "#comments" ).click(function() {
 <script type="text/javascript" language="javascript">
     $(document).ready(function() {
         var currentTemplate = "{{ page.xmldata.template }}";
-        var isEmbededTimeline = ( currentTemplate == "timelinejs");
+        var isEmbeddedTimeline = ( currentTemplate == "timelinejs");
         $.ajax({
             type: "GET",
             url: "{{ page.xmldata.data }}",
             dataType: "xml",
             success: function(xml) {
                 var nrOfItems = 0;
-                if  (isEmbededTimeline) {
+                if  (isEmbeddedTimeline) {
                   nrOfItems = RenderEmbeddedTimeline(xml);
                 } else {
                     nrOfItems = RenderNativeTimeline(xml);
