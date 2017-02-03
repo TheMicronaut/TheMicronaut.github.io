@@ -4,6 +4,7 @@ title: Micronaut On Air
 excerpt: "live music streaming"
 hidelogo: true
 enable_chat: true
+search_omit: true
 ---
 <figure>
 <img src="/images/dancing-particles.gif" alt="dancing-particles-image" class="center non-selectable"/>
