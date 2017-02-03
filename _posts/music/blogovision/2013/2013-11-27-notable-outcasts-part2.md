@@ -5,7 +5,7 @@ share: true
 comments: true
 title: 'Blogovision - Notable outcasts from my Top50 (part-2)'
 date: '2013-11-27T22:56:00+01:00'
-tags: [blogovision, blogovision2013]
+tags: [albums, blogovision2013]
 link: http://themicronaut.tumblr.com/post/68300038752/notable-outcasts-part2
 ---
 (check content on tumblr, click on the title of the post)

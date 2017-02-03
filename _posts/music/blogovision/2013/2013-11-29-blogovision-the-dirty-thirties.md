@@ -5,7 +5,7 @@ share: true
 comments: true
 title: 'Blogovision - The Dirty Thirties '
 date: '2013-11-29T21:35:00+01:00'
-tags: [blogovision, blogovision2013]
+tags: [albums, blogovision2013]
 link: http://themicronaut.tumblr.com/post/68488688062/blogovision-the-dirty-thirties
 ---
 (check content on tumblr, click on the title of the post)

@@ -7,7 +7,7 @@ title: 'The Glorious Outcasts - 2014'
 excerpt: "Αυτά είναι τα άλμπουμ που δεν κατάφεραν να χωρέσουν στην φετινή πενηντάδα. Ελπίζω να μην το μετανιώσω..."
 date: '2014-11-26T23:40:00+01:00'
 #modified: '2014-11-26T23:39:00+01:00'
-tags: [blogovision, blogovision2014, albums]
+tags: [albums, blogovision2014]
 redirect_from: "/blog/blogovision2014-the-glorious-outcasts-2014/"
 author: Micronaut
 hidelogo: true

@@ -5,7 +5,7 @@ share: true
 comments: true
 title: 'Blogovision - The Beauty Above 40'
 date: '2013-11-28T20:00:00+01:00'
-tags: [blogovision, blogovision2013]
+tags: [albums, blogovision2013]
 link: http://themicronaut.tumblr.com/post/68384577807/beauty-above-40
 ---
 (check content on tumblr, click on the title of the post)
