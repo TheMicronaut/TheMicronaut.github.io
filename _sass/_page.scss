@@ -43,7 +43,6 @@
 
 .entry-tags {
   display: block;
-  margin: 2em 0 0;
   padding: 0;
   text-transform: uppercase;
   @include font-size(16, no);
@@ -62,7 +61,7 @@
     margin-bottom: 0;
 
     &:before {
-      content: "\2022";
+      content: "\2234";
     }
 
     &:nth-child(-n+2) {
