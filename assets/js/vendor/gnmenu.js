@@ -26,7 +26,7 @@
 
 	gnMenu.prototype = {
 		_init : function() {
-			this.trigger = this.el.querySelector( 'a.gn-icon-menu' );
+			this.trigger = this.el.querySelector( '#nav-icon' );
 			this.menu = this.el.querySelector( 'nav.gn-menu-wrapper' );
 			this.isMenuOpen = false;
 			this.eventtype = mobilecheck() ? 'touchstart' : 'click';
@@ -73,6 +73,7 @@
 		_openMenu : function() {
 			if( this.isMenuOpen ) return;
 			classie.add( this.trigger, 'gn-selected' );
+			classie.add( this.trigger, 'open' );
 			this.isMenuOpen = true;
 			classie.add( this.menu, 'gn-open-all' );
 			this._closeIconMenu();
@@ -80,6 +81,7 @@
 		_closeMenu : function() {
 			if( !this.isMenuOpen ) return;
 			classie.remove( this.trigger, 'gn-selected' );
+			classie.remove( this.trigger, 'open' );
 			this.isMenuOpen = false;
 			classie.remove( this.menu, 'gn-open-all' );
 			this._closeIconMenu();
