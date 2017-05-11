@@ -313,10 +313,10 @@ input.gn-search:focus {
 // Navigation Button
 //
 #nav-icon {
-  width: 50px;
+  width: 70%;
   height: 40px;
   position: relative;
-  margin: 10px auto;
+  margin: 15px auto;
   -webkit-transform: rotate(0deg);
   -moz-transform: rotate(0deg);
   -o-transform: rotate(0deg);
@@ -331,10 +331,10 @@ input.gn-search:focus {
 #nav-icon span {
   display: block;
   position: absolute;
-  height: 9px;
+  height: 6px;
   width: 100%;
-  background: #676767;
-  border-radius: 0;
+  background: $black;
+  border-radius: 3px;
   opacity: 1;
   left: 0;
   -webkit-transform: rotate(0deg);
@@ -352,15 +352,15 @@ input.gn-search:focus {
 }
 
 #nav-icon span:nth-child(2),#nav-icon span:nth-child(3) {
-  top: 18px;
+  top: 13px;
 }
 
 #nav-icon span:nth-child(4) {
-  top: 36px;
+  top: 26px;
 }
 
 #nav-icon.open span:nth-child(1) {
-  top: 18px;
+  top: 13px;
   width: 0%;
   left: 50%;
 }
@@ -380,7 +380,7 @@ input.gn-search:focus {
 }
 
 #nav-icon.open span:nth-child(4) {
-  top: 18px;
+  top: 13px;
   width: 0%;
   left: 50%;
 }
