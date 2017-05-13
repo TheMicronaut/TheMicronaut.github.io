@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archivepage
 categories: [blog]
 title: Blog
 excerpt: "An archive of blog posts sorted by date."
@@ -9,7 +9,6 @@ search_omit: true
 <figure>
     <img src="/images/pen-hand.gif" alt="pen-hand-image" class="center non-selectable"/>
 </figure>
-<div class="no-print pull-right"><i class="fa fa-rss"></i> <a href="/feed.blog.xml" target="_blank">blog feed</a></div><br/>
 
 <ul class="post-list">
 {% for post in site.categories.blog %}
