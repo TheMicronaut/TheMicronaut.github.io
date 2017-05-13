@@ -5,7 +5,7 @@
 .gn-menu-main ul {
 		margin: 0;
 		padding: 0;
-		background: white;
+		background: $navigation-bar-color;
 		color: #5f6f81;
 		list-style: none;
 		text-transform: none;
@@ -38,7 +38,7 @@
 .no-touch .gn-menu li.gn-search-item:hover,
 .no-touch .gn-menu li.gn-search-item:hover a {
     background: #5f6f81;
-    color: white;
+    color: $navigation-bar-color;
 }
 
 .gn-menu-main > li {
@@ -91,7 +91,7 @@
     width: 60px;
     //border-top: 1px solid #c6d0da;
     border-bottom: 1px solid #c6d0da;
-    background: white;
+    background: $navigation-bar-color;
     -webkit-transform: translateX(-60px);
     -moz-transform: translateX(-60px);
     transform: translateX(-60px);
@@ -314,7 +314,7 @@ input.gn-search:focus {
 //
 #nav-icon {
   width: 70%;
-  height: 40px;
+  height: 33px;
   position: relative;
   margin: 15px auto;
   -webkit-transform: rotate(0deg);
