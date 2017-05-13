@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Views & Blog
+categories: [blog]
+title: Blog
 excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true

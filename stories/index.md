@@ -1,5 +1,6 @@
 ---
 layout: page
+categories: [stories]
 title: Stories
 excerpt: "An archive of fictional stories sorted by date."
 hidelogo: true

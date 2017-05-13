@@ -1,5 +1,6 @@
 ---
 layout: page
+categories: [music]
 title: Music
 excerpt: "An archive of posts related to music sorted by date."
 hidelogo: true
