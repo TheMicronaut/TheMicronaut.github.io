@@ -5,11 +5,9 @@ title: Blog
 excerpt: "An archive of blog posts sorted by date."
 hidelogo: true
 search_omit: true
+archive:
+  image: images/pen-hand.gif
 ---
-<figure>
-    <img src="/images/pen-hand.gif" alt="pen-hand-image" class="center non-selectable"/>
-</figure>
-
 <ul class="post-list">
 {% for post in site.categories.blog %}
   <li>

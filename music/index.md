@@ -5,11 +5,9 @@ title: Music
 excerpt: "An archive of music posts sorted by date."
 hidelogo: true
 search_omit: true
+archive:
+  image: images/dancing-man.gif
 ---
-<figure>
-    <img src="/images/dancing-man.gif" alt="dancing-man-image" class="center non-selectable" width="40%"/>
-</figure>
-
 <ul class="post-list">
 {% for post in site.categories.music %}
   <li>

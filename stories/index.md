@@ -5,11 +5,9 @@ title: Stories
 excerpt: "An archive of fictional stories sorted by date."
 hidelogo: true
 search_omit: true
+archive:
+  image: images/reading-man.gif
 ---
-<figure>
-    <img src="/images/reading-man.gif" alt="reading-man-image" class="center non-selectable" width="70%"/>
-</figure>
-
 <ul class="post-list">
 {% for post in site.categories.stories %}
   <li>
