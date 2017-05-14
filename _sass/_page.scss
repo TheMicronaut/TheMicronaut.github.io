@@ -127,6 +127,10 @@ span + .entry-title {
 	padding-left: $gutter;
 }
 
+footer.entry-wrapper {
+    margin-top: 0;
+}
+
 /* page/post meta content (date, author, etc) */
 
 .entry-meta {
