@@ -7,13 +7,13 @@ enable_chat: true
 search_omit: true
 ---
 
-Dearest visitor, welcome and thanks for being one,
+Dearest visitor, thanks for being one and welcome to our blogbook,
 
-I'm a Micronaut and together with my buddy Aleh we are hereby sharing things about [music](/music){:target="_blank"},  [fiction](/stories){:target="_blank"} and sometimes about our [views and daily life](/blog){:target="_blank"}.  You will find content either in English or Greek, depending pretty much on our mood. You will not find much of photos or other sparkling visual pleasures (perhaps only some live concert photoshooting, or a picture if and when needed); the focus here is, therefore, mainly on thoughts and sounds. 
+I'm a micronaut and together with my buddy Aleh we are hereby sharing things about [music](/music){:target="_blank"},  [fiction](/stories){:target="_blank"} and sometimes about our [views and daily life](/blog){:target="_blank"}. In these pages you shall find content sometimes written in English and some others in Greek. Since we focus primarily on sounds and thoughts, you will not be confronted with excessive sparkling visual pleasures.
 
-Aleh studied physics, electrical engineering, and medical informatics. Currently he earns his bread (mine as well) as software engineer in the Healthcare IT sector. But I guess this is not why you are here, is it? At least you will be frustrated to find only traces of technical topics, and always well woven in his stories. You see, Aleh prefers to write fictional stories, but alas his free time is little and precious. He is trying his best, though, for that I can tell.
+Aleh studied physics, electrical engineering, and medical informatics. Currently he earns his bread (mine as well) as software engineer in the Healthcare IT sector. You will not will find only  traces of technical topics he is busy with, and well woven in his stories. Aleh prefers to write fictional stories, but alas his free time is little and precious. He is trying his best though, for that I can tell.
 
-As for myself the Micronaut, I sail the oceans of human minds but most of the time you will find me in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very fastidious when it comes to mainstream pop music, as much as Aleh is. In case you are interested in my music taste, you might better check our [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I assume your first reaction is that  I'm a product of imagination. Maybe you are right dear visitor, but then again I would challenge you to amend your thoughts, as reality and imagination are just different projections of the same mind. The Kwoon's embedded song below narrates the story of my life...
+As for me, the Micronaut, I sail the oceans of human minds but most of the time you will find me in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very fastidious when it comes to mainstream pop music, as much as Aleh is. In case you are interested in my music taste, you might better check our [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I assume your first reaction is that  I'm a product of imagination. Maybe you are right dear visitor, but then again I would challenge you to amend your thoughts, as reality and imagination are just different projections of the same mind. The below embedded song by the French band Kwoon, narrates the story of my life.
 
 Regarding the deployment of this site, we chose one of the most promising blogging platforms to date, that is Jekyll on Github pages. We find it delightful to post simple text files instead of bulky database entries. The chosen theme is the ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael has created an awesome yet simple theme, and he definitely deserves compliments for his work. 
 
@@ -21,7 +21,7 @@ As a proper software engineer would do, Aleh has [modified](/theme-setup/#alehs-
 
 If you wish to contact us, feel free to use one of the links at the bottom (footer).
 
-Welcome to our adventures. Have fun and respect others,<br/>
+Welcome to our adventures. Respect others and have fun,<br/>
 Aleh & the Micronaut
 
 <figure>

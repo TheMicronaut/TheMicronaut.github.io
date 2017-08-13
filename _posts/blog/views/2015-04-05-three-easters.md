@@ -7,7 +7,7 @@ title: 'Ένας ήλιος, ένα φεγγάρι και τρια θαύματ�
 excerpt: 'Απo το Πάσχα των αρχαίων Αιγυπτίων, στο Πάσχα των Εβραίων και αυτό των Χριστιανών'
 date: '2015-04-05T18:50:00+01:00'
 #modified: '2014-11-28T23:39:00+01:00'
-tags: [relegion, paganism, science]
+tags: [religion, science]
 author: Aleh
 hidelogo: true
 image:
