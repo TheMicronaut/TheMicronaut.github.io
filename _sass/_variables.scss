@@ -35,7 +35,7 @@ $accent-color             : $black;
 $link-color               : #222;
 
 $navigation-arrows-color  : #696969;
-$navigation-bar-color     : #fbfbfb;
+$navigation-bar-color     : $body-color;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;
