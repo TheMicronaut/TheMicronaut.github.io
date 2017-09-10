@@ -31,7 +31,7 @@ var isMobile = {
     }
 };
 (function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
-radplayer('url', 'glimmerofsounds');
+radplayer('url', 'glimmeringsounds');
 if( isMobile.any() ) {
   radplayer('type', 'mobile');
 } else {
@@ -43,7 +43,7 @@ radplayer('color1', '#ffffff');
 radplayer('color2', '#000000');
 </script>
 <div class="radionomy-player"></div>
-Through "Glimmer of Sounds", our music radio stream hosted by [radionomy.com](http://glimmerofsounds.playtheradio.com/){:target="_blank"}, we share our favourite music. You are most welcome to tune in. This stream is mainly scheduled playlists, but every now and then, we make some time for a live broadcast.
+Through "Glimmering Sounds", our music radio stream hosted by [radionomy.com](http://www.radionomy.com/en/radio/glimmeringsounds){:target="_blank"}, we share our favourite music. You are most welcome to tune in. This stream is mainly scheduled playlists, but every now and then, we make some time for a live broadcast.
 
 Next live broadcast: <span id="next-streaming" title="2016-09-25T19:30:00+02:00"></span>
 
