@@ -45,7 +45,7 @@ radplayer('color2', '#000000');
 <div class="radionomy-player"></div>
 Through "Glimmering Sounds", our music radio stream hosted by [radionomy.com](http://www.radionomy.com/en/radio/glimmeringsounds){:target="_blank"}, we share our favourite music. You are most welcome to tune in. This stream is mainly scheduled playlists, but every now and then, we make some time for a live broadcast.
 
-Next live broadcast: <span id="next-streaming" title="2016-09-25T19:30:00+02:00"></span>
+<!-- Next live broadcast: <span id="next-streaming" title="2016-09-25T19:30:00+02:00"></span>
 
 <div id="clockdiv" class="center non-selectable">
   <div>
@@ -64,7 +64,8 @@ Next live broadcast: <span id="next-streaming" title="2016-09-25T19:30:00+02:00"
     <span class="seconds"></span>
     <div class="smalltext">Seconds</div>
   </div>
-</div>
+</div> 
+-->
 
 <figure class="center">
 	<a href="{{ site.external_data_url }}/images/posts/stories/Man-In-Water-Stephen-Sheffield.png"><img src="{{ site.external_data_url }}/images/posts/stories/Man-In-Water-Stephen-Sheffield.png" alt="Man In Water, by Stephen Sheffield" /></a>
