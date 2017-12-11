@@ -24,6 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-paginate
+  - jemoji
 
 kramdown:
   input: GFM
