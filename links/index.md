@@ -16,7 +16,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 * [Stationary Travels](https://stationarytravels.wordpress.com){:target="_blank"}  [EN]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
-* [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
+* [Pretty Visitors](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
 * [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Stenography of Emotion](http://bppremiera.blogspot.com/){:target="_blank"}  [EN]
