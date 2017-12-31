@@ -184,11 +184,13 @@ function RenderEmbeddedTimeline(xml) {
       var additionalOptions = {
         start_at_end: true,
         dragging: true,
-        scale_factor: 10,
-        initial_zoom: 2,
-        duration: 600,
+        scale_factor: 5,
+        //zoom_sequence: [0.5, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89],
+        initial_zoom: 4,
+        duration: 400,
         //slide_padding_lr: 90,
-        hash_bookmark: true
+        hash_bookmark: true,
+        ga_property_id: '{{ site.owner.google.analytics }}'
       }	
     timeline = new TL.Timeline('timeline-js', jsonItems, additionalOptions);
     return counter;
