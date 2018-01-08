@@ -448,7 +448,7 @@ Here is an example of a YAML front-matter:
 ```yaml
 ---
  xmldata: 
-  data: /xmldata/albums2016.xml
+  data: /xmldata/albums/albums2016.xml
   template: timelinetemplate
 ---
 ```
