@@ -36,7 +36,7 @@ $accent-color             : $black;
 $link-color               : #222;
 
 $navigation-arrows-color  : #696969;
-$navigation-bar-color     : $body-color;
+$navigation-bar-color     : #fbfbfb;
 
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;
@@ -62,6 +62,13 @@ $mixcloud-color           : #273a4b;
 $soundcloud-color         : #ff3a00;
 $lastfm-color             : #c3000c;
 $github-color             : #000000;
+
+
+$primary-color            : #000 !default;
+$success-color            : #62c462 !default;
+$warning-color            : #f89406 !default;
+$danger-color             : #ee5f5b !default;
+$info-color               : #52adc8 !default;
 
 // MEDIA QUERIES ==============================================
 $micro                    : "only screen and (min-width: 30em)";
