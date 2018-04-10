@@ -27,6 +27,9 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+# Add you collections here.
+collections:
+
 kramdown:
   input: GFM
   auto_ids: true
