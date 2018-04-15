@@ -2,7 +2,7 @@
 layout: page
 title: VIEWS
 categories: [views]
-permalink: 'views'
+permalink: '/views/'
 search_omit: true
 hidelogo: true
 ---

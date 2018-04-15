@@ -2,7 +2,7 @@
 layout: page
 title: BLOGOVISION
 categories: [blogovision]
-permalink: 'blogovision'
+permalink: '/blogovision/'
 search_omit: true
 hidelogo: true
 ---
