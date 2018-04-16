@@ -397,3 +397,63 @@ iframe {
 .boxed:hover figcaption {
 	opacity: 1;
 }
+
+// Clock
+// --------------------------------------------------
+#clock {
+  font-family: "Philosopher";    
+  position: relative; // absolute;
+  width: 100%; // 460px;
+  height: 460px;
+  z-index: 1;
+  background: url(/images/ouroboros-white-transparent.png) center no-repeat;
+  background-size: 65%;
+}
+
+#clock ul {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  top: 47%;
+  left: 49%;
+  width: 20px;
+  height: 20px;
+}
+
+#s,#m,#h {
+  transform: rotateZ(0deg);
+ transition: all .5s cubic-bezier(0.5, -0.5, 0.500, 0.5);
+}
+
+#clock li {
+  position: absolute;
+  list-style-type: none;  
+  transition: all .25s;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: right;
+  opacity: 0.2;
+  transform-origin: 50%;
+  transition: all .25s linear .25s 
+}
+
+#clock li::after {
+  
+}
+
+#clock li.active {
+  color: $black;
+  opacity: 1;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+@keyframes pulse {
+  0%,50%  {
+    opacity: 1
+  }
+  51%,100% {
+    opacity: 0
+  }
+}

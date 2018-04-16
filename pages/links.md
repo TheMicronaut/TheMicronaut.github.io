@@ -6,6 +6,7 @@ hidelogo: true
 #modified: 2016-07-16T19:44:38.564948-04:00
 enable_chat: true
 search_omit: true
+permalink: '/links/'
 ---
 <figure>
     <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
