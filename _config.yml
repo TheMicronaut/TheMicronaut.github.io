@@ -27,6 +27,9 @@ plugins:
   - jekyll-paginate
   - jemoji
 
+
+collections_dir: docs
+  
 # Add you collections here.
 collections:
 
