@@ -1,0 +1,5 @@
+---
+permalink: /feed.albums.xml
+sitemap: false
+---
+{% include category-feed.xml postlist=site.categories.albums taxonomy='albums' %}

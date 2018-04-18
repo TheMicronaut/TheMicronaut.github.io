@@ -2,7 +2,7 @@
 layout: page
 title: ALBUMS
 categories: [albums]
-permalink: '/albums/'
+permalink: /albums/
 search_omit: true
 hidelogo: true
 ---
