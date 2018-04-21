@@ -5,7 +5,7 @@ excerpt: "About Aleh and the Micronaut"
 date: '2015-08-09T00:30:00+01:00'
 enable_chat: true
 search_omit: true
-permalink: '/about/'
+permalink: /about/
 ---
 
 Dearest visitor, thanks for being one and welcome to our blogbook,
