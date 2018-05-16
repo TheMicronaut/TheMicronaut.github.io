@@ -27,8 +27,18 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-
 collections_dir: docs
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
   
 # Add you collections here.
 collections:
