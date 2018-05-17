@@ -50,7 +50,7 @@ relatedposts:
 
  Στο video που ακολουθεί μπορεί κάποιος ν' ακούσει το (full length) track των City το οποίο απαρτίζεται από 3 αλληλένδετα μέρη, τα πρώτα δυο εκ των οποίων (Ι. Traum & II. Tagtraum) αποτελούν την εισαγωγή στο τρίτο κομμάτι (06:32) πάνω στο οποίο είναι μελοποιημένο το Am Fenster. Λεπτομέρειες στα ελληνικά για την ιστορία του τραγουδιού μπορεί κανείς να διαβάσει [εδώ](http://studenigma.blogspot.gr/2011/01/city-am-fenster.html){:target="_blank"}.
 
-<iframe class="invisible center" width="95%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/bQbfdoZ_Qe8" frameborder="0">&nbsp;</iframe>
+ {% include responsive-embed url="https://www.youtube.com/embed/bQbfdoZ_Qe8" ratio="16:9" %}
 
 Όταν λοιπόν πρωτάκουσα το τραγούδι των City, κάπου 20 χρόνια πριν, αναζήτησα απεγνωσμένα τους στίχους του. Το διαδίκτυο στα φοιτητικά μου χρόνια ήταν φτωχό. Εκείνη την εποχή δεν υπήρχαν blogs ούτε κοινωνικά δίκτυα, τα forums εστίαζαν κυρίως σε επιστημονικά θέματα, κι ο ηλεκτρονικός ωκεανός της πληροφορίας ήταν συγκριτικά μια ρηχή λίμνη. Είχα όμως την τύχη να έχω επαφές με συμφοιτητές ομογενείς απ' τη Γερμανία και έτσι κατόρθωσα να έχω μια λέξη-προς-λέξη μετάφραση. 
 
@@ -151,4 +151,4 @@ relatedposts:
 >I can feel it...<br/>
 >Feel my soul...﻿<br/>
 
-<iframe class="invisible center" width="95%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/JvJkg1ch09o" frameborder="0">&nbsp;</iframe>
+ {% include responsive-embed url="https://www.youtube.com/embed/JvJkg1ch09o" ratio="16:9" %}

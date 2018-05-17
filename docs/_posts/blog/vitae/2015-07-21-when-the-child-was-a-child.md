@@ -121,7 +121,7 @@ redirect_from: "/blog/when-the-child-was-a-child/"
 > κι αυτό πάλλεται εκεί μέχρι σήμερα.
 
 <figure>
-    <iframe class="invisible center" width="560" height="315" src="about:blank" data-src="https://www.youtube.com/embed/3M_Gg1xAHE4" frameborder="0">&nbsp;</iframe>	
+    {% include responsive-embed url="https://www.youtube.com/embed/3M_Gg1xAHE4" ratio="16:9" lazy=true %}
     <figcaption>I jumped in the river and what did I see?<br/>
 Black-eyed angels swam with me<br/>
 A moon full of stars and astral cars<br/>
@@ -229,7 +229,7 @@ There was nothing to fear and nothing to doubt</figcaption>
 
 <div class="appear-later">
 <figure>
-    <iframe width="545" height="300" src="//www.youtube.com/embed/Gy_BD76-mvo" frameborder="0" allowfullscreen>&nbsp;</iframe>	
+    {% include responsive-embed url="https://www.youtube.com/embed/Gy_BD76-mvo" ratio="16:9" %}
     <figcaption>Να 'ναι παραμύθι<br/>
 	αρχή παραμυθιού,<br/>
 	στέρνα γεμάτη χρώματα,<br/>
