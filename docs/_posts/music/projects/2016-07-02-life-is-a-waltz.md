@@ -6,7 +6,7 @@ comments: true
 title: 'Life is a Waltz'
 #excerpt: 'xxx'
 date: '2016-07-02T12:58:00+01:00'
-modified: '2016-09-08T19:14:00+02:00'
+modified: '2018-07-18T22:50:00+02:00'
 tags: [mixcloud, playlist, soundscape, waltz]
 author: Micronaut
 hidelogo: false
@@ -197,3 +197,11 @@ Mar 19, 2017
 
 Nov 19, 2017
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol21-an-ode-to-airplanes-promises-and-annas-waltzes%2F&hide_cover=1&light=1" frameborder="0"></iframe>
+
+<div class="text-divider"></div>
+
+#### Life is a Waltz - Vol.22 (An Ode to Identity, Personas and the Unborn)
+<strong>Tracklist:  </strong>Radical Face - Black Eyes | Out Lines - The Left Behind | Efrat Ben Zur - I'm Nobody | Circuit des Yeux - Black Fly | Δ (alt-J) - Pleader | Kat Frankie - Happy | The Cranberries - Will You Remember | Laura Frances - Restless Bed of Water | Lean Year - Come and See | Perfume Genius - My Body | Emma Gatrill - Cocoon | Fleet Foxes - I Should See Memphis | Sumie - Night Rain | Samantha de Siena- You laugh at the Moon | Great Lake Swimmers - Think That You Might Be Wrong | Sibylle Baier - The End
+
+Jan 28, 2018
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol22-an-ode-to-identity-egoism-and-the-unborn%2F" frameborder="0" ></iframe>
