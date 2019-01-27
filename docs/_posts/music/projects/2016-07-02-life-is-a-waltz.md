@@ -6,7 +6,7 @@ comments: true
 title: 'Life is a Waltz'
 #excerpt: 'xxx'
 date: '2016-07-02T12:58:00+01:00'
-modified: '2018-10-21T22:50:00+02:00'
+modified: '2019-01-28T12:50:00+02:00'
 tags: [mixcloud, playlist, soundscape, waltz]
 author: Micronaut
 hidelogo: false
@@ -211,3 +211,9 @@ Jan 28, 2018
 
 Oct 13, 2018
 <iframe class="invisible" width="100%" height="120" src="about:blank" data-src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol23-an-ode-to-peace-the-eternal-dawn-of-the-moon%2F" frameborder="0" ></iframe>
+
+#### Life is a Waltz - Vol.24 (Volatile times in Stagnant Air)
+<strong>Tracklist:  </strong>Woven Hand - The speaking hands | Tristan Eckerson - Cartographer | Mountainess - Raisins and Almonds | Jim Croce - Time in a bottle | Ruído/mm - Valsa dos desertores | Agnes Obel - Its Happening Again | Grey River and the Smoky Mountain - The King and the Crow | Radiohead - The Tourist | Muse - Blackout | Wio - Green (Grass) | Sophia - The sea | La Rive - La Jetée | Steve Von Till - Black Crow Blues | In Ruin - Let Us Kiss And Part
+
+Jan 27, 2019
+<iframe class="invisible" width="100%" height="120" src="about:blank" data-src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol24-volatile-times-on-stagnant-air%2F" frameborder="0" ></iframe>
