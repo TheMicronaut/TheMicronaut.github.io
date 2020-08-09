@@ -6,7 +6,7 @@ comments: true
 title: 'Life is a Waltz'
 #excerpt: 'xxx'
 date: '2016-07-02T12:58:00+01:00'
-modified: '2019-01-28T12:50:00+02:00'
+modified: '2020-08-09T19:45:00+02:00'
 tags: [mixcloud, playlist, soundscape, waltz]
 author: Micronaut
 hidelogo: false
@@ -217,3 +217,15 @@ Oct 13, 2018
 
 Jan 27, 2019
 <iframe class="invisible" width="100%" height="120" src="about:blank" data-src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol24-volatile-times-on-stagnant-air%2F" frameborder="0" ></iframe>
+
+#### Life is a Waltz - Vol.25 (And ode to long-lost jauntiness)
+<strong>Tracklist:  </strong>Francesco Berta - Intimacy | Steve Jansen - Sow the Salt (feat. Thomas Feiner) | Nick Cave and the Bad Seeds - The Carny | The White Birch - Donau Movies | Ghostlight Orchestra - Just | Emmylou Harris Mark Knopfler - Alone Forsaken (Hank Williams cover) | Steve Jansen - Sow the Salt (feat. Thomas Feiner) | Shels - Butterflies (On Luci's Way) | Narsilion - A Night in Fairyland | Aukai - La Joya | Radical Face - Waltzing In the Ashes | Soap&Skin - Creep | The Irrepressibles - To Be | Ghostlight Orchestra - Just
+
+Aug 4, 2019
+<iframe class="invisible" width="100%" height="120" src="about:blank" data-src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol25-and-ode-to-long-lost-jauntiness%2F" frameborder="0" ></iframe>
+
+#### Life is a Waltz - Vol.26 (summer edition revisited)
+<strong>Tracklist:  </strong>Josh Benash - The Bodies of Trees | Emily Jane White - Washed Away | Lhasa de Sela - Rising Up | Father John Misty - Anthem | Ghostlight Orchestra  - North Korea | Kishi Bashi - Violin Tsunami | Other Lives - Sideways | Ida Wenøe - Oh My Heart, Sweetheart | Audrye Sessions - Waltz 2 (Elliot Smith Cover) | Novemthree - Ashes | The Great Park - You Are More Needed Here | The Abyss Inside Us - Summer in Her Heart | Помни Имя Свое - Родина | Scott Matthews - Obsession Never Sleeps | Asaf Avidan - Anagnorisis
+
+Aug 9, 2020
+<iframe class="invisible" width="100%" height="120" src="about:blank" data-src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2FMoonlightFairyTales%2Flife-is-a-waltz-vol26-summer-edition-revisited%2F" frameborder="0" ></iframe>
