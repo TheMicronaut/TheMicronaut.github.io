@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
-title: Micronaut's BlogBook
+title: The chronicles of Aleh &amp; the Micronaut
 locale: en_US
 timezone: CET
-description: The chronicles of Aleh &amp; the Micronaut
+description: A blog for alternative music and fantasy stories
 logo: site-logo.svg
 search: true
 url: http://themicronaut.github.io
