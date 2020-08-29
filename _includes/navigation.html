@@ -41,6 +41,6 @@
     {% if page.previous %}<li><a class="codrops-icon fa-long-arrow-left" href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}" rel="prev"><span>Previous</span></a></li>{% endif %}
     {% if page.next %}<li><a class="codrops-icon gn-icon-next" href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}" rel="next"><span>Next</span></a></li>{% endif %}
     {% if page.url != "/" %}<li><a class="codrops-icon fa-home" href="{{ site.baseurl }}/"><span>Home</span></a></li>{% endif %}
-    {% if page.url == "/" %}<li><a class="codrops-icon fa-microphone" href="{{ site.baseurl }}/live"><span>On Air</span></a></li>{% endif %}
-    {% if page.url == "/" %}<li><a class="codrops-icon fa-info" href="{{ site.baseurl }}/about"><span>About</span></a></li>{% endif %}
+    {% if page.url == "/" %}<li><a class="codrops-icon fa-search" href="{{ site.baseurl }}/search"><span>Search</span></a></li>{% endif %}    
+    {% if page.url == "/" %}<li><a class="codrops-icon fa-info" href="{{ site.baseurl }}/about"><span>About</span></a></li>{% endif %}  
 </ul>
