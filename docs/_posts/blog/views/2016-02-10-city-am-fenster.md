@@ -14,7 +14,7 @@ image:
 relatedposts:
  - url: /blog/vitae/when-the-child-was-a-child/
 ---
-<span class="dcap">H</span>θελα  να σου γράψω λίγα λόγια για ένα απ' τα ποιήματα που εδώ και πολλά χρόνια έχει κερδίσει την προσοχή μου. Το ποίημα φέρει τον τίτλο "Am Fenster" (Στο Παράθυρο) και ανήκει στη Hildegard Maria Rauchfuß, ποιήτρια, συγγραφέα και δημοσιογράφο απ' το Leipzig της άλλοτε Λαοκρατικής Δημοκρατίας της Γερμανίας (γνωστότερη ως Ανατολική Γερμανία). Διαβάζοντας στα γρήγορα τη βιογραφία της Rauchfuß σκόνταψα σ' εκείνο στο σημείο που έγραφε ότι ενώ κουβαλούσε στην τσάντα της το σπρέι για το άσθμα, στο χέρι της, σχεδόν πάντα, κρατούσε με κομψότητα  ένα τσιγάρο.
+<span class="dcap">H</span>θελα να σου γράψω λίγα λόγια για ένα απ' τα ποιήματα που εδώ και πολλά χρόνια έχει κερδίσει την προσοχή μου. Το ποίημα φέρει τον τίτλο "Am Fenster" (Στο Παράθυρο) και ανήκει στη Hildegard Maria Rauchfuß, ποιήτρια, συγγραφέα και δημοσιογράφο απ' το Leipzig της άλλοτε Λαοκρατικής Δημοκρατίας της Γερμανίας (γνωστότερη ως Ανατολική Γερμανία). Διαβάζοντας στα γρήγορα τη βιογραφία της Rauchfuß σκόνταψα σ' εκείνο στο σημείο που έγραφε ότι ενώ κουβαλούσε στην τσάντα της το σπρέι για το άσθμα, στο χέρι της, σχεδόν πάντα, κρατούσε με κομψότητα  ένα τσιγάρο.
 
 <figure class="center">
 	<a href="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bundesarchiv_Bild_183-C0305-0006-001%2C_Hildegard_Maria_Rauchfu%C3%9F.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Bundesarchiv_Bild_183-C0305-0006-001%2C_Hildegard_Maria_Rauchfu%C3%9F.jpg" alt="Hildegard Maria Rauchfuß" /></a>
@@ -41,16 +41,15 @@ relatedposts:
 >Klagt ein Vogel, ach auch mein Gefieder<br/>
 >Näßt der Regen flieg ich durch die Welt<br/>
 >Flieg ich durch die Welt<br/>
-><br/>
->Am Fenster, by Hildegard Maria Rauchfuß
+><footer>Am Fenster, by <strong>Hildegard Maria Rauchfuß</strong></footer>
 
 Για την ιστορία του τραγουδιού η [wikipedia](https://el.wikipedia.org/wiki/Am_Fenster){:target="_blank"} αναφέρει τα ακόλουθα:
 
 >Ήταν το 1974 όταν ο βουλγαρικής καταγωγής Georgi Gogow και ο Klaus Selmke πειραματίζονταν με την μουσική των δημοτικών τραγουδιών της Βουλγαρίας. Ο Gogow έπαιζε βιολί, ενώ ο τραγουδιστής Emil Bogdanow διάβαζε την ποιητική συλλογή Versuch es mit der kleinen Liebe της Γερμανίδας ποιήτριας Hildegard Maria Rauchfuß, που περιείχε τους στίχους Am Fenster. Η μουσική έδεσε με τους στίχους και οι City άρχισαν να παίζουν το τραγούδι στις συναυλίες τους. Η δισκογραφική τους εταιρεία όμως αρνήθηκε να το ηχογραφήσει, διότι είχε μεγάλη διάρκεια επτά λεπτών, και επιπλέον καινοτομούσαν με τη χρήση βιολιού που δεν συνηθίζονταν τότε. Ο Bogdanow απέδρασε από την Ανατολική Γερμανία και πήγε στη Σουηδία. Αντικαταστάτης του στο συγκρότημα έγινε ο Toni Krahl, ο οποίος έκανε πρόβα το τραγούδι, το ηχογράφησε μόνος του, και έστειλε κασέτες σε ραδιοφωνικούς σταθμούς. Το κομμάτι έγινε αμέσως μεγάλη επιτυχία και τελικά κυκλοφόρησε ως single το 1977, και ως maxi single το 1978. Στην Αθήνα έγινε γνωστό από πειρατικό ραδιοσταθμό που το έπαιζε όλη την ημέρα και έγινε ανάρπαστο.
 
- Στο video που ακολουθεί μπορεί κάποιος ν' ακούσει το (full length) track των City το οποίο απαρτίζεται από 3 αλληλένδετα μέρη, τα πρώτα δυο εκ των οποίων (Ι. Traum & II. Tagtraum) αποτελούν την εισαγωγή στο τρίτο κομμάτι (06:32) πάνω στο οποίο είναι μελοποιημένο το Am Fenster. Λεπτομέρειες στα ελληνικά για την ιστορία του τραγουδιού μπορεί κανείς να διαβάσει [εδώ](http://studenigma.blogspot.gr/2011/01/city-am-fenster.html){:target="_blank"}.
+ Στο video που ακολουθεί μπορεί κάποιος ν' ακούσει το (full length) track των City το οποίο απαρτίζεται από 3 αλληλένδετα μέρη, τα πρώτα δυο εκ των οποίων (Ι. Traum & II. Tagtraum) αποτελούν την εισαγωγή στο τρίτο κομμάτι (06:32) πάνω στο οποίο είναι μελοποιημένο το Am Fenster.
 
- {% include responsive-embed url="https://www.youtube.com/embed/bQbfdoZ_Qe8" ratio="16:9" %}
+ {% include responsive-embed url="https://www.youtube.com/embed/ZFtMtalfa_Q" ratio="16:9" %}
 
 Όταν λοιπόν πρωτάκουσα το τραγούδι των City, κάπου 20 χρόνια πριν, αναζήτησα απεγνωσμένα τους στίχους του. Το διαδίκτυο στα φοιτητικά μου χρόνια ήταν φτωχό. Εκείνη την εποχή δεν υπήρχαν blogs ούτε κοινωνικά δίκτυα, τα forums εστίαζαν κυρίως σε επιστημονικά θέματα, κι ο ηλεκτρονικός ωκεανός της πληροφορίας ήταν συγκριτικά μια ρηχή λίμνη. Είχα όμως την τύχη να έχω επαφές με συμφοιτητές ομογενείς απ' τη Γερμανία και έτσι κατόρθωσα να έχω μια λέξη-προς-λέξη μετάφραση. 
 
@@ -78,8 +77,7 @@ relatedposts:
 >Στενάζει ένα πουλί, αχ το φτέρωμά μου <br/>
 >παρότι μουσκεύει η βροχή, μες στον κόσμο πετώ<br/>
 >Μέσα στον κόσμο πετώ<br/>
->
->Στο Παράθυρο, της Hildegard Maria Rauchfuß (μετάφρ. Aleh)
+><footer>Στο Παράθυρο, της Hildegard Maria Rauchfuß (μετάφρ. Aleh)</footer>
 
 Κάνοντας μια μικρή παρένθεση, μπορώ να πω πως είναι δύσκολο έργο η μετάφραση κι ακόμη δυσκολότερη η μετάφραση ποίησης. Δεν είναι τόσο η γνώση δυο γλωσσών (το διαδίκτυο βοηθά πολύ σήμερα), όσο ότι απαιτεί απ' το μεταφραστή να αναπαράγει μέσα του την ψυχολογία του ποιητή. Μόνο έτσι είναι δυνατό ν' αναζητήσει ο πρώτος τις σωστές λέξεις, εκείνες που αποδίδουν το ύφος του πρωτότυπου. Αν μη τι άλλο, απ' αυτό το μίνι-πρότζεκτ έμαθα να εκτιμώ βαθύτερα το έργο του μεταφραστή. Αν και επιδίωξα ευλαβικά να μην ξεφύγω απ' την ακριβή μετάφραση, δεν θα μπορέσω ποτέ να πω πως είναι σε θέση ν' αποδώσει το ύφος του πρωτότυπου.
 
@@ -94,7 +92,7 @@ relatedposts:
 Σήμερα πιστεύω πως η Hildegard Maria Rauchfuß στο ποίημα της ήθελε να μιλήσει στους συμπολίτες της για το καθεστώς της Ανατολικής Γερμανίας. Μα ήταν αδύνατο να γράψει κάτι τόσο εκκωφαντικό δίχως να βρει καταφύγιο μέσα στην ασάφεια του μινιμαλισμού. Και για να το καταλάβει κανείς αυτό, θα πρέπει να κάνει μια μικρή βουτιά στα χρόνια εκείνα...
 
 <figure class="center">
-	<a href="http://cdn.theatlantic.com/assets/media/img/photo/2014/11/the-berlin-wall-25-years-after-the-fall/w18_11251226/main_1200.jpg"><img src="http://cdn.theatlantic.com/assets/media/img/photo/2014/11/the-berlin-wall-25-years-after-the-fall/w18_11251226/main_1200.jpg" alt="Brandenburg Gate" /></a>
+	<a href="{{ site.external_data_url }}/images/posts/stories/brandenburg-gate-fog.jpg"><img src="{{ site.external_data_url }}/images/posts/stories/brandenburg-gate-fog.jpg" alt="Brandenburg Gate" /></a>
 	<figcaption>The Brandenburg Gate is shrouded in fog as a man looks from a watchtower over the Wall to the Eastern part of the divided city on November 25, 1961. The tower was erected by the West German police to observe the Inner-German border.<br/>Photo courtesy: AP Photo/Heinrich Sanden Sr. </figcaption>
 </figure>
 
