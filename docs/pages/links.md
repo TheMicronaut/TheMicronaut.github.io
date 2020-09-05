@@ -13,6 +13,9 @@ permalink: /links/
 
 Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
 
+##### <i class="fa fa-hand-o-right"></i> Blogs / fiction
+* [Sanejoker](https://sanejoker.info/){:target="_blank"}  [GR/EN]
+
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 * [Stationary Travels](https://stationarytravels.wordpress.com){:target="_blank"}  [EN]
 * [Giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
@@ -23,7 +26,6 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [Stenography of Emotion](http://bppremiera.blogspot.com/){:target="_blank"}  [EN]
 
 ##### <i class="fa fa-hand-o-right"></i> Tumblr
-
 * [elenelli](http://elenelli.tumblr.com/){:target="_blank"}
 * [mysteryheaven](http://mysteryheaven.tumblr.com/){:target="_blank"} 
 * [inhal3rt](http://inhal3rt.tumblr.com/){:target="_blank"}
@@ -32,9 +34,10 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [theargasmicmusic](http://theargasmicmusic.tumblr.com/){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> Mixcloud
-
 * [Ophelia Hamlet](http://www.mixcloud.com/opheliah2o/){:target="_blank"}
 * [Anna Alverti](http://www.mixcloud.com/annaalverti102/){:target="_blank"}
+* [George Rizopoulos](http://www.mixcloud.com/grizopoulos/){:target="_blank"}
+* [George Lainakis](http://www.mixcloud.com/georgelainakis/){:target="_blank"}
 * [Elena Elliniadou](http://www.mixcloud.com/elenaelliniadou/){:target="_blank"}
 * [iNhaLeRT](http://www.mixcloud.com/iNhaLeRT/){:target="_blank"}
 * [Spiros Limnaios](http://www.mixcloud.com/spiros-limnaios/){:target="_blank"}
@@ -54,14 +57,11 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 * [Sokrates Called](http://www.mixcloud.com/anartcalled/){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
-
 * [tzortzinious](https://www.youtube.com/channel/UC-cSXjGlG90Gw8VDTwsL06g){:target="_blank"}
 * [Alevizon](https://www.youtube.com/channel/UCDUmKobggGUPVz6A8x2qGdg){:target="_blank"}
 * [Anna Konda](https://www.youtube.com/channel/UCRwxlqapFLv9EIrzOQ0aN1g){:target="_blank"}
 * [Mystery Heaven](https://www.youtube.com/channel/UChzWjhoTgEQ-ZS5XgOPqh_w){:target="_blank"}
 * [4amorningSound](https://www.youtube.com/channel/UCFrs8JxdLeShe70zNK1Mh6w){:target="_blank"}
-* [Giorgos Kormikiaris](https://www.youtube.com/channel/UCfG0OT2N2yi9bSBBrMAK2QQ){:target="_blank"}
-* [AnaStasia Andreadou](https://www.youtube.com/channel/UCGJY9mpHcjJzuysndfP2oyw){:target="_blank"}
 * [giveitaspinGR](https://www.youtube.com/channel/UCwbpco8zYrok1i6zxGqkyEg){:target="_blank"}
 * [artmaniac53](https://www.youtube.com/channel/UCeI2O8GIPsjdI8pWyic-Xww){:target="_blank"}
 * [Medusatrip~](https://www.youtube.com/channel/UCAjayTXVwboR6dAt1Ev2yFA){:target="_blank"}
