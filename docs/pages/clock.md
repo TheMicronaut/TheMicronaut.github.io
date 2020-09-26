@@ -11,7 +11,7 @@ permalink: '/clock/'
     <canvas id="canvas"></canvas><br />
 </figure>
 
-<iframe width="530" height="335" src="https://www.youtube.com/embed/vWD7k6TrJ-g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>&nbsp;</iframe>
+<iframe width="530" height="335" src="https://www.youtube.com/embed/vWD7k6TrJ-g?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&nbsp;</iframe>
 
 
 <script type="text/javascript">
@@ -57,7 +57,7 @@ function draw(now) {
 	drawCircle(centerX, centerY, 95, 0, Math.PI * 2, false, '#ffffff', 'fill', '50'); //inner
 	drawText(`${hr.toString().length == 1?'0'+hr:hr}:${min.toString().length == 1?'0'+min:min}:${sec.toString().length == 1?'0'+sec:sec}`, canvas.width / 2 - 63, canvas.height / 2 + 15, '#000000', '40px');
 	drawText(amOrPm, canvas.width / 2 - 15, canvas.height / 2 + 50, '#000000', '25px');
-    ctx.drawImage(backgroundImage, -5, -5, 560, 560);
+    ctx.drawImage(backgroundImage, -5, -5, canvas.width+10, canvas.height+10);
     window.requestAnimationFrame(draw);
 }
 

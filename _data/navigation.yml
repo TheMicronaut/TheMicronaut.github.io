@@ -15,6 +15,10 @@
 - title: Stories
   url: /stories/
   icon: book
+  
+- title: Ouroboros
+  url: /clock/
+  icon: clock-o
 
 - title: Tags
   url: /tags/
@@ -23,10 +27,6 @@
 - title: Links
   url: /links/
   icon: link
-  
-- title: On Air
-  url: /live/
-  icon: microphone  
 
 - title: Search
   url: /search/
