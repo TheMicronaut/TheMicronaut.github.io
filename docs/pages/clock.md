@@ -11,8 +11,9 @@ permalink: '/clock/'
     <canvas id="canvas"></canvas><br />
 </figure>
 
-<iframe width="530" height="335" src="https://www.youtube.com/embed/vWD7k6TrJ-g?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&nbsp;</iframe>
-
+<figure>
+    {% include responsive-embed url="https://www.youtube.com/embed/vWD7k6TrJ-g?rel=0" ratio="16:9" %}
+</figure>
 
 <script type="text/javascript">
 var canvas = document.getElementById('canvas');
@@ -24,10 +25,17 @@ var backgroundSrc = "/images/ouroboros-white-transparent.png";
 var backgroundImage = new Image();
 
 function init() {
-	canvas.width = 550;
-	canvas.height = 550;
     backgroundImage.src = backgroundSrc;
-    window.requestAnimationFrame(draw);	
+
+   // window.addEventListener('resize', resizeCanvas, false);
+   resizeCanvas();
+}
+
+function resizeCanvas() {
+    var size = Math.min(window.innerWidth / 2, window.innerHeight / 2);
+    canvas.width = 530; //size;
+    canvas.height = 530; //size;
+    window.requestAnimationFrame(draw);
 }
 
 function draw(now) {
