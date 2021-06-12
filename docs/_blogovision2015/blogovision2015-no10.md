@@ -31,7 +31,7 @@ image:
 
 ##### Embrace The Glorious Outcast...
 
-Οι καναδοί Great Lake Swimmers (*indie-folk · indie-rock*) ήταν απολαυστικοί στο [Incubate Festival](/music/review/incubate-2015/){:target="_blank"}. Παρουσίασαν παλιά τους κομμάτια, αλλά και το φετινό τους *A Forest of Arms*. 
+Οι καναδοί Great Lake Swimmers (*indie-folk · indie-rock*) ήταν απολαυστικοί στο [Incubate Festival](/music/review/incubate-2015){:target="_blank"}. Παρουσίασαν παλιά τους κομμάτια, αλλά και το φετινό τους *A Forest of Arms*. 
 
 <iframe width="95%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/188688483&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
@@ -51,23 +51,23 @@ image:
 
 Ο [@naumaxos](http://giotatrelokomeio.blogspot.nl/2015/12/11-sexwitch-swxitch.html){:target="_blank"} επιλέγει για Νο.11 Bat for Lashes (με τη Natasha γιορτάζουμε γενέθλιο ίδια μέρα) σε συνεργασία με τους Toy, ένα γκρουπ που δεν είχα ακούσει ποτέ. Το project τους λέγεται Sexwitch, και τώρα που το ξανακούω σα να έφυγε λίγο η ξινίλα της πρώτης ακρόασης... 
 
-O [@triatetarta](https://triatetarta.wordpress.com/2015/12/10/%CE%AD%CE%BD%CF%84%CE%B5%CE%BA%CE%B1-adolf-plays-the-jazz-tinder/){:target="_blank"} μας θυμίζει στο Νο.11 πως οι *Αdolf Plays The Jazz* έβγαλαν νέο δίσκο, και πολύ καλά κάνει μιας και τα παιδιά παίζουν καταπληκτική μουσική. Καταγράφεται κι αυτό στη λίστα με τα μικροναυτικά. Στο [Νο.10](https://triatetarta.wordpress.com/2015/12/11/%CE%B4%CE%AD%CE%BA%CE%B1-%CE%BA%CE%B1%CE%BD%CF%84%CE%AC%CE%B4%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%81%CE%BF%CE%BC%CF%80%CF%8C%CF%84/){:target="_blank"} μας αφηγείται μέσα απ' την καθημερινότητα του εντυπώσεις για τον αγαπημένο κ. Patrick  Watson.
+O [@triatetarta](https://triatetarta.wordpress.com/2015/12/10/%CE%AD%CE%BD%CF%84%CE%B5%CE%BA%CE%B1-adolf-plays-the-jazz-tinder){:target="_blank"} μας θυμίζει στο Νο.11 πως οι *Αdolf Plays The Jazz* έβγαλαν νέο δίσκο, και πολύ καλά κάνει μιας και τα παιδιά παίζουν καταπληκτική μουσική. Καταγράφεται κι αυτό στη λίστα με τα μικροναυτικά. Στο [Νο.10](https://triatetarta.wordpress.com/2015/12/11/%CE%B4%CE%AD%CE%BA%CE%B1-%CE%BA%CE%B1%CE%BD%CF%84%CE%AC%CE%B4%CE%B1-%CE%B3%CE%B9%CE%B1-%CF%81%CE%BF%CE%BC%CF%80%CF%8C%CF%84){:target="_blank"} μας αφηγείται μέσα απ' την καθημερινότητα του εντυπώσεις για τον αγαπημένο κ. Patrick  Watson.
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.10 - Hozier - Hozier](/music/blogovision/blogovision2014/blogovision2014-no10/){:target="_blank"}
-* 2013 [No.10 - Agnes Obel - Aventine](/music/blogovision/blogovision2013/blogovision2013-no10/){:target="_blank"}
+* 2014 [No.10 - Hozier - Hozier](/music/blogovision/blogovision2014/blogovision2014-no10){:target="_blank"}
+* 2013 [No.10 - Agnes Obel - Aventine](/music/blogovision/blogovision2013/blogovision2013-no10){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11/){:target="_blank"}
-* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12/){:target="_blank"}
-* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13/){:target="_blank"}
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11){:target="_blank"}
+* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12){:target="_blank"}
+* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

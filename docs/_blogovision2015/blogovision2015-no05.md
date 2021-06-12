@@ -11,11 +11,11 @@ author: Micronaut
 hidelogo: true
 showexcerpt: true
 ---
->&ldquo;Prodigiously talented and criminally underrated; Kathryn is one of Scotland's best-kept secrets. Her voice possesses the other-worldly quality comparable to Ms Newsom and Björk; but she is by no means of an ilk. Better compared with Anthony Heggarty; she is an artist in every way; unique and soulful, and at the core a beautiful unnerving truth. (Scottish Album of the Year Award Winner)&rdquo; -- [The Say Award](http://www.sayaward.com/the-albums/kathryn-joseph-bones-you-have-thrown-me-and-blood-ive-spilled/){:target="_blank"}
+>&ldquo;Prodigiously talented and criminally underrated; Kathryn is one of Scotland's best-kept secrets. Her voice possesses the other-worldly quality comparable to Ms Newsom and Björk; but she is by no means of an ilk. Better compared with Anthony Heggarty; she is an artist in every way; unique and soulful, and at the core a beautiful unnerving truth. (Scottish Album of the Year Award Winner)&rdquo; -- [The Say Award](http://www.sayaward.com/the-albums/kathryn-joseph-bones-you-have-thrown-me-and-blood-ive-spilled){:target="_blank"}
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1334851473/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2054708669/transparent=true/" seamless><a href="http://kathrynjoseph.bandcamp.com/album/bones-you-have-thrown-me-and-blood-ive-spilled">bones you have thrown me and blood i&#39;ve spilled by kathryn joseph</a></iframe>
 
-Όπως σωστά αναφέρει παραπάνω το 'The Say Award', η Kathryn Joseph (*alternative · acoustic-folk · indie · lo-fi*) είναι μία απ' τις κρυμμένες ομορφιές της Σκωτίας. Η φωνή της στο φανταστικό debut album μάγεψε ακόμη και τους κριτές του [SAY](http://www.sayaward.com/){:target="_blank"} (Scottish Album of the Year) που της έδωσαν το πρώτο βραβείο. Κι ο ήχος της δεν θα έφτανε στ' αυτιά μου ως σήμερα αν δεν ψαχούλευα τις λίστες με τους 350! καλλιτέχνες που έλαβαν μέρος στο Incubate Festival. Και μιλώντας για αριθμούς, πόσα άραγε να είναι τα album που ψηφίστηκαν ως τώρα στη blogovision;
+Όπως σωστά αναφέρει παραπάνω το 'The Say Award', η Kathryn Joseph (*alternative · acoustic-folk · indie · lo-fi*) είναι μία απ' τις κρυμμένες ομορφιές της Σκωτίας. Η φωνή της στο φανταστικό debut album μάγεψε ακόμη και τους κριτές του [SAY](http://www.sayaward.com){:target="_blank"} (Scottish Album of the Year) που της έδωσαν το πρώτο βραβείο. Κι ο ήχος της δεν θα έφτανε στ' αυτιά μου ως σήμερα αν δεν ψαχούλευα τις λίστες με τους 350! καλλιτέχνες που έλαβαν μέρος στο Incubate Festival. Και μιλώντας για αριθμούς, πόσα άραγε να είναι τα album που ψηφίστηκαν ως τώρα στη blogovision;
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1334851473/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2040401050/transparent=true/" seamless><a href="http://kathrynjoseph.bandcamp.com/album/bones-you-have-thrown-me-and-blood-ive-spilled">bones you have thrown me and blood i&#39;ve spilled by kathryn joseph</a></iframe>
 
@@ -46,30 +46,30 @@ showexcerpt: true
 
 ##### <i class="fa fa-hand-o-right"></i> Eyez Οn...
 
-Ματιά καρφωμένα στον [@SupermoonSessions](http://supermoonsessions.tumblr.com/){:target="_blank"} για την καταπληκτική (και το εννοώ) επιλογή Cemeteries  και το Barrow στο Νο.05. Μια ακόμη μπάντα που καταγράφεται στα μικροναυτικά.
+Ματιά καρφωμένα στον [@SupermoonSessions](http://supermoonsessions.tumblr.com){:target="_blank"} για την καταπληκτική (και το εννοώ) επιλογή Cemeteries  και το Barrow στο Νο.05. Μια ακόμη μπάντα που καταγράφεται στα μικροναυτικά.
 
 Ματιά και στον/στην [@papadicki](http://personalmusictrivia.blogspot.nl/2015/12/no5-black-heart-rebellion-people-when.html){:target="_blank"} που επιλέγει στο Νο.05 τους The Black Heart Rebellion και μου έβαλε ιδέες πως τους αδίκησα.
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.05 - Röyksopp - The Inevitable End](/music/blogovision/blogovision2014/blogovision2014-no05/){:target="_blank"}
-* 2013 [No.05 - Moonface - Julia With Blue Jeans On](/music/blogovision/blogovision2013/blogovision2013-no05/){:target="_blank"}
+* 2014 [No.05 - Röyksopp - The Inevitable End](/music/blogovision/blogovision2014/blogovision2014-no05){:target="_blank"}
+* 2013 [No.05 - Moonface - Julia With Blue Jeans On](/music/blogovision/blogovision2013/blogovision2013-no05){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.06 - Julia Kent - Asperities](/music/blogovision/blogovision2015/blogovision2015-no06/){:target="_blank"}
-* [No.07 - Natural Snow Buildings - Terror's Horns](/music/blogovision/blogovision2015/blogovision2015-no07/){:target="_blank"}
-* [No.08 - Editors - In Dream](/music/blogovision/blogovision2015/blogovision2015-no08/){:target="_blank"}
-* [No.09 - Nadine Shah - Fast Food](/music/blogovision/blogovision2015/blogovision2015-no09/){:target="_blank"}
-* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10/){:target="_blank"}
-* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11/){:target="_blank"}
-* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12/){:target="_blank"}
-* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13/){:target="_blank"}
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.06 - Julia Kent - Asperities](/music/blogovision/blogovision2015/blogovision2015-no06){:target="_blank"}
+* [No.07 - Natural Snow Buildings - Terror's Horns](/music/blogovision/blogovision2015/blogovision2015-no07){:target="_blank"}
+* [No.08 - Editors - In Dream](/music/blogovision/blogovision2015/blogovision2015-no08){:target="_blank"}
+* [No.09 - Nadine Shah - Fast Food](/music/blogovision/blogovision2015/blogovision2015-no09){:target="_blank"}
+* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10){:target="_blank"}
+* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11){:target="_blank"}
+* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12){:target="_blank"}
+* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

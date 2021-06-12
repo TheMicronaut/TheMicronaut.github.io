@@ -39,9 +39,9 @@ O [‏@gvak](http://voice-inertia.blogspot.gr/2015/12/blogovision-2015-20-nils-f
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.20 The Antlers - Familiars](/music/blogovision/blogovision2014/blogovision2014-no20/){:target="_blank"}
-* 2013 [No.20 Bastille - Bad Blood](/music/blogovision/blogovision2013/blogovision2013-no20/){:target="_blank"}
+* 2014 [No.20 The Antlers - Familiars](/music/blogovision/blogovision2014/blogovision2014-no20){:target="_blank"}
+* 2013 [No.20 Bastille - Bad Blood](/music/blogovision/blogovision2013/blogovision2013-no20){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

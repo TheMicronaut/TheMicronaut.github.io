@@ -21,7 +21,7 @@ showexcerpt: true
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2180219375/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2013562482/transparent=true/" seamless><a href="http://theblackheartrebellion.bandcamp.com/album/people-when-you-see-the-smoke-do-not-think-it-is-fields-theyre-burning">People, when you see the smoke, do not think it is fields they&#39;re burning by The Black Heart Rebellion</a></iframe>
 
-Στη συναυλία των TBHR στο Incubate δεν πήγα, αφού συνέπεσε με αυτή των Empyrium που είχα κάνει [τάμα να τους δω](/music/review/incubate-2015/){:target="_blank"}. Αλλά όπως είπαμε τα παιδιά είναι γείτονες  - δυο τσιγάρα δρόμος, οπότε κάπου θα τους πετύχω live.
+Στη συναυλία των TBHR στο Incubate δεν πήγα, αφού συνέπεσε με αυτή των Empyrium που είχα κάνει [τάμα να τους δω](/music/review/incubate-2015){:target="_blank"}. Αλλά όπως είπαμε τα παιδιά είναι γείτονες  - δυο τσιγάρα δρόμος, οπότε κάπου θα τους πετύχω live.
 
 <figure>
     <a href="http://www.cvltnation.com/the-black-heart-rebellion-people-when-you-see-the-smoke-do-not-think-it-is-the-fields-theyre-burning-review-stream-footage/"><img src="http://www.cvltnation.com/wp-content/uploads/2015/10/TBHR_2014_live_JanOpdekamp-1440x564_c.jpg" alt="light-Image" class="center"/></a>
@@ -45,16 +45,16 @@ showexcerpt: true
 
 ##### <i class="fa fa-hand-o-right"></i> Eyez Οn...
 
-O/H [‏@dementia_inc](http://avatonkortez.blogspot.nl/2015/12/blogovision2015-to-20-dementiainc-kiss.html){:target="_blank"} επιλέγει στο Νο.20 τους Βέλγους *Kiss the Anus of a Black Cat* με τον φετινό τους *To Live Vicariously* και του/της βγάζω το καπέλο, μιας και ότι απέμεινε απ' αυτούς <s>είναι</s> <s>ήταν</s> παραμένει μια απ' τις αγαπημένες μου μπάντες. Περισσότερα για KTAOABC στα [τετελεσμένα του incubate](/music/review/incubate-2015/){:target="_blank"}.
+O/H [‏@dementia_inc](http://avatonkortez.blogspot.nl/2015/12/blogovision2015-to-20-dementiainc-kiss.html){:target="_blank"} επιλέγει στο Νο.20 τους Βέλγους *Kiss the Anus of a Black Cat* με τον φετινό τους *To Live Vicariously* και του/της βγάζω το καπέλο, μιας και ότι απέμεινε απ' αυτούς <s>είναι</s> <s>ήταν</s> παραμένει μια απ' τις αγαπημένες μου μπάντες. Περισσότερα για KTAOABC στα [τετελεσμένα του incubate](/music/review/incubate-2015){:target="_blank"}.
 
 Το καπέλο ξαναβγαίνει και για τον/την [@asilverhomeghost](http://asilverhomeghost.tumblr.com/post/134405303877/best-music-of-2015-19-susanne-sundf%C3%B8r-ten){:target="_blank"} που επιλέγει την αγαπημένη Νορβηγίδα (με γιώτα γράφεται;) Susanne Sundfør. 
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.19 - The Twilight Sad - Nobody Wants To Be Here And Nobody Wants To Leave](/music/blogovision/blogovision2014/blogovision2014-no19/){:target="_blank"}
-* 2013 [No.19 - Vàli - Skoglandskap](/music/blogovision/blogovision2013/blogovision2013-no19/){:target="_blank"}
+* 2014 [No.19 - The Twilight Sad - Nobody Wants To Be Here And Nobody Wants To Leave](/music/blogovision/blogovision2014/blogovision2014-no19){:target="_blank"}
+* 2013 [No.19 - Vàli - Skoglandskap](/music/blogovision/blogovision2013/blogovision2013-no19){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

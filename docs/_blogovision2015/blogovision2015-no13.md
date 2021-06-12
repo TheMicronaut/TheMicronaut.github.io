@@ -13,11 +13,11 @@ showexcerpt: true
 image:
   thumbnail: /images/posts/incubate2015/incu2015_22_low.jpg
 ---
-Όσο στο λαβύρινθο του μυαλού σου θα χορεύουν τα όνειρα κι επιθυμίες, εγώ παραμένω στο Βερολίνο παρέα με τον αγαπημένο Oskar Schuster  (*piano · minimal · ambient*). Ο κύριος Schuster τίμησε τη περσινή μου 'λίστα' με το [No.1](/music/blogovision/blogovision2014/blogovision2014-no01/){:target="_blank"} και παράλληλα έκανε εκστρατεία στο Indiegogo για να συνθέσει το φετινό '*Tristesse Télescopique*'. Και χαίρομαι που πήρα μέρος, μιας και η προσπάθεια γέννησε ακόμη ένα φανταστικό album.
+Όσο στο λαβύρινθο του μυαλού σου θα χορεύουν τα όνειρα κι επιθυμίες, εγώ παραμένω στο Βερολίνο παρέα με τον αγαπημένο Oskar Schuster  (*piano · minimal · ambient*). Ο κύριος Schuster τίμησε τη περσινή μου 'λίστα' με το [No.1](/music/blogovision/blogovision2014/blogovision2014-no01){:target="_blank"} και παράλληλα έκανε εκστρατεία στο Indiegogo για να συνθέσει το φετινό '*Tristesse Télescopique*'. Και χαίρομαι που πήρα μέρος, μιας και η προσπάθεια γέννησε ακόμη ένα φανταστικό album.
 
 <iframe class="invisible center" width="70%" height="315" src="about:blank" data-src="https://www.youtube.com/embed/jdu_IQ6usq4" frameborder="0">&nbsp;</iframe>
 
-Δεν μπορώ να μεταδώσω τη μαγεία της μουσικής του. Εσύ όμως δεν έχεις παρά να κλείσεις τα μάτια και να χαθείς μέσα στον γεμάτο παιδική νοσταλγία ήχο. Κι όταν με το καλό ξαναβρεθείς,  διάβασε αν θες την κριτική του [acloselistener](http://acloserlisten.com/2015/08/30/oskar-schuster-tristesse-telescopique/){:target="_blank"}.  
+Δεν μπορώ να μεταδώσω τη μαγεία της μουσικής του. Εσύ όμως δεν έχεις παρά να κλείσεις τα μάτια και να χαθείς μέσα στον γεμάτο παιδική νοσταλγία ήχο. Κι όταν με το καλό ξαναβρεθείς,  διάβασε αν θες την κριτική του [acloselistener](http://acloserlisten.com/2015/08/30/oskar-schuster-tristesse-telescopique){:target="_blank"}.  
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=1231736051/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4085784279/transparent=true/" seamless><a href="http://shop.oskarschuster.com/album/tristesse-t-lescopique">Tristesse Télescopique by Oskar Schuster</a></iframe>
 
@@ -31,7 +31,7 @@ image:
 
 ##### Embrace The Glorious Outcast...
 
-Μια απ' τις αξέχαστες φετινές εμπειρίες θα μείνει κι η λειτουργία του King Dude (*americana · blues · alt-country · lo-fi*) να [τραγουδά](https://www.youtube.com/watch?v=BiSnI8vyxx0){:target="_blank"} μέσα σε εκκλησία. Έχω να σου μεταφέρω πως εκτός από φωνή έχει και πολύ καλή αίσθηση του χιούμορ. Περισσότερα στο review για το [incubate festival](/music/review/incubate-2015/){:target="_blank"}. Το φετινό του album  *Songs of Flesh & Blood - In The Key of Light* μου άρεσε πολύ και μακάρι να υπήρχε τρόπος να το χώσω κάπου στην εικοσάδα. 
+Μια απ' τις αξέχαστες φετινές εμπειρίες θα μείνει κι η λειτουργία του King Dude (*americana · blues · alt-country · lo-fi*) να [τραγουδά](https://www.youtube.com/watch?v=BiSnI8vyxx0){:target="_blank"} μέσα σε εκκλησία. Έχω να σου μεταφέρω πως εκτός από φωνή έχει και πολύ καλή αίσθηση του χιούμορ. Περισσότερα στο review για το [incubate festival](/music/review/incubate-2015){:target="_blank"}. Το φετινό του album  *Songs of Flesh & Blood - In The Key of Light* μου άρεσε πολύ και μακάρι να υπήρχε τρόπος να το χώσω κάπου στην εικοσάδα. 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4249202585/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1699390860/transparent=true/" seamless><a href="http://kingdude.bandcamp.com/album/songs-of-flesh-blood-in-the-key-of-light">Songs of Flesh &amp; Blood - In The Key of Light by King Dude</a></iframe>
  
@@ -50,16 +50,16 @@ image:
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.13 - MΟΝΟ - The Last Dawn](/music/blogovision/blogovision2014/blogovision2014-no13/){:target="_blank"}
-* 2013 [No.13 - Emily Jane White - Blood / Lines](/music/blogovision/blogovision2013/blogovision2013-no13/){:target="_blank"}
+* 2014 [No.13 - MΟΝΟ - The Last Dawn](/music/blogovision/blogovision2014/blogovision2014-no13){:target="_blank"}
+* 2013 [No.13 - Emily Jane White - Blood / Lines](/music/blogovision/blogovision2013/blogovision2013-no13){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

@@ -48,22 +48,22 @@ showexcerpt: true
 
 Ο [‏@Ruby](http://musiccomma.blogspot.nl/2015/12/rubys-16-moa-bones-spun.html){:target="_blank"} επιλέγει τους Έλληνες Moa Bones στο Νο.16 και αυτόματα κλέβει τη ματιά.
 
-O [@christos_michos](http://tospitimetaparaxena.blogspot.nl/2015/12/after-fall-100-albums-of-2105-15-lost.html){:target="_blank"} απ' το 'Σπίτι με τα Παράξενα' του [innersound-radio](http://innersound-radio.com/){:target="_blank"}, επιλέγει στο Νο.15 τις μουσικές του John Carpenter και προφανώς του βγάζουμε όλοι το καπέλο.
+O [@christos_michos](http://tospitimetaparaxena.blogspot.nl/2015/12/after-fall-100-albums-of-2105-15-lost.html){:target="_blank"} απ' το 'Σπίτι με τα Παράξενα' του [innersound-radio](http://innersound-radio.com){:target="_blank"}, επιλέγει στο Νο.15 τις μουσικές του John Carpenter και προφανώς του βγάζουμε όλοι το καπέλο.
 
 Φυσικά και δεν περιμένω τον Δεκέμβρη να επισκεφθώ το blog του [@giveitaspinGR](https://twitter.com/giveitaspinGR){:target="_blank"}. Το electro-nikaki σπινιάρει ασταμάτητα καθ' όλη τη χρονιά, κρατώντας τους αναγνώστες της ενήμερους.  Η ματιά κολλάει φυσικά σε [Dmitry Evgrafov (No.20)](http://www.giveitaspin.gr/2015/12/20-dmitry-evgrafov-collage-130701-fat.html){:target="_blank"} και [Larry Gus (Νο.16)](http://www.giveitaspin.gr/2015/12/16-larry-gus-i-need-new-eyes-dfa-records.html){:target="_blank"}. 
 
-Μάτια και στον [@triatetarta](https://triatetarta.wordpress.com/2015/12/06/%CE%B4%CE%B5%CE%BA%CE%B1%CF%80%CE%AD%CE%BD%CF%84%CE%B5-%CE%B8%CE%B1-%CE%AD%CF%87%CE%B5%CF%84%CE%B5-10s-%CE%B1%CE%BB%CE%BB%CE%AC-%CE%B8%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CE%B1%CE%BD-%CE%BD/){:target="_blank"}, ο οποίος στο Νο.15 αραδιάζει τις προσωπικές του φιλοδοξίες, αλλά παράλληλα μας συστήνει τις (φοβερές) ροκιές του Mikal Cronin.
+Μάτια και στον [@triatetarta](https://triatetarta.wordpress.com/2015/12/06/%CE%B4%CE%B5%CE%BA%CE%B1%CF%80%CE%AD%CE%BD%CF%84%CE%B5-%CE%B8%CE%B1-%CE%AD%CF%87%CE%B5%CF%84%CE%B5-10s-%CE%B1%CE%BB%CE%BB%CE%AC-%CE%B8%CE%B1-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-%CF%83%CE%B1%CE%BD-%CE%BD){:target="_blank"}, ο οποίος στο Νο.15 αραδιάζει τις προσωπικές του φιλοδοξίες, αλλά παράλληλα μας συστήνει τις (φοβερές) ροκιές του Mikal Cronin.
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.15 - Low roar - 0](/music/blogovision/blogovision2014/blogovision2014-no15/){:target="_blank"}
-* 2013 [No.15 - Torres - TORRES](/music/blogovision/blogovision2013/blogovision2013-no15/){:target="_blank"}
+* 2014 [No.15 - Low roar - 0](/music/blogovision/blogovision2014/blogovision2014-no15){:target="_blank"}
+* 2013 [No.15 - Torres - TORRES](/music/blogovision/blogovision2013/blogovision2013-no15){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

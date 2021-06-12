@@ -48,19 +48,19 @@ image:
 
 ##### <i class="fa fa-hand-o-right"></i> Eyez Οn...
 
-H [‏@vkotzia](https://suburbanwords.wordpress.com/2015/12/03/18-florence-the-machine-how-big-how-blue-how-beautiful/){:target="_blank"} επιλέγει στο Νο.18 την Florence, και θα της κλείσω το μάτι, μιας και συμφωνούμε.
+H [‏@vkotzia](https://suburbanwords.wordpress.com/2015/12/03/18-florence-the-machine-how-big-how-blue-how-beautiful){:target="_blank"} επιλέγει στο Νο.18 την Florence, και θα της κλείσω το μάτι, μιας και συμφωνούμε.
 
-O [@Ludens](http://homoludens.gr/homo-ludens-18-ane-brun-when-im-free/){:target="_blank"} επιλέγει το *When I'm Free* της επίσης αγαπημένης Νορβηγίδας (με γιώτα γράφεται το τσέκαρα) Ane Brun, και μ' αφήνει δίχως [λόγια](https://www.youtube.com/watch?v=1tHCe7yW3UY){:target="_blank"}... 
+O [@Ludens](http://homoludens.gr/homo-ludens-18-ane-brun-when-im-free){:target="_blank"} επιλέγει το *When I'm Free* της επίσης αγαπημένης Νορβηγίδας (με γιώτα γράφεται το τσέκαρα) Ane Brun, και μ' αφήνει δίχως [λόγια](https://www.youtube.com/watch?v=1tHCe7yW3UY){:target="_blank"}... 
 
 O [@gvak](http://voice-inertia.blogspot.nl/2015/12/blogovision-2015-18-nadine-shah-fast.html){:target="_blank"}-vgiwrgos επιλέγει Nadine Shah και οι επιλογές του μπαίνουν έτσι σε διαρκή καραντίνα.
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.18 - Esben and the Witch - A New Nature](/music/blogovision/blogovision2014/blogovision2014-no18/){:target="_blank"}
-* 2013 [No.18 - Low - The Invisible Way](/music/blogovision/blogovision2013/blogovision2013-no18/){:target="_blank"}
+* 2014 [No.18 - Esben and the Witch - A New Nature](/music/blogovision/blogovision2014/blogovision2014-no18){:target="_blank"}
+* 2013 [No.18 - Low - The Invisible Way](/music/blogovision/blogovision2013/blogovision2013-no18){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

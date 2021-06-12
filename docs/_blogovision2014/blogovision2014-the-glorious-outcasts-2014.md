@@ -16,7 +16,7 @@ hidelogo: true
 	<a href="{{ site.external_data_url }}/images/posts/WeAreTheOutcasts.jpg"><img src="{{ site.external_data_url }}/images/posts/WeAreTheOutcasts.jpg" alt="We-Are-The-Outcasts-Image" class="center"/></a>
 </figure>
 
-Όσο μεγαλώνω τόσο βγάζω τα rock και τα punk και φοράω τα folk και τα minimal. Έχει να κάνει με τη βιολογική ηλικία του αυτιού μου άραγε; Ή μήπως γερνάει το σύμπαν τριγύρω; To άλλο αστείο είναι πως όταν ακούς ένα μουσικό κομμάτι πολλές φορές, ακόμη κι όταν δε σε εντυπωσίασε στην αρχή, στο τέλος γίνεται συνήθεια και το αγαπάς. Πάντα με εξαιρέσεις βέβαια.  Τούτα δω τα άλμπουμ δυσκολεύτηκα λίγο να τα βγάλω απ' την πενηντάδα. Ολόκληρη η λίστα με φετινά αγαπημένα άλμπουμ [εδώ](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"}.
+Όσο μεγαλώνω τόσο βγάζω τα rock και τα punk και φοράω τα folk και τα minimal. Έχει να κάνει με τη βιολογική ηλικία του αυτιού μου άραγε; Ή μήπως γερνάει το σύμπαν τριγύρω; To άλλο αστείο είναι πως όταν ακούς ένα μουσικό κομμάτι πολλές φορές, ακόμη κι όταν δε σε εντυπωσίασε στην αρχή, στο τέλος γίνεται συνήθεια και το αγαπάς. Πάντα με εξαιρέσεις βέβαια.  Τούτα δω τα άλμπουμ δυσκολεύτηκα λίγο να τα βγάλω απ' την πενηντάδα. Ολόκληρη η λίστα με φετινά αγαπημένα άλμπουμ [εδώ](/music/blogovision/blogovision2014/complete-list-2014){:target="_blank"}.
 
 ### An alphabetic list of the outcasts (from my Top-50) for 2014
 
@@ -184,6 +184,6 @@ hidelogo: true
 <iframe width="560" height="315" src="//www.youtube.com/embed/45dOI0KxXZ0" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 #### Check also this…
-* [My own list of albums - 2014](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"}
-* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01/){:target="_blank"}
-* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
+* [My own list of albums - 2014](/music/blogovision/blogovision2014/complete-list-2014){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums){:target="_blank"}

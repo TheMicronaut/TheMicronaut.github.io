@@ -35,21 +35,21 @@ showexcerpt: true
 
 ##### <i class="fa fa-hand-o-right"></i> Eyez Οn...
 
-Ματιά στον [@triatetarta](https://triatetarta.wordpress.com/2015/12/09/%CE%B4%CF%8E%CE%B4%CE%B5%CE%BA%CE%B1-%CF%84%CE%BF-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1-8-8-8/){:target="_blank"} που επιλέγει για Νο.12 μπανιέρα και Max Richter, αλλά και στη [@missmagicalex](http://missmagicalex.tumblr.com/post/134852048049/blogovision-2015-no12-julia-holter-have-you){:target="_blank"} που επιλέγει στο No.12 Julia Holter. Αγαπημένα και τα δύο.
+Ματιά στον [@triatetarta](https://triatetarta.wordpress.com/2015/12/09/%CE%B4%CF%8E%CE%B4%CE%B5%CE%BA%CE%B1-%CF%84%CE%BF-%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1-8-8-8){:target="_blank"} που επιλέγει για Νο.12 μπανιέρα και Max Richter, αλλά και στη [@missmagicalex](http://missmagicalex.tumblr.com/post/134852048049/blogovision-2015-no12-julia-holter-have-you){:target="_blank"} που επιλέγει στο No.12 Julia Holter. Αγαπημένα και τα δύο.
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.12 - Bird - My Fear & Me](/music/blogovision/blogovision2014/blogovision2014-no12/){:target="_blank"}
-* 2013 [No.12 - Arctic Monkeys - AM](/music/blogovision/blogovision2013/blogovision2013-no12/){:target="_blank"}
+* 2014 [No.12 - Bird - My Fear & Me](/music/blogovision/blogovision2014/blogovision2014-no12){:target="_blank"}
+* 2013 [No.12 - Arctic Monkeys - AM](/music/blogovision/blogovision2013/blogovision2013-no12){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13/){:target="_blank"}
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

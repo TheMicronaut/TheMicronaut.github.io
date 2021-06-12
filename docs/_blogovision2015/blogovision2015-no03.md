@@ -11,7 +11,7 @@ author: Micronaut
 hidelogo: true
 showexcerpt: true
 ---
->&ldquo;There's a vast landscape in Abyss, but most times it's too dark to be certain of what you see. That wavering imagery, an intentional creative choice, gives the album room to swell with personalized monsters.&rdquo; -- [Consequence Of Sound](http://consequenceofsound.net/2015/07/album-review-chelsea-wolfe-abyss/){:target="_blank"}
+>&ldquo;There's a vast landscape in Abyss, but most times it's too dark to be certain of what you see. That wavering imagery, an intentional creative choice, gives the album room to swell with personalized monsters.&rdquo; -- [Consequence Of Sound](http://consequenceofsound.net/2015/07/album-review-chelsea-wolfe-abyss){:target="_blank"}
 
 >&ldquo;Go on, drive into the morning<br/>
 >Never give up<br/>
@@ -53,32 +53,32 @@ showexcerpt: true
 
 ##### <i class="fa fa-hand-o-right"></i> Eyez Οn...
 
-Ματιά στον [@triatetarta](https://triatetarta.wordpress.com/2015/12/18/%CF%84%CF%81%CE%AF%CE%B1-%CE%BF%CE%B9-%CE%B6%CF%89%CE%AD%CF%82-%CF%84%CF%89%CE%BD-%CE%AC%CE%BB%CE%BB%CF%89%CE%BD/){:target="_blank"} για την Chelsea και τα γραφόμενα του στο Νο.04 και τους αγαπημένους Other Lives στο Νο.03.
+Ματιά στον [@triatetarta](https://triatetarta.wordpress.com/2015/12/18/%CF%84%CF%81%CE%AF%CE%B1-%CE%BF%CE%B9-%CE%B6%CF%89%CE%AD%CF%82-%CF%84%CF%89%CE%BD-%CE%AC%CE%BB%CE%BB%CF%89%CE%BD){:target="_blank"} για την Chelsea και τα γραφόμενα του στο Νο.04 και τους αγαπημένους Other Lives στο Νο.03.
 
 Ματιά και στον [@latenighter](http://latenighters-show.tumblr.com/post/135436706726/blogovision-2015-no-03){:target="_blank"} που ορίζει νέα μετρική στην ούτως ή άλλως δική του άλγεβρα (1+6=3) και την επιλογή των Low στο Νο.03
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.03 - Crippled Black Phoenix - White Light Generator](/music/blogovision/blogovision2014/blogovision2014-no03/){:target="_blank"}
-* 2013 [No.03 - Chelsea Wolfe - Pain is Beauty](/music/blogovision/blogovision2013/blogovision2013-no03/){:target="_blank"}
+* 2014 [No.03 - Crippled Black Phoenix - White Light Generator](/music/blogovision/blogovision2014/blogovision2014-no03){:target="_blank"}
+* 2013 [No.03 - Chelsea Wolfe - Pain is Beauty](/music/blogovision/blogovision2013/blogovision2013-no03){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.04 - Kristin McClement - The Wild Grips](/music/blogovision/blogovision2015/blogovision2015-no04/){:target="_blank"}
-* [No.05 - Kathryn Joseph - Bones You Have Thrown Me And Blood I've Spilled](/music/blogovision/blogovision2015/blogovision2015-no05/){:target="_blank"}
-* [No.06 - Julia Kent - Asperities](/music/blogovision/blogovision2015/blogovision2015-no06/){:target="_blank"}
-* [No.07 - Natural Snow Buildings - Terror's Horns](/music/blogovision/blogovision2015/blogovision2015-no07/){:target="_blank"}
-* [No.08 - Editors - In Dream](/music/blogovision/blogovision2015/blogovision2015-no08/){:target="_blank"}
-* [No.09 - Nadine Shah - Fast Food](/music/blogovision/blogovision2015/blogovision2015-no09/){:target="_blank"}
-* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10/){:target="_blank"}
-* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11/){:target="_blank"}
-* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12/){:target="_blank"}
-* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13/){:target="_blank"}
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.04 - Kristin McClement - The Wild Grips](/music/blogovision/blogovision2015/blogovision2015-no04){:target="_blank"}
+* [No.05 - Kathryn Joseph - Bones You Have Thrown Me And Blood I've Spilled](/music/blogovision/blogovision2015/blogovision2015-no05){:target="_blank"}
+* [No.06 - Julia Kent - Asperities](/music/blogovision/blogovision2015/blogovision2015-no06){:target="_blank"}
+* [No.07 - Natural Snow Buildings - Terror's Horns](/music/blogovision/blogovision2015/blogovision2015-no07){:target="_blank"}
+* [No.08 - Editors - In Dream](/music/blogovision/blogovision2015/blogovision2015-no08){:target="_blank"}
+* [No.09 - Nadine Shah - Fast Food](/music/blogovision/blogovision2015/blogovision2015-no09){:target="_blank"}
+* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10){:target="_blank"}
+* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11){:target="_blank"}
+* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12){:target="_blank"}
+* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

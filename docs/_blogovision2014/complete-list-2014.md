@@ -18,12 +18,12 @@ hidelogo: true
 
 Στην αλφαβητική λίστα με τα <del>76</del> 78 άλμπουμ που ακολουθεί, η στήλη με το είδος μουσικής είναι μια δική μου απεγνωσμένη προσπάθεια, να βάλω σε καλούπι τις μουσικές. Το χρειάζομαι αυτό γιατί έτσι μπορώ να ανακαλύπτω νέους καλλιτέχνες κι ακούσματα. Καμιά φορά το καλούπωμα δουλεύει, μα τις περισσότερες φορές μοιάζει σαν να προσπαθεί κανείς να περιγράψει ένα πίνακα ζωγραφικής, ταξινομώντας τα χρώματα που χρησιμοποίησε ο ζωγράφος. Με μια γρήγορη ματιά, μάλλον θα καταλάβεις πως τα χρώματα που με ελκύουν είναι τα σκούρα και μελαγχολικά κι άλλες φορές τα ταξιδιάρικα.
 
-Δυστυχώς είναι απ΄τους κανόνες του παιχνιδιού (βλέπε [blogovision](https://gone4sure.wordpress.com/2014/11/03/blogovision-2014-a-fine-mess/){:target="_blank"}) να μην λαμβάνονται υπ' όψιν άλμπουμ διάρκειας μικρότερης των 30 λεπτών (πχ ΕPs) και με λιγότερα από 6 κομμάτια. Υπήρχαν αρκετά τέτοια φέτος που θα ήθελα να μοιραστώ. Μερικά απ' αυτά τα αναφέρω σε ξεχωριστό πίνακα, παρακάτω.
+Δυστυχώς είναι απ΄τους κανόνες του παιχνιδιού (βλέπε [blogovision](https://gone4sure.wordpress.com/2014/11/03/blogovision-2014-a-fine-mess){:target="_blank"}) να μην λαμβάνονται υπ' όψιν άλμπουμ διάρκειας μικρότερης των 30 λεπτών (πχ ΕPs) και με λιγότερα από 6 κομμάτια. Υπήρχαν αρκετά τέτοια φέτος που θα ήθελα να μοιραστώ. Μερικά απ' αυτά τα αναφέρω σε ξεχωριστό πίνακα, παρακάτω.
 
 Αν έχεις να προτείνεις κάποιο άλμπουμ που λείπει απ' τη λίστα, αν έχεις κάποια διόρθωση ή αν απλά θες να μοιραστείς τις σκέψεις σου, άφησε ένα σχόλιο παρακάτω. Θα το εκτιμούσα βαθύτατα.
 
 (UPDATE:) 
-Added 1 album (by The Acid) in this list after the great recommendation by [screenmusicart](http://screenmusicart.tumblr.com/){:target="_blank"}. Thank You for this, screenmusicart.<br/>
+Added 1 album (by The Acid) in this list after the great recommendation by [screenmusicart](http://screenmusicart.tumblr.com){:target="_blank"}. Thank You for this, screenmusicart.<br/>
 (UPDATE2:)
 Bibio's album 'The Green EP' is disqualified since its duration is less than 30min; thus, it is removed from the main list and added to the EP's list.<br/>
 (UPDATE3:)
@@ -141,5 +141,5 @@ Added a new table with albums I only discovered the last minute. Unfortunately I
 </table>
 
 #Check also this…
-* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01/){:target="_blank"}
-* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums){:target="_blank"}

@@ -59,17 +59,17 @@ showexcerpt: true
 
 Τα μάτια πέφτουν και στον/στην [@darkenlight](http://darkenlight.tumblr.com/post/134519054910/no17-beirut-no-no-no){:target="_blank"} που δε διστάζει στο Νο.17 να πει No No No μαζί με τον αγαπημένο Beirut, παρόλο που δεν μπήκε καν στη σαραντάδα μου.
 
-Τέλος για άλλη μια φορά η [‏@vkotzia](https://suburbanwords.wordpress.com/2015/12/04/17-keep-shelly-in-athens-now-im-ready/){:target="_blank"} συναρπάζει επιλέγοντας στο No.17 Keep Shelly in Athens!
+Τέλος για άλλη μια φορά η [‏@vkotzia](https://suburbanwords.wordpress.com/2015/12/04/17-keep-shelly-in-athens-now-im-ready){:target="_blank"} συναρπάζει επιλέγοντας στο No.17 Keep Shelly in Athens!
 
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.17 - Her Name is Calla - Navigator](/music/blogovision/blogovision2014/blogovision2014-no17/){:target="_blank"}
-* 2013 [No.17 - Arcade Fire - Reflektor](/music/blogovision/blogovision2013/blogovision2013-no17/){:target="_blank"}
+* 2014 [No.17 - Her Name is Calla - Navigator](/music/blogovision/blogovision2014/blogovision2014-no17){:target="_blank"}
+* 2013 [No.17 - Arcade Fire - Reflektor](/music/blogovision/blogovision2013/blogovision2013-no17){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

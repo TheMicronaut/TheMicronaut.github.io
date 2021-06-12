@@ -25,13 +25,13 @@ Because... everyone wants to be somewhere.
 *Favorite tracks:*  There's A Girl In The Corner	 / In Nowheres / Nobody Wants to Be Here And Nobody Wants to Leave
 
 #### &#x261B; So far in patapodium...
-* [No 20 / The Antlers - Familiars](/music/blogovision/blogovision2014/blogovision2014-no20/){:target="_blank"}
+* [No 20 / The Antlers - Familiars](/music/blogovision/blogovision2014/blogovision2014-no20){:target="_blank"}
 
 #### &#x261B; Check also this…
-* [The Roaring Twenties - 2014](/music/blogovision/blogovision2014/blogovision2014-the-roaring-twenties/){:target="_blank"}
-* [The Dirty Thirties - 2014](/music/blogovision/blogovision2014/blogovision2014-the-dirty-thirties/){:target="_blank"}
-* [The Beauty Above 40 - 2014](/music/blogovision/blogovision2014/blogovision2014-the-beauty-above-40/){:target="_blank"}
-* [The Glorious Outcasts - 2014](/music/blogovision/blogovision2014/blogovision2014-the-glorious-outcasts-2014/){:target="_blank"}
-* [My own list of albums - 2014](/music/blogovision/blogovision2014/complete-list-2014/){:target="_blank"}
-* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01/){:target="_blank"}
-* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums/){:target="_blank"}
+* [The Roaring Twenties - 2014](/music/blogovision/blogovision2014/blogovision2014-the-roaring-twenties){:target="_blank"}
+* [The Dirty Thirties - 2014](/music/blogovision/blogovision2014/blogovision2014-the-dirty-thirties){:target="_blank"}
+* [The Beauty Above 40 - 2014](/music/blogovision/blogovision2014/blogovision2014-the-beauty-above-40){:target="_blank"}
+* [The Glorious Outcasts - 2014](/music/blogovision/blogovision2014/blogovision2014-the-glorious-outcasts-2014){:target="_blank"}
+* [My own list of albums - 2014](/music/blogovision/blogovision2014/complete-list-2014){:target="_blank"}
+* [#Blogovision: My No.1 for 2013](/music/blogovision/blogovision2013/blogovision2013-no01){:target="_blank"}
+* [#Blogovision : The list of 2013 albums](/music/blogovision/blogovision2013/blogovision-my-own-list-of-2013-nominees-albums){:target="_blank"}

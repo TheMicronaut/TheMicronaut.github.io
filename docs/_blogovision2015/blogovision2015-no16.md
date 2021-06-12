@@ -60,21 +60,21 @@ Driiiiin, driiiiiiiiin!<br/>
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=738320848/size=small/bgcol=ffffff/linkcol=0687f5/track=3655336974/transparent=true/" seamless><a href="http://spoekraket.bandcamp.com/album/in-a-witch-forest">In A Witch Forest by Spökraket</a></iframe>
 
-O [@Solenanthus](https://solenanthus.wordpress.com/2015/12/05/16-chelsea-wolfe-abyss/){:target="_blank"} βάζει την άβυσσο της Chelsea Wolfe στο Νο.16 καταρρίπτοντας έτσι την άποψη μου πως η Chelsea ή λατρεύεται ή δεν ανέχεται.
+O [@Solenanthus](https://solenanthus.wordpress.com/2015/12/05/16-chelsea-wolfe-abyss){:target="_blank"} βάζει την άβυσσο της Chelsea Wolfe στο Νο.16 καταρρίπτοντας έτσι την άποψη μου πως η Chelsea ή λατρεύεται ή δεν ανέχεται.
 
 Τα μάτια πέφτουν και στην [@ste_pl](http://avatonkortez.blogspot.nl/2015/12/to-16-stepl.html){:target="_blank"} που αποφασίζει πως στο φαστ φουντ της Nadine Shah πρέπει το Νο.16, αν και θα συμφωνήσω σε αρκετά σημεία της.
 
-Μάτια και στο [TopLists](http://post-it-lists.tumblr.com/post/134549380147/17-torres-sprinter){:target="_blank"} που επιλέγει για No.17 το Sprinter της Torres, μιας και η παρουσία της στο [Incubate festival](/music/review/incubate-2015/){:target="_blank"} μου άρεσε αρκετά.
+Μάτια και στο [TopLists](http://post-it-lists.tumblr.com/post/134549380147/17-torres-sprinter){:target="_blank"} που επιλέγει για No.17 το Sprinter της Torres, μιας και η παρουσία της στο [Incubate festival](/music/review/incubate-2015){:target="_blank"} μου άρεσε αρκετά.
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.16 - Angel Olsen - Burn Your Fire for No Witness](/music/blogovision/blogovision2014/blogovision2014-no16/){:target="_blank"}
-* 2013 [No.16 - Haruko - Feathers And Driftwood](/music/blogovision/blogovision2013/blogovision2013-no16/){:target="_blank"}
+* 2014 [No.16 - Angel Olsen - Burn Your Fire for No Witness](/music/blogovision/blogovision2014/blogovision2014-no16){:target="_blank"}
+* 2013 [No.16 - Haruko - Feathers And Driftwood](/music/blogovision/blogovision2013/blogovision2013-no16){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

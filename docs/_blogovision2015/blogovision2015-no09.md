@@ -17,7 +17,7 @@ image:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4168697073/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=4268255693/transparent=true/" seamless><a href="http://nadineshah.bandcamp.com/album/fast-food">Fast Food by Nadine Shah</a></iframe>
 
-Η νορβηγοπακιστανοαγγλίδα (*alternative · indie*) έχει παρελάσει στον 10ο τόμο της σειράς [Life Is a Waltz](https://www.mixcloud.com/MoonlightFairyTales/life-is-a-waltz-vol10-the-werewolfs-curse/){:target="_blank"} με το ανάρπαστο βαλσάκι της *Dreary Town*. Η φωνή της εντυπωσιακή όσο και ο ήχος της μουσικής της, και κανένα παραπάνω σχόλιο γι' αυτό της το χάρισμα. Το φετινό της album δεν θα καταγραφόταν στα μικροναυτικά αν δεν επέμενε o Μr. Sounds in Motion - aka [Spyros Limnaios](https://www.mixcloud.com/spiros-limnaios){:target="_blank"} - με τις υπέροχες μουσικές του και τα ιδιαίτερα αφιερώματα του, τις Πέμπτες τα βράδια στον [Innersound-radio](http://innersound-radio.com/){:target="_blank"}. Σπύρο, χρόνια καλά για τη γιορτή σου!
+Η νορβηγοπακιστανοαγγλίδα (*alternative · indie*) έχει παρελάσει στον 10ο τόμο της σειράς [Life Is a Waltz](https://www.mixcloud.com/MoonlightFairyTales/life-is-a-waltz-vol10-the-werewolfs-curse){:target="_blank"} με το ανάρπαστο βαλσάκι της *Dreary Town*. Η φωνή της εντυπωσιακή όσο και ο ήχος της μουσικής της, και κανένα παραπάνω σχόλιο γι' αυτό της το χάρισμα. Το φετινό της album δεν θα καταγραφόταν στα μικροναυτικά αν δεν επέμενε o Μr. Sounds in Motion - aka [Spyros Limnaios](https://www.mixcloud.com/spiros-limnaios){:target="_blank"} - με τις υπέροχες μουσικές του και τα ιδιαίτερα αφιερώματα του, τις Πέμπτες τα βράδια στον [Innersound-radio](http://innersound-radio.com){:target="_blank"}. Σπύρο, χρόνια καλά για τη γιορτή σου!
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4168697073/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1205144353/transparent=true/" seamless><a href="http://nadineshah.bandcamp.com/album/fast-food">Fast Food by Nadine Shah</a></iframe>
 
@@ -41,7 +41,7 @@ image:
 
 ##### Embrace The Glorious Outcast...
 
-Τους Lord Huron (*indie-pop · folk · indie*) αν δεν απατώμαι τους γνωρίζω απ' τις εξαίσιες μουσικές επιλογές της συνταξιδιώτισσας του ωκεανού [Anna Alverti](https://www.mixcloud.com/annaalverti102/){:target="_blank"} που είχε τη γιορτή της το Δεκέμβρη στις 9. Όπως και με τον κ. Patrick Watson, έτσι και εδώ δεν κατάφερα να ακούσω ολόκληρο το νέο τους album *Strange Trails*, και δυστυχώς έτσι βγαίνει απ' τις λίστες (νευρικό γέλιο...). Βάλσαμο και το παρακάτω βαλσάκι τους:
+Τους Lord Huron (*indie-pop · folk · indie*) αν δεν απατώμαι τους γνωρίζω απ' τις εξαίσιες μουσικές επιλογές της συνταξιδιώτισσας του ωκεανού [Anna Alverti](https://www.mixcloud.com/annaalverti102){:target="_blank"} που είχε τη γιορτή της το Δεκέμβρη στις 9. Όπως και με τον κ. Patrick Watson, έτσι και εδώ δεν κατάφερα να ακούσω ολόκληρο το νέο τους album *Strange Trails*, και δυστυχώς έτσι βγαίνει απ' τις λίστες (νευρικό γέλιο...). Βάλσαμο και το παρακάτω βαλσάκι τους:
 
 <iframe class="invisible center" width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/UmtCz1a3ikc" frameborder="0">&nbsp;</iframe>
 
@@ -49,13 +49,13 @@ image:
 
 ##### <i class="fa fa-hand-o-right"></i> Eyez Οn...
 
-Ματιά στον  [@gone4sure](https://gone4sure.wordpress.com/2015/12/12/09-father-john-misty-richard-hawley/){:target="_blank"}  που στο No.09 επιλέγει  Father John Misty και το  *I Love You Honeybear*
+Ματιά στον  [@gone4sure](https://gone4sure.wordpress.com/2015/12/12/09-father-john-misty-richard-hawley){:target="_blank"}  που στο No.09 επιλέγει  Father John Misty και το  *I Love You Honeybear*
 
 Ματιά και στον[@GSfiltros ](http://niouslete.blogspot.nl/2015/12/neun-9-of-monsters-and-men-beneath-skin.html?spref=tw){:target="_blank"} που στο No.09 επιλέγει τους γεμάτους ενέργεια Of Monsters And Men.
 
 Ο [@kostask](http://giotatrelokomeio.blogspot.nl/2015/12/11-sexwitch-swxitch.html){:target="_blank"} επιλέγει στο Νο.10 τους αμερικανούς Ceremony (punk rock ·  post-punk) με το φετινό τους *The L Shaped Man*, μια πολύ ευχάριστη έκπληξη στις μπλογκολίστες.
  
-Τέλος το καπέλο βγαίνει για το blog [muziekliefhebster](https://muziekliefhebster.wordpress.com/2015/12/12/9-soley-ask-the-deep/){:target="_blank"} που επιλέγει το νέο album *Ask The Deep* της αγαπημένης Sóley, το οποίο αν και άκουσα σχεδόν ολόκληρο live στο [Incubate Festival](/music/review/incubate-2015/){:target="_blank"}, δεν κατάφερα να το ακούσω studio και συνεπώς δεν καταχωρήθηκε στις λίστες... 
+Τέλος το καπέλο βγαίνει για το blog [muziekliefhebster](https://muziekliefhebster.wordpress.com/2015/12/12/9-soley-ask-the-deep){:target="_blank"} που επιλέγει το νέο album *Ask The Deep* της αγαπημένης Sóley, το οποίο αν και άκουσα σχεδόν ολόκληρο live στο [Incubate Festival](/music/review/incubate-2015){:target="_blank"}, δεν κατάφερα να το ακούσω studio και συνεπώς δεν καταχωρήθηκε στις λίστες... 
 
 <div class="invisible">
 <figure class="half">
@@ -67,20 +67,20 @@ image:
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.09 - Yann Tiersen - ∞](/music/blogovision/blogovision2014/blogovision2014-no09/){:target="_blank"}
-* 2013 [No.09 - Laura Marling - Once I Was an Eagle](/music/blogovision/blogovision2013/blogovision2013-no09/){:target="_blank"}
+* 2014 [No.09 - Yann Tiersen - ∞](/music/blogovision/blogovision2014/blogovision2014-no09){:target="_blank"}
+* 2013 [No.09 - Laura Marling - Once I Was an Eagle](/music/blogovision/blogovision2013/blogovision2013-no09){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10/){:target="_blank"}
-* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11/){:target="_blank"}
-* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12/){:target="_blank"}
-* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13/){:target="_blank"}
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10){:target="_blank"}
+* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11){:target="_blank"}
+* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12){:target="_blank"}
+* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}

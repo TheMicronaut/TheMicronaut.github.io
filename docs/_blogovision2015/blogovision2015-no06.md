@@ -15,7 +15,7 @@ showexcerpt: true
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3258924639/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://music.juliakent.com/album/asperities">Asperities by Julia Kent</a></iframe>
 
->&ldquo;Kent has unlocked the formula through which her already expressive musicianship can be understood on its own terms. She no longer needs Antony's (ed. and the Johnsons) words or the audienc's associations tied to airport sounds; she has created a language all her own.&rdquo; -- [Consequence of Sound](http://consequenceofsound.net/2015/11/album-review-julia-kent-asperities/){:target="_blank"}
+>&ldquo;Kent has unlocked the formula through which her already expressive musicianship can be understood on its own terms. She no longer needs Antony's (ed. and the Johnsons) words or the audienc's associations tied to airport sounds; she has created a language all her own.&rdquo; -- [Consequence of Sound](http://consequenceofsound.net/2015/11/album-review-julia-kent-asperities){:target="_blank"}
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=3258924639/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1506043906/transparent=true/" seamless><a href="http://music.juliakent.com/album/asperities">Asperities by Julia Kent</a></iframe>
 
@@ -58,23 +58,23 @@ showexcerpt: true
 
 ##### <i class="fa fa-hand-o-right"></i> Same Place Many Moons Ago...
 
-* 2014 [No.06 - Electric Litany - Enduring Days You Will Overcome](/music/blogovision/blogovision2014/blogovision2014-no06/){:target="_blank"}
-* 2013 [No.06 - Phosphorescent - Muchacho](/music/blogovision/blogovision2013/blogovision2013-no06/){:target="_blank"}
+* 2014 [No.06 - Electric Litany - Enduring Days You Will Overcome](/music/blogovision/blogovision2014/blogovision2014-no06){:target="_blank"}
+* 2013 [No.06 - Phosphorescent - Muchacho](/music/blogovision/blogovision2013/blogovision2013-no06){:target="_blank"}
 
 ##### <i class="fa fa-hand-o-right"></i> And The Lists keep Growing...
 
-* [No.07 - Natural Snow Buildings - Terror's Horns](/music/blogovision/blogovision2015/blogovision2015-no07/){:target="_blank"}
-* [No.08 - Editors - In Dream](/music/blogovision/blogovision2015/blogovision2015-no08/){:target="_blank"}
-* [No.09 - Nadine Shah - Fast Food](/music/blogovision/blogovision2015/blogovision2015-no09/){:target="_blank"}
-* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10/){:target="_blank"}
-* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11/){:target="_blank"}
-* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12/){:target="_blank"}
-* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13/){:target="_blank"}
-* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14/){:target="_blank"}
-* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15/){:target="_blank"}
-* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16/){:target="_blank"}
-* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17/){:target="_blank"}
-* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18/){:target="_blank"}
-* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19/){:target="_blank"}
-* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20/){:target="_blank"}
-* [All Albums](/music/albums/2015/){:target="_blank"}
+* [No.07 - Natural Snow Buildings - Terror's Horns](/music/blogovision/blogovision2015/blogovision2015-no07){:target="_blank"}
+* [No.08 - Editors - In Dream](/music/blogovision/blogovision2015/blogovision2015-no08){:target="_blank"}
+* [No.09 - Nadine Shah - Fast Food](/music/blogovision/blogovision2015/blogovision2015-no09){:target="_blank"}
+* [No.10 - Last Harbour - Caul](/music/blogovision/blogovision2015/blogovision2015-no10){:target="_blank"}
+* [No.11 - House of Wolves - Daughter of the Sea](/music/blogovision/blogovision2015/blogovision2015-no11){:target="_blank"}
+* [No.12 - Circuit des Yeux - In Plain Speech](/music/blogovision/blogovision2015/blogovision2015-no12){:target="_blank"}
+* [No.13 - Oskar Schuster - Tristesse Télescopique](/music/blogovision/blogovision2015/blogovision2015-no13){:target="_blank"}
+* [No.14 - Hior Chronik - Taking the Veil](/music/blogovision/blogovision2015/blogovision2015-no14){:target="_blank"}
+* [No.15 - The Kindling - By Morning](/music/blogovision/blogovision2015/blogovision2015-no15){:target="_blank"}
+* [No.16 - Low - Ones and sixes](/music/blogovision/blogovision2015/blogovision2015-no16){:target="_blank"}
+* [No.17 - Sangre de Muerdago - O Camiño das Mans Valeiras](/music/blogovision/blogovision2015/blogovision2015-no17){:target="_blank"}
+* [No.18 - Of Monsters and Men - Beneath The Skin](/music/blogovision/blogovision2015/blogovision2015-no18){:target="_blank"}
+* [No.19 - The Black Heart Rebellion - People, when you see the smoke, do not think it is fields they're burning](/music/blogovision/blogovision2015/blogovision2015-no19){:target="_blank"}
+* [No.20 - Sons of Perdition and Jaran Hereid - Fossils](/music/blogovision/blogovision2015/blogovision2015-no20){:target="_blank"}
+* [All Albums](/music/albums/2015){:target="_blank"}
