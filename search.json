@@ -3,7 +3,9 @@ sitemap: false
 ---
 
 [
-{% for post in site.posts %}
+{% for collection in site.collections %}
+{% assign posts = site[collection.label] %}
+{% for post in posts %}
   {% if post.title != null and post.title != empty and post.search_omit != true %}
     {% if forloop.index > 1 %},{% endif %}{
       "title"         : {{ post.title | jsonify }},
@@ -15,6 +17,7 @@ sitemap: false
       "tags"        : "{{ post.tags  | join: ' ' }}"
     }
   {% endif %}
+{% endfor %}
 {% endfor %}
 
 {% for page in site.pages %}
