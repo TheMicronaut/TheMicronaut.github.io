@@ -57,6 +57,18 @@ defaults:
   
 # Add you collections here.
 collections:
+  blogovision2013:
+    output: true
+    permalink: /music/blogovision/:collection/:path
+  blogovision2014:
+    output: true
+    permalink: /music/blogovision/:collection/:path
+  blogovision2015:
+    output: true
+    permalink: /music/blogovision/:collection/:path
+  blogovision2017:
+    output: true
+    permalink: /music/blogovision/:collection/:path            
 
 kramdown:
   input: GFM

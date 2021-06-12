@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tick of the clock
+title: The end is the beginning is the end
 excerpt: "The end is the beginning is the end"
-date: '2018-04-10T18:00:00+01:00'
+date: '2020-09-26T18:00:00+01:00'
 enable_chat: true
 hidelogo: true
 permalink: '/clock/'
@@ -65,7 +65,7 @@ function draw(now) {
 	drawCircle(centerX, centerY, 95, 0, Math.PI * 2, false, '#ffffff', 'fill', '50'); //inner
 	drawText(`${hr.toString().length == 1?'0'+hr:hr}:${min.toString().length == 1?'0'+min:min}:${sec.toString().length == 1?'0'+sec:sec}`, canvas.width / 2 - 63, canvas.height / 2 + 15, '#000000', '40px');
 	drawText(amOrPm, canvas.width / 2 - 15, canvas.height / 2 + 50, '#000000', '25px');
-    ctx.drawImage(backgroundImage, -5, -5, canvas.width+10, canvas.height+10);
+    ctx.drawImage(backgroundImage, -5, -5, canvas.width+10, canvas.height+10);    
     window.requestAnimationFrame(draw);
 }
 
