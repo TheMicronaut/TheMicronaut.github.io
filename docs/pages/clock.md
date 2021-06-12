@@ -5,6 +5,7 @@ excerpt: "The end is the beginning is the end"
 date: '2020-09-26T18:00:00+01:00'
 enable_chat: true
 hidelogo: true
+search_omit: true
 permalink: '/clock/'
 ---
 <figure class="center" title="Εν το παν και δι' αυτού το παν και εις αυτό το παν, και ει μη έχοι το παν, ουδέν έστι το παν.">
