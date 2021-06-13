@@ -96,7 +96,8 @@ function toggleLoadingClass() {
  * @return null
  */
 function getSearchResults(callbackFunction) {
-    $.get(BASE_URL + jsonFeedUrl, callbackFunction, 'json');
+	var url = location.protocol+'//'+location.hostname+(location.port ? ':'+location.port: '');
+    $.get(url + jsonFeedUrl, callbackFunction, 'json');
 }
 
 
