@@ -19,4 +19,9 @@ sitemap: false
   "link": "{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}",
   "date": {{ page.date | jsonify }},
   "excerpt": "{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once | remove: '\[' | remove: '\]' | remove: '\(' | remove: '\)' }}"
-},{%endif%}{% endfor %}]
+},{%endif%}{% endfor %}{
+  "title": "",
+  "link": "",
+  "date": "",
+  "excerpt": ""
+}]
