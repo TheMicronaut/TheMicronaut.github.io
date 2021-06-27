@@ -1,9 +1,9 @@
 ---
 layout: page
-title: BLOGOVISION
-categories: [blogovision]
+title: All Blogovision entries
+categories: [music]
+tags: [blogovision, blogovision2013, blogovision2014, blogovision2015, blogovision2017]
 permalink: '/blogovision/'
-search_omit: true
 hidelogo: true
 ---
 * [2013](/music/blogovision/blogovision2013){:target="_blank"}
