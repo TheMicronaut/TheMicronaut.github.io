@@ -68,7 +68,7 @@ collections:
     permalink: /music/blogovision/:collection/:path
   blogovision2017:
     output: true
-    permalink: /music/blogovision/:collection/:path            
+    permalink: /music/blogovision/:collection/:path
 
 kramdown:
   input: GFM
