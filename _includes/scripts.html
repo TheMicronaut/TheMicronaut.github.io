@@ -39,6 +39,17 @@
   ga('send', 'pageview');
 </script>
 {% endif %}
+{% if site.owner.google.measurementId %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.owner.google.measurementId }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ site.owner.google.measurementId }}');
+</script>
+{% endif %}
 <!-- Scroll effect for invisible & lazy elements -->
 <script type="text/javascript">
 /* Check the location of each 'invisible' element and make visible if needed*/
